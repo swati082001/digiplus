@@ -1,9 +1,2532 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+  "mobiles": [
+    {
+      "images": "https://m.media-amazon.com/images/I/71AvQd3VzqL._AC_UL320_.jpg",
+      "title": "OnePlus Nord CE 2 Lite 5G (Blue Tide, 6GB RAM, 128GB Storage)",
+      "rating": "4.3 out of 5 stars",
+      "stock": "103,981",
+      "price": "₹18,999",
+      "a-price-symbol": "₹",
+      " original_price": "₹19,999",
+      "discount": "(5% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/61ahn9N38zL._AC_UL320_.jpg",
+      "title": "OnePlus Nord 2T 5G (Jade Fog, 8GB RAM, 128GB Storage)",
+      "rating": "4.3 out of 5 stars",
+      "stock": "15,805",
+      "price": "₹28,999",
+      "a-price-symbol": "₹",
+      " original_price": "",
+      "discount": ""
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/71V--WZVUIL._AC_UL320_.jpg",
+      "title": "OnePlus Nord CE 2 Lite 5G (Black Dusk, 6GB RAM, 128GB Storage)",
+      "rating": "4.3 out of 5 stars",
+      "stock": "103,981",
+      "price": "₹18,999",
+      "a-price-symbol": "₹",
+      " original_price": "₹19,999",
+      "discount": "(5% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/617MPEZB5mL._AC_UL320_.jpg",
+      "title": "OnePlus Nord 2T 5G (Gray Shadow, 8GB RAM, 128GB Storage)",
+      "rating": "4.3 out of 5 stars",
+      "stock": "15,805",
+      "price": "₹28,999",
+      "a-price-symbol": "₹",
+      " original_price": "",
+      "discount": ""
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/61ahn9N38zL._AC_UL320_.jpg",
+      "title": "OnePlus Nord 2T 5G (Jade Fog, 12GB RAM, 256GB Storage)",
+      "rating": "4.3 out of 5 stars",
+      "stock": "15,805",
+      "price": "₹33,999",
+      "a-price-symbol": "₹",
+      " original_price": "",
+      "discount": ""
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/617MPEZB5mL._AC_UL320_.jpg",
+      "title": "OnePlus Nord 2T 5G (Gray Shadow, 12GB Storage, 256GB Storage)",
+      "rating": "4.3 out of 5 stars",
+      "stock": "15,805",
+      "price": "₹33,999",
+      "a-price-symbol": "₹",
+      " original_price": "",
+      "discount": ""
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/71CcsdfxMuL._AC_UL320_.jpg",
+      "title": "OnePlus Warp Charge Type-C Cable (100cm, Red)",
+      "rating": "4.2 out of 5 stars",
+      "stock": "1,666",
+      "price": "₹848",
+      "a-price-symbol": "₹",
+      " original_price": "",
+      "discount": ""
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/510+3Km7MtL._AC_UL320_.jpg",
+      "title": "OnePlus Nord Watch with 1.78” AMOLED Display, 60 Hz Refresh Rate, 105 Fitness Modes, 10 Days Battery, SPO2, Heart Rate, Stress Monitor, Women Health Tracker & Multiple Watch Face [Midnight Black]",
+      "rating": "3.8 out of 5 stars",
+      "stock": "577",
+      "price": "₹4,499",
+      "a-price-symbol": "₹",
+      " original_price": "₹6,999",
+      "discount": "(36% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/71flXufDnbL._AC_UL320_.jpg",
+      "title": "OnePlus 10T 5G (Jade Green, 8GB RAM, 128GB Storage)- Additional Exchange Offer INR 10,000 on iOS & OP Users",
+      "rating": "4.3 out of 5 stars",
+      "stock": "2,796",
+      "price": "₹49,999",
+      "a-price-symbol": "₹",
+      " original_price": "",
+      "discount": ""
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/71XKAnxCsLL._AC_UL320_.jpg",
+      "title": "OnePlus 10T 5G (Moonstone Black, 16GB RAM, 256GB Storage)- Additional Exchange Offer INR 10,000 on iOS & OP Users",
+      "rating": "4.3 out of 5 stars",
+      "stock": "2,796",
+      "price": "₹55,999",
+      "a-price-symbol": "₹",
+      " original_price": "",
+      "discount": ""
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/71flXufDnbL._AC_UL320_.jpg",
+      "title": "OnePlus 10T 5G (Jade Green, 12GB RAM, 256GB Storage)- Additional Exchange Offer INR 10,000 on iOS & OP Users",
+      "rating": "4.3 out of 5 stars",
+      "stock": "2,796",
+      "price": "₹54,999",
+      "a-price-symbol": "₹",
+      " original_price": "₹56,999",
+      "discount": ""
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/51Lums4VcgL._AC_UL320_.jpg",
+      "title": "OnePlus Nord Watch with 1.78” AMOLED Display, 60 Hz Refresh Rate, 105 Fitness Modes, 10 Days Battery, SPO2, Heart Rate, Stress Monitor, Women Health Tracker & Multiple Watch Faces [Deep Blue]",
+      "rating": "3.8 out of 5 stars",
+      "stock": "577",
+      "price": "₹4,499",
+      "a-price-symbol": "₹",
+      " original_price": "₹6,999",
+      "discount": "(36% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/71XKAnxCsLL._AC_UL320_.jpg",
+      "title": "OnePlus 10T 5G (Moonstone Black, 8GB RAM, 128GB Storage)- Additional Exchange Offer INR 10,000 on iOS & OP Users",
+      "rating": "4.3 out of 5 stars",
+      "stock": "2,796",
+      "price": "₹49,999",
+      "a-price-symbol": "₹",
+      " original_price": "₹56,999",
+      "discount": ""
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/71QM25exIQL._AC_UL320_.jpg",
+      "title": "OnePlus Type-C to 3.5mm Adapter (White)",
+      "rating": "3.9 out of 5 stars",
+      "stock": "834",
+      "price": "₹389",
+      "a-price-symbol": "₹",
+      " original_price": "",
+      "discount": ""
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/618hqM-yxtL._AC_UL320_.jpg",
+      "title": "OnePlus 10 Pro 5G (Emerald Forest, 8GB RAM, 128GB Storage)- Additional exchange offer INR 10,000 on IOS & OP Users",
+      "rating": "4.2 out of 5 stars",
+      "stock": "5,120",
+      "price": "₹61,999",
+      "a-price-symbol": "₹",
+      " original_price": "₹66,999",
+      "discount": "(7% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/61mIUCd-37L._AC_UL320_.jpg",
+      "title": "OnePlus 10 Pro 5G (Volcanic Black, 8GB RAM, 128GB Storage)- Additional exchange offer INR 10,000 on IOS & OP Users",
+      "rating": "4.2 out of 5 stars",
+      "stock": "5,120",
+      "price": "₹61,999",
+      "a-price-symbol": "₹",
+      " original_price": "₹66,999",
+      "discount": "(7% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/71XKAnxCsLL._AC_UL320_.jpg",
+      "title": "OnePlus 10T 5G (Moonstone Black, 12GB RAM, 256GB Storage)- Additional Exchange Offer INR 10,000 on iOS & OP Users",
+      "rating": "4.3 out of 5 stars",
+      "stock": "2,796",
+      "price": "₹54,999",
+      "a-price-symbol": "₹",
+      " original_price": "",
+      "discount": ""
+    },
+   
+    
+    {
+      "images": "https://m.media-amazon.com/images/I/51IhyjJyIpL._AC_UL320_.jpg",
+      "title": "(Renewed) OnePlus 5 (Slate Grey, 128GB)",
+      "rating": "3.2 out of 5 stars",
+      "stock": "451",
+      "price": "₹13,499",
+      "a-price-symbol": "₹",
+      " original_price": "₹36,999",
+      "discount": "(63% off)"
+    },
+   
+    {
+      "images": "https://m.media-amazon.com/images/I/81-fFXQdPTL._AC_UL320_.jpg",
+      "title": "Samsung Galaxy M13 (Aqua Green, 6GB, 128GB Storage) | 6000mAh Battery | Upto 12GB RAM with RAM Plus",
+      "rating": "4.0 out of 5 stars",
+      "stock": "16,884",
+      "price": "₹13,999",
+      "a-price-symbol": "₹",
+      " original_price": "₹17,999",
+      "discount": "(22% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/81lnKynSaqL._AC_UL320_.jpg",
+      "title": "Samsung Galaxy M33 5G (Emerald Brown, 6GB, 128GB Storage) | 6000mAh Battery | Upto 12GB RAM with RAM Plus | Travel Adapter to be Purchased Separately",
+      "rating": "4.1 out of 5 stars",
+      "stock": "21,080",
+      "price": "₹18,999",
+      "a-price-symbol": "₹",
+      " original_price": "₹24,999",
+      "discount": "(24% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/81xvGbBFNhL._AC_UL320_.jpg",
+      "title": "Samsung Galaxy M33 5G (Deep Ocean Blue, 6GB, 128GB Storage) | 6000mAh Battery | Upto 12GB RAM with RAM Plus | Travel Adapter to be Purchased Separately",
+      "rating": "4.1 out of 5 stars",
+      "stock": "21,080",
+      "price": "₹18,999",
+      "a-price-symbol": "₹",
+      " original_price": "₹24,999",
+      "discount": "(24% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/81-fFXQdPTL._AC_UL320_.jpg",
+      "title": "Samsung Galaxy M13 (Aqua Green, 4GB, 64GB Storage) | 6000mAh Battery | Upto 8GB RAM with RAM Plus",
+      "rating": "4.0 out of 5 stars",
+      "stock": "16,884",
+      "price": "₹11,999",
+      "a-price-symbol": "₹",
+      " original_price": "₹14,999",
+      "discount": "(20% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/812YsUxpyfL._AC_UL320_.jpg",
+      "title": "Samsung Galaxy M13 (Midnight Blue, 6GB, 128GB Storage) | 6000mAh Battery | Upto 12GB RAM with RAM Plus",
+      "rating": "4.0 out of 5 stars",
+      "stock": "16,884",
+      "price": "₹13,999",
+      "a-price-symbol": "₹",
+      " original_price": "₹17,999",
+      "discount": "(22% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/812YsUxpyfL._AC_UL320_.jpg",
+      "title": "Samsung Galaxy M13 (Midnight Blue, 4GB, 64GB Storage) | 6000mAh Battery | Upto 8GB RAM with RAM Plus",
+      "rating": "4.0 out of 5 stars",
+      "stock": "16,884",
+      "price": "₹11,999",
+      "a-price-symbol": "₹",
+      " original_price": "₹14,999",
+      "discount": "(20% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/81I3w4J6yjL._AC_UL320_.jpg",
+      "title": "Samsung Galaxy M33 5G (Mystique Green, 6GB, 128GB Storage) | 6000mAh Battery | Upto 12GB RAM with RAM Plus | Travel Adapter to be Purchased Separately",
+      "rating": "4.1 out of 5 stars",
+      "stock": "21,080",
+      "price": "₹18,999",
+      "a-price-symbol": "₹",
+      " original_price": "₹24,999",
+      "discount": "(24% off)"
+    },
+    
+    {
+      "images": "https://m.media-amazon.com/images/I/81Prc5i7hML._AC_UL320_.jpg",
+      "title": "Samsung Galaxy M13 (Stardust Brown, 6GB, 128GB Storage) | 6000mAh Battery | Upto 12GB RAM with RAM Plus",
+      "rating": "4.0 out of 5 stars",
+      "stock": "16,884",
+      "price": "₹13,999",
+      "a-price-symbol": "₹",
+      " original_price": "₹17,999",
+      "discount": "(22% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/81OC0ojxH6L._AC_UL320_.jpg",
+      "title": "Samsung Galaxy M32 Prime Edition (Light Blue, 4GB RAM, 64GB)",
+      "rating": "4.1 out of 5 stars",
+      "stock": "55,102",
+      "price": "₹13,499",
+      "a-price-symbol": "₹",
+      " original_price": "",
+      "discount": ""
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/81I3w4J6yjL._AC_UL320_.jpg",
+      "title": "Samsung Galaxy M33 5G (Mystique Green, 8GB, 128GB Storage) | 6000mAh Battery | Upto 16GB RAM with RAM Plus | Travel Adapter to be Purchased Separately",
+      "rating": "4.1 out of 5 stars",
+      "stock": "21,080",
+      "price": "₹20,499",
+      "a-price-symbol": "₹",
+      " original_price": "₹25,999",
+      "discount": "(21% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/61fkOHNmzpL._AC_UL320_.jpg",
+      "title": "Samsung EVO Plus 128GB microSDXC UHS-I U3 130MB/s Full HD & 4K UHD Memory Card with Adapter (MB-MC128KA), Blue",
+      "rating": "4.3 out of 5 stars",
+      "stock": "139,056",
+      "price": "₹1,149",
+      "a-price-symbol": "₹",
+      " original_price": "₹3,999",
+      "discount": "(71% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/61rnCkrurxL._AC_UL320_.jpg",
+      "title": "Samsung EVO Plus 64GB microSDXC UHS-I U1 130MB/s Full HD & 4K UHD Memory Card with Adapter (MB-MC64KA), Blue",
+      "rating": "4.3 out of 5 stars",
+      "stock": "139,056",
+      "price": "₹599",
+      "a-price-symbol": "₹",
+      " original_price": "₹1,899",
+      "discount": "(68% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/81lnKynSaqL._AC_UL320_.jpg",
+      "title": "Samsung Galaxy M33 5G (Emerald Brown, 8GB, 128GB Storage) | 6000mAh Battery | 16GB RAM with RAM Plus | Travel Adapter to be Purchased Separately",
+      "rating": "4.1 out of 5 stars",
+      "stock": "21,080",
+      "price": "₹20,499",
+      "a-price-symbol": "₹",
+      " original_price": "₹25,999",
+      "discount": "(21% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/21x1gw1geuL._AC_UL320_.jpg",
+      "title": "Samsung Original 25W USB Travel Adapter for Cellular Phones, Black",
+      "rating": "4.4 out of 5 stars",
+      "stock": "7,105",
+      "price": "₹1,099",
+      "a-price-symbol": "₹",
+      " original_price": "₹1,699",
+      "discount": "(35% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/81Jov18YvpL._AC_UL320_.jpg",
+      "title": "Samsung Galaxy M32 Prime Edition (Black, 4GB RAM, 64GB)",
+      "rating": "4.1 out of 5 stars",
+      "stock": "55,102",
+      "price": "₹13,499",
+      "a-price-symbol": "₹",
+      " original_price": "",
+      "discount": ""
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/81Jov18YvpL._AC_UL320_.jpg",
+      "title": "Samsung Galaxy M32 Prime Edition (Black, 6GB RAM, 128GB)",
+      "rating": "4.1 out of 5 stars",
+      "stock": "55,102",
+      "price": "₹15,499",
+      "a-price-symbol": "₹",
+      " original_price": "",
+      "discount": ""
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/71EjohFmm6L._AC_UL320_.jpg",
+      "title": "Samsung Galaxy M13 5G (Midnight Blue, 4GB, 64GB Storage) | 5000mAh Battery | Upto 8GB RAM with RAM Plus",
+      "rating": "4.0 out of 5 stars",
+      "stock": "16,884",
+      "price": "₹11,999",
+      "a-price-symbol": "₹",
+      " original_price": "₹16,999",
+      "discount": "(29% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/71yD4EP3G4L._AC_UL320_.jpg",
+      "title": "Samsung EVO Plus 256GB microSDXC UHS-I U3 130MB/s Full HD & 4K UHD Memory Card with Adapter (MB-MC256KA), Blue",
+      "rating": "4.3 out of 5 stars",
+      "stock": "139,056",
+      "price": "₹2,000",
+      "a-price-symbol": "₹",
+      " original_price": "₹10,999",
+      "discount": "(82% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/81OC0ojxH6L._AC_UL320_.jpg",
+      "title": "Samsung Galaxy M32 Prime Edition (Light Blue, 6GB RAM, 128GB)",
+      "rating": "4.1 out of 5 stars",
+      "stock": "55,102",
+      "price": "₹15,499",
+      "a-price-symbol": "₹",
+      " original_price": "",
+      "discount": ""
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/61G5JoU9tTL._AC_UL320_.jpg",
+      "title": "Samsung Galaxy Buds Live Bluetooth Truly Wireless in Ear Earbuds with Mic, Upto 21 Hours Playtime, Mystic Black",
+      "rating": "4.0 out of 5 stars",
+      "stock": "4,068",
+      "price": "₹5,290",
+      "a-price-symbol": "₹",
+      " original_price": "₹15,990",
+      "discount": "(67% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/81xvGbBFNhL._AC_UL320_.jpg",
+      "title": "Samsung Galaxy M33 5G (Deep Ocean Blue, 8GB, 128GB Storage) | 6000mAh Battery | Upto 16GB RAM with RAM Plus | Travel Adapter to be Purchased Separately",
+      "rating": "4.1 out of 5 stars",
+      "stock": "21,080",
+      "price": "",
+      "a-price-symbol": "",
+      " original_price": "",
+      "discount": ""
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/61Nhi7ovjkL._AC_UL320_.jpg",
+      "title": "Samsung Galaxy Watch4 Bluetooth(4.4 cm, Black, Compatible with Android only)",
+      "rating": "4.3 out of 5 stars",
+      "stock": "4,461",
+      "price": "₹11,349",
+      "a-price-symbol": "₹",
+      " original_price": "₹29,999",
+      "discount": "(62% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/81Prc5i7hML._AC_UL320_.jpg",
+      "title": "Samsung Galaxy M13 (Stardust Brown, 4GB, 64GB Storage) | 6000mAh Battery | Upto 8GB RAM with RAM Plus",
+      "rating": "4.0 out of 5 stars",
+      "stock": "16,884",
+      "price": "₹11,999",
+      "a-price-symbol": "₹",
+      " original_price": "₹14,999",
+      "discount": "(20% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/71ZOtNdaZCL._AC_UL320_.jpg",
+      "title": "Apple iPhone 12 (128GB) - Blue",
+      "rating": "4.5 out of 5 stars",
+      "stock": "19,856",
+      "price": "₹53,900",
+      "a-price-symbol": "₹",
+      " original_price": "₹70,900",
+      "discount": "(24% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/71gm8v4uPBL._AC_UL320_.jpg",
+      "title": "Apple iPhone 13 (256GB) - (Product) RED",
+      "rating": "4.6 out of 5 stars",
+      "stock": "4,857",
+      "price": "₹69,999",
+      "a-price-symbol": "₹",
+      " original_price": "₹79,900",
+      "discount": "(12% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/711wsjBtWeL._AC_UL320_.jpg",
+      "title": "Apple iPhone 12 (128GB) - White",
+      "rating": "4.5 out of 5 stars",
+      "stock": "19,856",
+      "price": "₹53,900",
+      "a-price-symbol": "₹",
+      " original_price": "₹70,900",
+      "discount": "(24% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/71fVoqRC0wL._AC_UL320_.jpg",
+      "title": "Apple iPhone 12 (64GB) - Black",
+      "rating": "4.5 out of 5 stars",
+      "stock": "19,856",
+      "price": "₹52,999",
+      "a-price-symbol": "₹",
+      " original_price": "₹65,900",
+      "discount": "(20% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/71tT8J5cKuL._AC_UL320_.jpg",
+      "title": "Apple iPhone 12 Mini (128GB) - White",
+      "rating": "4.5 out of 5 stars",
+      "stock": "5,974",
+      "price": "₹45,999",
+      "a-price-symbol": "₹",
+      " original_price": "₹74,900",
+      "discount": "(39% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/71cQWYVtcBL._AC_UL320_.jpg",
+      "title": "Apple iPhone 12 (128GB) - Green",
+      "rating": "4.5 out of 5 stars",
+      "stock": "19,856",
+      "price": "₹60,990",
+      "a-price-symbol": "₹",
+      " original_price": "₹64,900",
+      "discount": "(6% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/71fVoqRC0wL._AC_UL320_.jpg",
+      "title": "Apple iPhone 12 (128GB) - Black",
+      "rating": "4.6 out of 5 stars",
+      "stock": "3,577",
+      "price": "₹53,900",
+      "a-price-symbol": "₹",
+      " original_price": "₹70,900",
+      "discount": "(24% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/71ZOtNdaZCL._AC_UL320_.jpg",
+      "title": "Apple iPhone 12 (64GB) - Blue",
+      "rating": "4.5 out of 5 stars",
+      "stock": "3,396",
+      "price": "₹55,999",
+      "a-price-symbol": "₹",
+      " original_price": "₹65,900",
+      "discount": "(15% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/618Bb+QzCmL._AC_UL320_.jpg",
+      "title": "Apple iPhone 14 128GB Starlight",
+      "rating": "4.4 out of 5 stars",
+      "stock": "214",
+      "price": "₹78,810",
+      "a-price-symbol": "₹",
+      " original_price": "₹79,900",
+      "discount": "(1% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/711wsjBtWeL._AC_UL320_.jpg",
+      "title": "Apple iPhone 12 (64GB) - White",
+      "rating": "4.5 out of 5 stars",
+      "stock": "19,856",
+      "price": "₹52,999",
+      "a-price-symbol": "₹",
+      " original_price": "₹65,900",
+      "discount": "(20% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/61XO4bORHUL._AC_UL320_.jpg",
+      "title": "Apple iPhone 14 Pro 256GB Space Black",
+      "rating": "4.6 out of 5 stars",
+      "stock": "158",
+      "price": "₹1,39,900",
+      "a-price-symbol": "₹",
+      " original_price": "",
+      "discount": ""
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/71gm8v4uPBL._AC_UL320_.jpg",
+      "title": "Apple iPhone 13 (128GB) - (Product) RED",
+      "rating": "4.6 out of 5 stars",
+      "stock": "4,857",
+      "price": "₹65,999",
+      "a-price-symbol": "₹",
+      " original_price": "₹79,900",
+      "discount": "(17% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/71uuDYxn3XL._AC_UL320_.jpg",
+      "title": "Apple iPhone 12 Mini (128GB) - Black",
+      "rating": "4.5 out of 5 stars",
+      "stock": "5,974",
+      "price": "₹54,900",
+      "a-price-symbol": "₹",
+      " original_price": "₹64,900",
+      "discount": "(15% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/611mRs-imxL._AC_UL320_.jpg",
+      "title": "Apple iPhone 14 128GB (Product) RED",
+      "rating": "4.4 out of 5 stars",
+      "stock": "214",
+      "price": "₹78,740",
+      "a-price-symbol": "₹",
+      " original_price": "₹79,900",
+      "discount": "(1% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/61lKQWyMdDL._AC_UL320_.jpg",
+      "title": "Apple iPhone 14 Pro 128GB Silver",
+      "rating": "4.6 out of 5 stars",
+      "stock": "158",
+      "price": "₹1,29,900",
+      "a-price-symbol": "₹",
+      " original_price": "",
+      "discount": ""
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/61BGE6iu4AL._AC_UL320_.jpg",
+      "title": "Apple iPhone 14 Plus 256GB Blue",
+      "rating": "4.7 out of 5 stars",
+      "stock": "135",
+      "price": "₹94,990",
+      "a-price-symbol": "₹",
+      " original_price": "₹99,900",
+      "discount": "(5% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/61B0+qQriPL._AC_UL320_.jpg",
+      "title": "Apple iPhone 14 Plus 128GB Midnight",
+      "rating": "4.7 out of 5 stars",
+      "stock": "135",
+      "price": "₹88,560",
+      "a-price-symbol": "₹",
+      " original_price": "₹89,900",
+      "discount": "(1% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/618Bb+QzCmL._AC_UL320_.jpg",
+      "title": "Apple iPhone 14 256GB Starlight",
+      "rating": "4.4 out of 5 stars",
+      "stock": "214",
+      "price": "₹88,810",
+      "a-price-symbol": "₹",
+      " original_price": "₹89,900",
+      "discount": "(1% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/61b7Ew7kjYL._AC_UL320_.jpg",
+      "title": "Apple iPhone 14 Plus 128GB Starlight",
+      "rating": "4.7 out of 5 stars",
+      "stock": "135",
+      "price": "₹88,490",
+      "a-price-symbol": "₹",
+      " original_price": "₹89,900",
+      "discount": "(2% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/61bK6PMOC3L._AC_UL320_.jpg",
+      "title": "Apple iPhone 14 256GB Blue",
+      "rating": "4.4 out of 5 stars",
+      "stock": "214",
+      "price": "₹88,740",
+      "a-price-symbol": "₹",
+      " original_price": "₹89,900",
+      "discount": "(1% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/71cQWYVtcBL._AC_UL320_.jpg",
+      "title": "Apple iPhone 12 (64GB) - Green",
+      "rating": "4.5 out of 5 stars",
+      "stock": "19,856",
+      "price": "₹55,999",
+      "a-price-symbol": "₹",
+      " original_price": "₹65,900",
+      "discount": "(15% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/71GLMJ7TQiL._AC_UL320_.jpg",
+      "title": "Apple iPhone 13 (256GB) - Starlight",
+      "rating": "4.6 out of 5 stars",
+      "stock": "4,857",
+      "price": "₹79,900",
+      "a-price-symbol": "₹",
+      " original_price": "₹89,900",
+      "discount": "(11% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/61BGE6iu4AL._AC_UL320_.jpg",
+      "title": "Apple iPhone 14 Plus 128GB Blue",
+      "rating": "4.7 out of 5 stars",
+      "stock": "135",
+      "price": "₹89,900",
+      "a-price-symbol": "₹",
+      " original_price": "",
+      "discount": ""
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/71E5zB1qbIL._AC_UL320_.jpg",
+      "title": "Apple iPhone 12 (256GB) - (Product) RED",
+      "rating": "4.5 out of 5 stars",
+      "stock": "19,856",
+      "price": "₹60,900",
+      "a-price-symbol": "₹",
+      " original_price": "₹75,900",
+      "discount": "(20% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/817clKAKcqL._AC_UL320_.jpg",
+      "title": "Redmi 10 Prime (Phantom Black 6GB RAM 128GB ROM |Helio G88 with extendable RAM Upto 2GB |FHD+ 90Hz Adaptive Sync Display)",
+      "rating": "4.1 out of 5 stars",
+      "stock": "62,613",
+      "price": "₹12,999",
+      "a-price-symbol": "₹",
+      " original_price": "₹16,999",
+      "discount": "(24% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/81eM15lVcJL._AC_UL320_.jpg",
+      "title": "Redmi 10 Power (Power Black, 8GB RAM, 128GB Storage)",
+      "rating": "4.1 out of 5 stars",
+      "stock": "463",
+      "price": "₹12,499",
+      "a-price-symbol": "₹",
+      " original_price": "₹18,999",
+      "discount": "(34% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/71q297sVv3L._AC_UL320_.jpg",
+      "title": "Redmi 10 Prime (Astral White 6GB RAM 128GB ROM |Helio G88 with extendable RAM Upto 2GB |FHD+ 90Hz Adaptive Sync Display)",
+      "rating": "4.1 out of 5 stars",
+      "stock": "62,613",
+      "price": "₹12,999",
+      "a-price-symbol": "₹",
+      " original_price": "₹16,999",
+      "discount": "(24% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/71ZOtNdaZCL._AC_UL320_.jpg",
+      "title": "Apple iPhone 12 (128GB) - Blue",
+      "rating": "4.5 out of 5 stars",
+      "stock": "19,856",
+      "price": "₹53,900",
+      "a-price-symbol": "₹",
+      " original_price": "₹70,900",
+      "discount": "(24% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/81OZGH4fZiL._AC_UL320_.jpg",
+      "title": "Redmi 10 Power (Sporty Orange, 8GB RAM, 128GB Storage)",
+      "rating": "4.1 out of 5 stars",
+      "stock": "463",
+      "price": "₹12,499",
+      "a-price-symbol": "₹",
+      " original_price": "₹18,999",
+      "discount": "(34% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/71gm8v4uPBL._AC_UL320_.jpg",
+      "title": "Apple iPhone 13 (256GB) - (Product) RED",
+      "rating": "4.6 out of 5 stars",
+      "stock": "4,857",
+      "price": "₹69,999",
+      "a-price-symbol": "₹",
+      " original_price": "₹79,900",
+      "discount": "(12% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/71CyDMPnuFL._AC_UL320_.jpg",
+      "title": "Xiaomi 11 Lite NE 5G (Vinyl Black 8GB RAM 128 GB Storage) | Slimmest (6.81mm) & Lightest (158g) 5G Smartphone | 10-bit AMOLED with Dolby Vision | SD 778 with 12 5G Bands",
+      "rating": "4.0 out of 5 stars",
+      "stock": "24,345",
+      "price": "₹25,999",
+      "a-price-symbol": "₹",
+      " original_price": "₹33,999",
+      "discount": "(24% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/711wsjBtWeL._AC_UL320_.jpg",
+      "title": "Apple iPhone 12 (128GB) - White",
+      "rating": "4.5 out of 5 stars",
+      "stock": "19,856",
+      "price": "₹53,900",
+      "a-price-symbol": "₹",
+      " original_price": "₹70,900",
+      "discount": "(24% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/71fVoqRC0wL._AC_UL320_.jpg",
+      "title": "Apple iPhone 12 (64GB) - Black",
+      "rating": "4.5 out of 5 stars",
+      "stock": "19,856",
+      "price": "₹52,999",
+      "a-price-symbol": "₹",
+      " original_price": "₹65,900",
+      "discount": "(20% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/71XmlboxNZL._AC_UL320_.jpg",
+      "title": "Xiaomi 11 Lite NE 5G (Jazz Blue 8GB RAM 128 GB Storage) | Slimmest (6.81mm) & Lightest (158g) 5G Smartphone | 10-bit AMOLED with Dolby Vision | SD 778 with 12 5G Bands",
+      "rating": "4.0 out of 5 stars",
+      "stock": "24,345",
+      "price": "₹25,999",
+      "a-price-symbol": "₹",
+      " original_price": "₹33,999",
+      "discount": "(24% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/71tT8J5cKuL._AC_UL320_.jpg",
+      "title": "Apple iPhone 12 Mini (128GB) - White",
+      "rating": "4.5 out of 5 stars",
+      "stock": "5,974",
+      "price": "₹45,999",
+      "a-price-symbol": "₹",
+      " original_price": "₹74,900",
+      "discount": "(39% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/71cQWYVtcBL._AC_UL320_.jpg",
+      "title": "Apple iPhone 12 (128GB) - Green",
+      "rating": "4.5 out of 5 stars",
+      "stock": "19,856",
+      "price": "₹60,990",
+      "a-price-symbol": "₹",
+      " original_price": "₹64,900",
+      "discount": "(6% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/71fVoqRC0wL._AC_UL320_.jpg",
+      "title": "Apple iPhone 12 (128GB) - Black",
+      "rating": "4.6 out of 5 stars",
+      "stock": "3,577",
+      "price": "₹53,900",
+      "a-price-symbol": "₹",
+      " original_price": "₹70,900",
+      "discount": "(24% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/71ZOtNdaZCL._AC_UL320_.jpg",
+      "title": "Apple iPhone 12 (64GB) - Blue",
+      "rating": "4.5 out of 5 stars",
+      "stock": "3,396",
+      "price": "₹55,999",
+      "a-price-symbol": "₹",
+      " original_price": "₹65,900",
+      "discount": "(15% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/618Bb+QzCmL._AC_UL320_.jpg",
+      "title": "Apple iPhone 14 128GB Starlight",
+      "rating": "4.4 out of 5 stars",
+      "stock": "214",
+      "price": "₹78,810",
+      "a-price-symbol": "₹",
+      " original_price": "₹79,900",
+      "discount": "(1% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/711wsjBtWeL._AC_UL320_.jpg",
+      "title": "Apple iPhone 12 (64GB) - White",
+      "rating": "4.5 out of 5 stars",
+      "stock": "19,856",
+      "price": "₹52,999",
+      "a-price-symbol": "₹",
+      " original_price": "₹65,900",
+      "discount": "(20% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/61XO4bORHUL._AC_UL320_.jpg",
+      "title": "Apple iPhone 14 Pro 256GB Space Black",
+      "rating": "4.6 out of 5 stars",
+      "stock": "158",
+      "price": "₹1,39,900",
+      "a-price-symbol": "₹",
+      " original_price": "",
+      "discount": ""
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/71gm8v4uPBL._AC_UL320_.jpg",
+      "title": "Apple iPhone 13 (128GB) - (Product) RED",
+      "rating": "4.6 out of 5 stars",
+      "stock": "4,857",
+      "price": "₹65,999",
+      "a-price-symbol": "₹",
+      " original_price": "₹79,900",
+      "discount": "(17% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/71q297sVv3L._AC_UL320_.jpg",
+      "title": "Redmi 10 Prime (Astral White 4GB RAM 64GB ROM |Helio G88 with extendable RAM Upto 2GB |FHD+ 90Hz Adaptive Sync Display)",
+      "rating": "4.1 out of 5 stars",
+      "stock": "62,613",
+      "price": "₹12,999",
+      "a-price-symbol": "₹",
+      " original_price": "₹14,999",
+      "discount": "(13% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/817clKAKcqL._AC_UL320_.jpg",
+      "title": "Redmi 10 Prime (Phantom Black 4GB RAM 64GB | Helio G88 with extendable RAM Upto 2GB | FHD+ 90Hz Adaptive Sync Display)",
+      "rating": "4.1 out of 5 stars",
+      "stock": "62,613",
+      "price": "₹12,999",
+      "a-price-symbol": "₹",
+      " original_price": "₹14,999",
+      "discount": "(13% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/71uuDYxn3XL._AC_UL320_.jpg",
+      "title": "Apple iPhone 12 Mini (128GB) - Black",
+      "rating": "4.5 out of 5 stars",
+      "stock": "5,974",
+      "price": "₹54,900",
+      "a-price-symbol": "₹",
+      " original_price": "₹64,900",
+      "discount": "(15% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/611mRs-imxL._AC_UL320_.jpg",
+      "title": "Apple iPhone 14 128GB (Product) RED",
+      "rating": "4.4 out of 5 stars",
+      "stock": "214",
+      "price": "₹78,740",
+      "a-price-symbol": "₹",
+      " original_price": "₹79,900",
+      "discount": "(1% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/61lKQWyMdDL._AC_UL320_.jpg",
+      "title": "Apple iPhone 14 Pro 128GB Silver",
+      "rating": "4.6 out of 5 stars",
+      "stock": "158",
+      "price": "₹1,29,900",
+      "a-price-symbol": "₹",
+      " original_price": "",
+      "discount": ""
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/61BGE6iu4AL._AC_UL320_.jpg",
+      "title": "Apple iPhone 14 Plus 256GB Blue",
+      "rating": "4.7 out of 5 stars",
+      "stock": "135",
+      "price": "₹94,990",
+      "a-price-symbol": "₹",
+      " original_price": "₹99,900",
+      "discount": "(5% off)"
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
+  "laptop": [
+    {
+      "images": "https://m.media-amazon.com/images/I/51uwEtc8roL._AC_UL320_.jpg",
+      "title": "Acer Extensa 15 Thin & Light Intel Processor Pentium Silver N5030 15.6 inches ( 39 cm ) Business Laptop (4GB RAM/256 GB SSD/Windows 11 Home/Black/1.9 Kg, EX215-31)",
+      "a-popover-trigger href": "javascript:void(0)",
+      "rating": "3.6 out of 5 stars",
+      "stock": "76",
+      "price": "₹23,190",
+      "original_price": "₹39,990",
+      "discount": "(42% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/71rceuYk9JL._AC_UL320_.jpg",
+      "title": "Acer Aspire 3 AMD 3020e Dual-core Processor 14-inch (35.6 cms) HD Laptop - (8GB/256 GB SSD/Windows 11 Home/1.9 Kg/Silver) A314-22",
+      "a-popover-trigger href": "javascript:void(0)",
+      "rating": "3.2 out of 5 stars",
+      "stock": "189",
+      "price": "₹31,700",
+      " original_price": "₹35,000",
+      "discount": "(9% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/61gGtqfZFlL._AC_UL320_.jpg",
+      "title": "Acer Aspire 5 Gaming Laptop Intel Core i5 12th gen (12-Cores) Processor (16 GB/512 GB SSD/Windows 11 Home/4GB Graphics/NVIDIA GeForce RTX 2050) A515-57G (15.6 inch Full HD Display, Steel Gray, 1.8 Kg)",
+      "a-popover-trigger href": "javascript:void(0)",
+      "rating": "3.9 out of 5 stars",
+      "stock": "266",
+      "price": "₹62,990",
+      " original_price": "₹84,999",
+      "discount": "(26% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/61BeBTB41DL._AC_UL320_.jpg",
+      "title": "(Renewed) Dell Latitude E5470 Intel Core i5 6th Gen.6200u Processor 14.1 Inches HD Screen Notebook Computer (8 GB Ram & 256 GB SSD, Windows 10 Pro, 1.71Kg)",
+      "a-popover-trigger href": "javascript:void(0)",
+      "rating": "3.6 out of 5 stars",
+      "stock": "530",
+      "price": "₹19,490",
+      " original_price": "₹1,29,000",
+      "discount": "(84% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/91+6YECnK3L._AC_UL320_.jpg",
+      "title": "HP 15s, 12th Gen Intel Core i5 8GB RAM/512GB SSD 15.6-inch(39.6 cm) Micro-Edge Anti-Glare FHD Laptop/Intel Iris Xe Graphics/Alexa/Dual Speakers/Win 11/MSO 2021/1.41 Kg, 15s- fq5111TU",
+      "a-popover-trigger href": "javascript:void(0)",
+      "rating": "4.2 out of 5 stars",
+      "stock": "776",
+      "price": "₹57,928",
+      " original_price": "₹67,832",
+      "discount": "(15% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/81zoyHn5uJL._AC_UL320_.jpg",
+      "title": "HP 14s, 11th Gen Intel Core i3-1115G4, 8GB RAM/256GB SSD 14-inch(35.6 cm) Micro-Edge, Anti-Glare, FHD Laptop/Alexa Built-in/Win 11/Intel UHD Graphics/Dual Speakers/ MSO 2021/1.41 Kg, 14s-dy2507TU",
+      "a-popover-trigger href": "javascript:void(0)",
+      "rating": "4.1 out of 5 stars",
+      "stock": "277",
+      "price": "₹38,990",
+      " original_price": "₹47,206",
+      "discount": "(17% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/61Dw5Z8LzJL._AC_UL320_.jpg",
+      "title": "Lenovo IdeaPad 3 11th Gen Intel Core i3 15.6\" FHD Thin & Light Laptop(8GB/512GB SSD/Windows 11/Office 2021/2Yr Warranty/3months Xbox Game Pass/Platinum Grey/1.7Kg), 81X800LGIN",
+      "a-popover-trigger href": "javascript:void(0)",
+      "rating": "4.1 out of 5 stars",
+      "stock": "794",
+      "price": "₹38,990",
+      " original_price": "₹59,890",
+      "discount": "(35% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/41Wflt09rAL._AC_UL320_.jpg",
+      "title": "(Renewed) Dell Latitude Laptop E7470 Intel Core I5 - 6300U Processor, 16 Gb Ram & 256 Gb Ssd, 14.1 Inches Screen Windows 10 Pro (Ultra Slim & Light 1.58Kg) Notebook Computer",
+      "a-popover-trigger href": "javascript:void(0)",
+      "rating": "3.4 out of 5 stars",
+      "stock": "246",
+      "price": "₹22,490",
+      " original_price": "₹1,19,000",
+      "discount": "(81% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/61IYtAceS1L._AC_UL320_.jpg",
+      "title": "Dell Inspiron 3525 Laptop, AMD Athlon Silver 3050U, Win11 + Office 21, 8GB GDDR4, 256GB SSD, Radeon Graphics, 15.6\" (39.62Cms) HD AG, Black (D560766WIN9BE, 1.68Kgs)",
+      "a-popover-trigger href": "javascript:void(0)",
+      "rating": "4.1 out of 5 stars",
+      "stock": "256",
+      "price": "₹29,230",
+      " original_price": "₹46,236",
+      "discount": "(37% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/81bu95bhbOL._AC_UL320_.jpg",
+      "title": "HP 15s, AMD Athlon Silver 3050U 8GB RAM/512GB SSD 15.6-inches/39.6 cm HD, Micro-Edge Display/Windows 11/AMD Radeon Graphics/Dual Speakers/MSO/Fast Charge/1.69 Kg, 15s-eq1559AU",
+      "a-popover-trigger href": "javascript:void(0)",
+      "rating": "3.7 out of 5 stars",
+      "stock": "76",
+      "price": "₹29,450",
+      " original_price": "₹39,228",
+      "discount": "(25% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/61q6x-ll5FL._AC_UL320_.jpg",
+      "title": "Lenovo Ideapad 3 AMD Ryzen 5 5500U 15.6\" (39.62cm) FHD Thin & Light Laptop (8GB/512GB SSD/Windows 11/Office 2021/Backlit Keyboard/2Yr Warranty/Arctic Grey/1.65Kg), 82KU017KIN",
+      "a-popover-trigger href": "javascript:void(0)",
+      "rating": "4.2 out of 5 stars",
+      "stock": "1,198",
+      "price": "₹43,678",
+      " original_price": "₹68,490",
+      "discount": "(36% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/81bu95bhbOL._AC_UL320_.jpg",
+      "title": "HP 15s-Ryzen 3 3250U 8GB SDRAM/256GB SSD 15.6inch(39.6cm) HD, Micro-Edge Laptop/AMD Radeon Graphics/Dual Speakers/Win 11 Home/MS Office/Fast Charge/Jet Black/1.69Kg, 15s-ey1508AU",
+      "a-popover-trigger href": "javascript:void(0)",
+      "rating": "3.8 out of 5 stars",
+      "stock": "28",
+      "price": "₹28,990",
+      " original_price": "₹43,631",
+      "discount": "(34% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/61N6Ojp790L._AC_UL320_.jpg",
+      "title": "Acer Nitro 5 12th Gen Intel Core Intel Core i5-12500H Processor 15.6-inch (39.62 cms) FHD 144 Hz Gaming Laptop (16 GB RAM/RTX 3050 Graphics/512 GB SSD/Windows 11 Home/2.5 Kgs/RGB Backlit), AN515-58",
+      "a-popover-trigger href": "javascript:void(0)",
+      "rating": "4.2 out of 5 stars",
+      "stock": "121",
+      "price": "₹83,815",
+      " original_price": "₹1,09,999",
+      "discount": "(24% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/81poxOLgmXL._AC_UL320_.jpg",
+      "title": "Acer Aspire 3 Laptop AMD Ryzen 5 3500U Processor (8 GB/512 GB SSD/Windows 11 Home/AMD Radeon Vega8 Mobile Graphics/1.9Kg/Black) A315-23 with 15.6\" (39.6 cms) Full HD Laptop",
+      "a-popover-trigger href": "javascript:void(0)",
+      "rating": "4.1 out of 5 stars",
+      "stock": "63",
+      "price": "₹35,990",
+      " original_price": "₹54,999",
+      "discount": "(35% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/81AmlAVM0vL._AC_UL320_.jpg",
+      "title": "Acer One 14 Business Laptop AMD Ryzen 5 3500U Processor (16GB RAM/512GB SSD/AMD Radeon Graphics/Windows 11 Home/MS Office) Z2-493 with 35.56 cm (14.0\") HD Display (Rose Gold)",
+      "a-popover-trigger href": "javascript:void(0)",
+      "rating": "3.0 out of 5 stars",
+      "stock": "4",
+      "price": "₹39,990",
+      "original_price": "₹60,000",
+      "discount": "(33% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/91-U2J7fKoL._AC_UL320_.jpg",
+      "title": "HP 15s,11th Gen Intel Core i3-1115G4 8GB RAM/512GB SSD 15.6-inch(39.6 cm) Micro-Edge Anti-Glare FHD Laptop/Alexa Built-in/Win 11/Intel UHD Graphics/Dual Speakers/ MS Office 2021/1.69 Kg, 15s-fq2673TU",
+      "a-popover-trigger href": "javascript:void(0)",
+      "rating": "4.1 out of 5 stars",
+      "stock": "858",
+      "price": "₹42,490",
+      " original_price": "₹51,812",
+      "discount": "(18% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/513G-9tBVKL._AC_UL320_.jpg",
+      "title": "(Renewed) Lenovo Thinkpad Intel Core i5 14-Inch (35.56 cms) 1366x768 Laptop (8 GB/500 GB/Windows 10/Intel HD Graphics/Black/2.20 Kg), T440",
+      "a-popover-trigger href": "javascript:void(0)",
+      "rating": "3.0 out of 5 stars",
+      "stock": "197",
+      "price": "₹14,934",
+      " original_price": "₹99,999",
+      "discount": "(85% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/71jG+e7roXL._AC_UL320_.jpg",
+      "title": "2020 Apple MacBook Air Laptop: Apple M1 chip, 13.3-inch/33.74 cm Retina Display, 8GB RAM, 256GB SSD Storage, Backlit Keyboard, FaceTime HD Camera, Touch ID. Works with iPhone/iPad; Space Grey",
+      "a-popover-trigger href": "javascript:void(0)",
+      "rating": "4.7 out of 5 stars",
+      "stock": "2,869",
+      "price": "₹86,990",
+      " original_price": "₹99,900",
+      "discount": "(13% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/71guAvSMbSL._AC_UL320_.jpg",
+      "title": "Honor MagicBook 14, AMD Ryzen 5 5500U 14-inch (35.56 cm) FHD IPS Anti-Glare Thin and Light Laptop (16GB/512GB PCIe SSD/Windows 11/Fingerprint Login/Metal Body/Backlit KB/1.38Kg), Gray, NobelM-WFQ9AHNE",
+      "a-popover-trigger href": "javascript:void(0)",
+      "rating": "4.4 out of 5 stars",
+      "stock": "276",
+      "price": "₹44,990",
+      " original_price": "₹75,999",
+      "discount": "(41% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/41pQAjtuKdL._AC_UL320_.jpg",
+      "title": "Lenovo V15 Intel Celeron N4020 15.6\" (39.62 cm) HD 220 nits Antiglare Thin and Light Laptop (4GB RAM/256GB SSD/DOS/Iron Grey/1.85 kg), 82C3A008IH",
+      "a-popover-trigger href": "javascript:void(0)",
+      "rating": "3.8 out of 5 stars",
+      "stock": "122",
+      "price": "₹19,990",
+      " original_price": "₹36,000",
+      "discount": "(44% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/615a4SGVqoL._AC_UL320_.jpg",
+      "title": "(Renewed) Dell Intel 5th Gen Core i5 5300U 14-Inch (35.56 cms) Laptop (8 GB/256 GB SSD/Windows 10/Intel HD Graphics/Black/), Latitude E5450",
+      "a-popover-trigger href": "javascript:void(0)",
+      "rating": "3.6 out of 5 stars",
+      "stock": "140",
+      "price": "₹18,300",
+      " original_price": "₹79,000",
+      "discount": "(76% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/71S8U9VzLTL._AC_UL320_.jpg",
+      "title": "ASUS VivoBook 15 (2021), 15.6-inch (39.62 cm) HD, Dual Core Intel Celeron N4020, Thin and Light Laptop (4GB RAM/256GB SSD/Integrated Graphics/Windows 11 Home/Transparent Silver/1.8 Kg), X515MA-BR011W",
+      "a-popover-trigger href": "javascript:void(0)",
+      "rating": "3.9 out of 5 stars",
+      "stock": "755",
+      "price": "₹25,990",
+      " original_price": "₹33,990",
+      "discount": "(24% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/81haBMsW77L._AC_UL320_.jpg",
+      "title": "HP 14s, 12th Gen Intel Core i5 16GB RAM/512GB SSD 14-inch(35.6 cm) Micro-Edge, FHD Laptop/Intel Iris Xe Graphics/Alexa/Dual Speakers/Win 11/Backlit KB/MSO 2021/1.41 Kg, 14s-dy5005TU",
+      "a-popover-trigger href": "javascript:void(0)",
+      "rating": "4.0 out of 5 stars",
+      "stock": "370",
+      "price": "₹61,000",
+      " original_price": "₹72,331",
+      "discount": "(16% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/41-4fixZuzL._AC_UL320_.jpg",
+      "title": "HP 14S-Intel Pentium Silver N6000- 8Gb Ram/256Gb Ssd 14 Inches (35.6Cm) Hd, Micro-Edge Display (Uhd Graphics/Alexa/Dual Speakers/Fast Charge/Windows 11 Home/Ms Office), 14S- Dq3033Tu,Jet Black",
+      "a-popover-trigger href": "javascript:void(0)",
+      "rating": "4.1 out of 5 stars",
+      "stock": "960",
+      "price": "₹27,499",
+      " original_price": "₹47,999",
+      "discount": "(43% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/71veuBka4NL._AC_UL320_.jpg",
+      "title": "HP 15s, 11th Gen Intel Core i3, 8GB RAM/512GB SSD 15.6-inch(39.6 cm) Micro-Edge Anti-Glare FHD Laptop/Alexa Built-in/Win 11/Intel UHD Graphics/Dual Speakers/ MS Office 2021/1.69 Kg, 15s-fr2511TU",
+      "a-popover-trigger href": "javascript:void(0)",
+      "rating": "4.1 out of 5 stars",
+      "stock": "129",
+      "price": "₹41,990",
+      " original_price": "₹49,445.14",
+      "discount": "(15% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/61Dw5Z8LzJL._AC_UL320_.jpg",
+      "title": "Lenovo IdeaPad Slim 3 Intel Celeron N4020 4th Gen 15.6\" (39.62cm) HD Thin & Light Laptop (8GB/256GB SSD/Windows 11/Office 2021/2Yr Warranty/3months Game Pass/Platinum Grey/1.7Kg), 81WQ00MQIN",
+      "a-popover-trigger href": "javascript:void(0)",
+      "rating": "3.8 out of 5 stars",
+      "stock": "260",
+      "price": "₹27,054",
+      " original_price": "₹40,490",
+      "discount": "(33% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/6192pE7H2FL._AC_UL320_.jpg",
+      "title": "Dell Inspiron 3511 Laptop, Intel Core i3-1115G4, 8GB, 512GB SSD, Win 11 + MSO, 15.6\" (39.62Cms) FHD WVA AG Narrow Border, Carbon Black (D560842WIN9B, 1.8Kgs)",
+      "a-popover-trigger href": "javascript:void(0)",
+      "rating": "4.0 out of 5 stars",
+      "stock": "112",
+      "price": "₹40,990",
+      " original_price": "₹58,229",
+      "discount": "(30% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/61peI2M3z8L._AC_UL320_.jpg",
+      "title": "Dell Vostro 3420 Laptop - Intel Core i3-1115G4, 8GB DDR4, 512GB SSD, Win 11 + MSO'21, 14.0\"/35.56Cms, FHD WVA AG 250 nits, Carbon Black (D552276WIN9BE, 1.48Kgs)",
+      "a-popover-trigger href": "javascript:void(0)",
+      "rating": "4.2 out of 5 stars",
+      "stock": "84",
+      "price": "₹39,990",
+      " original_price": "₹56,578",
+      "discount": "(29% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/91FF3XjlikL._AC_UL320_.jpg",
+      "title": "HP 15s AMD Ryzen 3- 5300U 15.6inch(39.6cm) FHD Laptop (8GB RAM/512GB SSD, Micro-Edge, Anti-Glare Display/Radeon Graphics/Windows 11 Home/Alexa/Dual Speakers/Ms Office/1.69Kg, 15s-Eq2143au)",
+      "a-popover-trigger href": "javascript:void(0)",
+      "rating": "4.0 out of 5 stars",
+      "stock": "1,075",
+      "price": "₹37,779",
+      " original_price": "₹47,142",
+      "discount": "(20% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/71acOQV0elL._AC_UL320_.jpg",
+      "title": "Lenovo IdeaPad Slim 3 Intel Core i5 12th Gen 15.6\" (39.62cm) FHD Thin & Light Laptop (8GB/512GB SSD/Windows 11/Office 2021/Backlit/2Yr Warranty/3months Game Pass/Arctic Grey/1.63Kg), 82RK0062IN",
+      "a-popover-trigger href": "javascript:void(0)",
+      "rating": "4.1 out of 5 stars",
+      "stock": "329",
+      "price": "₹53,490",
+      " original_price": "₹76,890",
+      "discount": "(30% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/71E6kyAephL._AC_UL320_.jpg",
+      "title": "Acer One 14 Business Laptop AMD Athlon 3045 B Processor (4GB RAM/256GB SSD/AMD Radeon Graphics/Windows 11 Home) Z2-493 with 35.56 cm (14.0\") HD Display (Black)",
+      "a-popover-trigger href": "javascript:void(0)",
+      "rating": "3.8 out of 5 stars",
+      "stock": "61",
+      "price": "₹20,990",
+      " original_price": "₹40,999",
+      "discount": "(49% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/81V0QlV50UL._AC_UL320_.jpg",
+      "title": "Acer Travelmate Intel N4020 Celeron Dual-core Processor 29.4 cm (11.6 Inches) HD Display Business Laptop ( 4GB DDR4/ 128GB SSD/Intel UHD Graphics/ Windows 11 Home/Black/ 1.4 KG) TMB311-31",
+      "a-popover-trigger href": "javascript:void(0)",
+      "rating": "3.9 out of 5 stars",
+      "stock": "26",
+      "price": "₹20,190",
+      " original_price": "₹29,399",
+      "discount": "(31% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/71Xk9qt6IwL._AC_UL320_.jpg",
+      "title": "Acer Predator Helios 300 Gaming Laptop Intel Core i9 11th Gen Processor - (16 GB/1TB SSD/ NVIDIA RTX 3060/165Hz/Windows 11 Home) PH315-54 with 39.6 cm (15.6 inches) QHD IPS Display/ 2.3 kgs",
+      "a-popover-trigger href": "javascript:void(0)",
+      "rating": "3.9 out of 5 stars",
+      "stock": "73",
+      "price": "₹1,24,846",
+      " original_price": "₹1,61,999",
+      "discount": "(23% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/71jG+e7roXL._AC_UL320_.jpg",
+      "title": "2020 Apple MacBook Air Laptop: Apple M1 chip, 13.3-inch/33.74 cm Retina Display, 8GB RAM, 256GB SSD Storage, Backlit Keyboard, FaceTime HD Camera, Touch ID. Works with iPhone/iPad; Space Grey",
+      "a-popover-trigger href": "javascript:void(0)",
+      "rating": "4.7 out of 5 stars",
+      "stock": "2,869",
+      "price": "₹86,990",
+      " original_price": "₹99,900",
+      "discount": "(13% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/719C6bJv8jL._AC_UL320_.jpg",
+      "title": "2022 Apple MacBook Air Laptop with M2 chip: 34.46 cm (13.6-inch) Liquid Retina Display, 8GB RAM, 256GB SSD Storage, Backlit Keyboard, 1080p FaceTime HD Camera. Works with iPhone/iPad; Midnight",
+      "a-popover-trigger href": "javascript:void(0)",
+      "rating": "4.9 out of 5 stars",
+      "stock": "7",
+      "price": "₹1,05,500",
+      " original_price": "₹1,19,900",
+      "discount": "(12% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/71eXNIDUGjL._AC_UL320_.jpg",
+      "title": "2022 Apple MacBook Air Laptop with M2 chip: 34.46 cm (13.6-inch) Liquid Retina Display, 8GB RAM, 256GB SSD Storage, Backlit Keyboard, 1080p FaceTime HD Camera. Works with iPhone/iPad; Silver",
+      "a-popover-trigger href": "",
+      "rating": "",
+      "stock": "",
+      "price": "₹1,04,313",
+      " original_price": "₹1,19,900",
+      "discount": "(13% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/71f5Eu5lJSL._AC_UL320_.jpg",
+      "title": "2022 Apple MacBook Air Laptop with M2 chip: 34.46 cm (13.6-inch) Liquid Retina Display, 8GB RAM, 512GB SSD Storage, Backlit Keyboard, 1080p FaceTime HD Camera. Works with iPhone/iPad; Space Grey",
+      "a-popover-trigger href": "javascript:void(0)",
+      "rating": "5.0 out of 5 stars",
+      "stock": "1",
+      "price": "₹1,30,413",
+      " original_price": "₹1,49,900",
+      "discount": "(13% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/710TJuHTMhL._AC_UL320_.jpg",
+      "title": "2022 Apple MacBook Air Laptop with M2 chip: 34.46 cm (13.6-inch) Liquid Retina Display, 8GB RAM, 256GB SSD Storage, Backlit Keyboard, 1080p FaceTime HD Camera. Works with iPhone/iPad; Starlight",
+      "a-popover-trigger href": "javascript:void(0)",
+      "rating": "5.0 out of 5 stars",
+      "stock": "3",
+      "price": "₹1,05,500",
+      " original_price": "₹1,19,900",
+      "discount": "(12% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/71f5Eu5lJSL._AC_UL320_.jpg",
+      "title": "2022 Apple MacBook Air Laptop with M2 chip: 34.46 cm (13.6-inch) Liquid Retina Display, 8GB RAM, 256GB SSD Storage, Backlit Keyboard, 1080p FaceTime HD Camera. Works with iPhone/iPad; Space Grey",
+      "a-popover-trigger href": "javascript:void(0)",
+      "rating": "4.4 out of 5 stars",
+      "stock": "7",
+      "price": "₹1,05,500",
+      " original_price": "₹1,19,900",
+      "discount": "(12% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/61Y30DpqRVL._AC_UL320_.jpg",
+      "title": "2021 Apple MacBook Pro (16-inch/41.05 cm, Apple M1 Pro chip with 10‑core CPU and 16‑core GPU, 16GB RAM, 512GB SSD) - Silver",
+      "a-popover-trigger href": "javascript:void(0)",
+      "rating": "4.4 out of 5 stars",
+      "stock": "12",
+      "price": "₹2,22,990",
+      " original_price": "₹2,39,900",
+      "discount": "(7% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/719C6bJv8jL._AC_UL320_.jpg",
+      "title": "2022 Apple MacBook Air Laptop with M2 chip: 34.46 cm (13.6-inch) Liquid Retina Display, 8GB RAM, 512GB SSD Storage, Backlit Keyboard, 1080p FaceTime HD Camera. Works with iPhone/iPad; Midnight",
+      "a-popover-trigger href": "javascript:void(0)",
+      "rating": "5.0 out of 5 stars",
+      "stock": "2",
+      "price": "₹1,39,990",
+      " original_price": "₹1,49,900",
+      "discount": "(7% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/61aUBxqc5PL._AC_UL320_.jpg",
+      "title": "2021 Apple MacBook Pro (16-inch/41.05 cm, Apple M1 Pro chip with 10‑core CPU and 16‑core GPU, 16GB RAM, 1TB SSD) - Space Grey",
+      "a-popover-trigger href": "javascript:void(0)",
+      "rating": "4.4 out of 5 stars",
+      "stock": "9",
+      "price": "₹2,39,090",
+      " original_price": "₹2,59,900",
+      "discount": "(8% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/61vFO3R5UNL._AC_UL320_.jpg",
+      "title": "2021 Apple MacBook Pro (14-inch/35.97 cm, Apple M1 Pro chip with 8‑core CPU and 14‑core GPU, 16GB RAM, 512GB SSD) - Space Grey",
+      "a-popover-trigger href": "javascript:void(0)",
+      "rating": "4.7 out of 5 stars",
+      "stock": "1,122",
+      "price": "₹1,81,990",
+      " original_price": "₹1,94,900",
+      "discount": "(7% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/61Y30DpqRVL._AC_UL320_.jpg",
+      "title": "2021 Apple MacBook Pro (16-inch/41.05 cm, Apple M1 Pro chip with 10‑core CPU and 16‑core GPU, 16GB RAM, 1TB SSD) - Silver",
+      "a-popover-trigger href": "javascript:void(0)",
+      "rating": "3.8 out of 5 stars",
+      "stock": "7",
+      "price": "₹2,41,990",
+      " original_price": "₹2,59,900",
+      "discount": "(7% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/71eXNIDUGjL._AC_UL320_.jpg",
+      "title": "2022 Apple MacBook Air Laptop with M2 chip: 34.46 cm (13.6-inch) Liquid Retina Display, 8GB RAM, 512GB SSD Storage, Backlit Keyboard, 1080p FaceTime HD Camera. Works with iPhone/iPad; Silver",
+      "a-popover-trigger href": "",
+      "rating": "",
+      "stock": "",
+      "price": "₹1,39,990",
+      " original_price": "₹1,49,900",
+      "discount": "(7% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/61cCf94xIEL._AC_UL320_.jpg",
+      "title": "2021 Apple MacBook Pro (14-inch/35.97 cm, Apple M1 Pro chip with 10‑core CPU and 16‑core GPU, 16GB RAM, 1TB SSD) - Silver",
+      "a-popover-trigger href": "javascript:void(0)",
+      "rating": "4.2 out of 5 stars",
+      "stock": "8",
+      "price": "₹2,22,990",
+      " original_price": "₹2,39,900",
+      "discount": "(7% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/71jG+e7roXL._AC_UL320_.jpg",
+      "title": "2020 Apple MacBook Air Laptop: Apple M1 chip, 13.3-inch/33.74 cm Retina Display, 8GB RAM, 256GB SSD Storage, Backlit Keyboard, FaceTime HD Camera, Touch ID. Works with iPhone/iPad; Space Grey",
+      "a-popover-trigger href": "javascript:void(0)",
+      "rating": "4.7 out of 5 stars",
+      "stock": "2,869",
+      "price": "₹86,990",
+      " original_price": "₹99,900",
+      "discount": "(13% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/71S8U9VzLTL._AC_UL320_.jpg",
+      "title": "ASUS VivoBook 15 (2021), 15.6-inch (39.62 cm) HD, Dual Core Intel Celeron N4020, Thin and Light Laptop (4GB RAM/256GB SSD/Integrated Graphics/Windows 11 Home/Transparent Silver/1.8 Kg), X515MA-BR011W",
+      "a-popover-trigger href": "javascript:void(0)",
+      "rating": "3.9 out of 5 stars",
+      "stock": "755",
+      "price": "₹25,990",
+      " original_price": "₹33,990",
+      "discount": "(24% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/71WuDXpTAlL._AC_UL320_.jpg",
+      "title": "ASUS VivoBook 14 (2021), Intel Core i5-1135G7 11th Gen, 14-inch (35.56 cms) FHD Thin and Light Laptop (8GB/1TB HDD + 256GB SSD/Office 2021/Windows 11/Iris Xe Graphics/Silver/1.6 Kg), X415EA-EK572WS",
+      "a-popover-trigger href": "javascript:void(0)",
+      "rating": "4.1 out of 5 stars",
+      "stock": "495",
+      "price": "₹48,990",
+      " original_price": "₹72,990",
+      "discount": "(33% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/61bwqXfWiaL._AC_UL320_.jpg",
+      "title": "ASUS ROG Strix G17, 17.3-inch (43.94 cms) FHD 144Hz, AMD Ryzen 7 4800H, RTX 3050 Ti 4GB Graphics, Gaming Laptop (16GB/1TB SSD/Windows 11//Gray/2.4 kg), G713IE-HX040W",
+      "a-popover-trigger href": "javascript:void(0)",
+      "rating": "4.4 out of 5 stars",
+      "stock": "69",
+      "price": "₹85,990",
+      " original_price": "₹1,21,990",
+      "discount": "(30% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/716bvqzz7PL._AC_UL320_.jpg",
+      "title": "ASUS Vivobook 14, 14.0-inch (35.56 cms) FHD, Intel Core i5-1035G1 10th Gen, Thin and Light Laptop (8GB/512GB SSD/Integrated Graphics/Windows 11/Office 2021/Grey/1.60 kg), X415JA-EK522WS",
+      "a-popover-trigger href": "javascript:void(0)",
+      "rating": "3.8 out of 5 stars",
+      "stock": "74",
+      "price": "₹42,400",
+      " original_price": "₹57,990",
+      "discount": "(27% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/716bvqzz7PL._AC_UL320_.jpg",
+      "title": "ASUS Vivobook 14, 14.0-inch (35.56 cms) FHD, Intel Core i3-1005G1 10th Gen, Thin and Light Laptop (8GB/512GB SSD/Integrated Graphics/Windows 11/Office 2021/Grey/1.60 kg), X415JA-EK324WS",
+      "a-popover-trigger href": "javascript:void(0)",
+      "rating": "3.9 out of 5 stars",
+      "stock": "86",
+      "price": "₹33,290",
+      " original_price": "₹45,990",
+      "discount": "(28% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/71S8U9VzLTL._AC_UL320_.jpg",
+      "title": "ASUS VivoBook 15, 15.6-inch (39.62 cms) FHD, Intel Core i3-1005G1 10th Gen, Thin and Light Laptop (8GB/512GB SSD/Windows 11/Office 2021/integrated Graphics/Fingerprint/Silver/1.8 kg), X515JA-EJ382WS",
+      "a-popover-trigger href": "javascript:void(0)",
+      "rating": "3.9 out of 5 stars",
+      "stock": "74",
+      "price": "₹33,490",
+      " original_price": "₹50,990",
+      "discount": "(34% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/91zVSkGGZbS._AC_UL320_.jpg",
+      "title": "ASUS TUF Gaming A15, 15.6-inch (39.62 cms) FHD 144Hz, AMD Ryzen 5 4600H, 4GB NVIDIA GeForce GTX 1650, Gaming Laptop (8GB/512GB SSD/90WHrs Battery/Windows 11/Black/2.3 Kg), FA506IHRB-HN079W",
+      "a-popover-trigger href": "javascript:void(0)",
+      "rating": "4.4 out of 5 stars",
+      "stock": "765",
+      "price": "₹56,877",
+      " original_price": "₹76,990",
+      "discount": "(26% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/710NRdecQtL._AC_UL320_.jpg",
+      "title": "ASUS TUF Gaming F15 (2021), 15.6\" (39.62 cms) FHD 144Hz, Intel Core i5-10300H 10th Gen, GTX 1650 4GB Graphics, Gaming Laptop (8GB RAM/512GB NVMe SSD/Windows 11/Black/2.30 Kg), FX506LH-HN258W",
+      "a-popover-trigger href": "javascript:void(0)",
+      "rating": "4.3 out of 5 stars",
+      "stock": "837",
+      "price": "₹59,900",
+      " original_price": "₹74,990",
+      "discount": "(20% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/719C6bJv8jL._AC_UL320_.jpg",
+      "title": "2022 Apple MacBook Air Laptop with M2 chip: 34.46 cm (13.6-inch) Liquid Retina Display, 8GB RAM, 256GB SSD Storage, Backlit Keyboard, 1080p FaceTime HD Camera. Works with iPhone/iPad; Midnight",
+      "a-popover-trigger href": "javascript:void(0)",
+      "rating": "4.9 out of 5 stars",
+      "stock": "7",
+      "price": "₹1,05,500",
+      " original_price": "₹1,19,900",
+      "discount": "(12% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/71S8U9VzLTL._AC_UL320_.jpg",
+      "title": "ASUS Vivobook 15, 15.6-inch (39.62 cms) FHD, AMD Ryzen 5 3500U, Thin and Light Laptop (8GB/512GB SSD/Integrated Graphics/Windows 11/Office 2021/Silver/1.8 kg), M515DA-BQ512WS, Transparent Silver",
+      "a-popover-trigger href": "javascript:void(0)",
+      "rating": "4.1 out of 5 stars",
+      "stock": "85",
+      "price": "₹39,511",
+      " original_price": "₹57,990",
+      "discount": "(32% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/71eH88Nni4L._AC_UL320_.jpg",
+      "title": "ASUS Vivobook S15 OLED 2022, 15.6\" 39.62 cm FHD OLED, Intel Core Evo i5-12500H 12th Gen, Thin and Light Laptop (16GB/512GB SSD/Iris Xe Graphics/Windows 11/Office 2021/Black/1.8 kg) K3502ZA-L502WS",
+      "a-popover-trigger href": "javascript:void(0)",
+      "rating": "4.1 out of 5 stars",
+      "stock": "111",
+      "price": "₹72,801",
+      " original_price": "₹89,000",
+      "discount": "(18% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/71vTtY1qJXL._AC_UL320_.jpg",
+      "title": "ASUS VivoBook K15 OLED (2021), 15.6\" (39.62 cms) FHD OLED, Intel Core i3-1115G4 11th Gen, Thin and Light Laptop (8GB/256GB SSD/Office 2021/Windows 11/Integrated Graphics/Silver/1.8 Kg), K513EA-L303WS",
+      "a-popover-trigger href": "javascript:void(0)",
+      "rating": "4.3 out of 5 stars",
+      "stock": "83",
+      "price": "₹41,390",
+      " original_price": "₹60,990",
+      "discount": "(32% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/716pqAwQBdL._AC_UL320_.jpg",
+      "title": "ASUS Eeebook 14, 14-inch (35.56 cms) HD, Intel Pentium Silver N6000, Thin and Laptop (4GB/256GB SSD/Integrated Graphics/Windows 11/Office 2021/Black/1.3 kg), E410KA-BV121WS",
+      "a-popover-trigger href": "javascript:void(0)",
+      "rating": "5.0 out of 5 stars",
+      "stock": "3",
+      "price": "₹24,990",
+      " original_price": "₹38,990",
+      "discount": "(36% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/71eXNIDUGjL._AC_UL320_.jpg",
+      "title": "2022 Apple MacBook Air Laptop with M2 chip: 34.46 cm (13.6-inch) Liquid Retina Display, 8GB RAM, 256GB SSD Storage, Backlit Keyboard, 1080p FaceTime HD Camera. Works with iPhone/iPad; Silver",
+      "a-popover-trigger href": "",
+      "rating": "",
+      "stock": "",
+      "price": "₹1,04,313",
+      " original_price": "₹1,19,900",
+      "discount": "(13% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/61wD0QVVMOL._AC_UL320_.jpg",
+      "title": "ASUS Vivobook Ultra K14, 11th Gen Intel Core i5-1135G7, 14\" (35.56 cm) FHD, Thin and Light Laptop (16GB/512GB SSD/Integrated Graphics/Windows 11/Backlit KB/Office 2021/Black/1.4 kg), K413EA-EB522WS",
+      "a-popover-trigger href": "javascript:void(0)",
+      "rating": "4.5 out of 5 stars",
+      "stock": "5",
+      "price": "₹56,990",
+      " original_price": "₹81,900",
+      "discount": "(30% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/61WGtGTOo4L._AC_UL320_.jpg",
+      "title": "ASUS VivoBook 15 (2020), 39.6 cm HD, Dual Core Intel Celeron N4020, Thin and Light Laptop (4GB RAM/1 TB HDD/Integrated Graphics/Windows 11 Home/Transparent Silver/1.8 Kg), X515MA-BR001W",
+      "a-popover-trigger href": "javascript:void(0)",
+      "rating": "3.0 out of 5 stars",
+      "stock": "29",
+      "price": "₹24,250",
+      " original_price": "₹33,990",
+      "discount": "(29% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/91zVSkGGZbS._AC_UL320_.jpg",
+      "title": "ASUS TUF Gaming A15, 15.6\" (39.62 cm) FHD 144Hz, AMD Ryzen 9 5900HX, 6GB RTX 3060, Gaming Laptop (16GB/512GB SSD/90WHrs Battery/Windows 11/Black/2.30 Kg), FA506QM-HN124W",
+      "a-popover-trigger href": "javascript:void(0)",
+      "rating": "4.2 out of 5 stars",
+      "stock": "105",
+      "price": "₹95,662",
+      " original_price": "₹1,19,990",
+      "discount": "(20% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/71f5Eu5lJSL._AC_UL320_.jpg",
+      "title": "2022 Apple MacBook Air Laptop with M2 chip: 34.46 cm (13.6-inch) Liquid Retina Display, 8GB RAM, 512GB SSD Storage, Backlit Keyboard, 1080p FaceTime HD Camera. Works with iPhone/iPad; Space Grey",
+      "a-popover-trigger href": "javascript:void(0)",
+      "rating": "5.0 out of 5 stars",
+      "stock": "1",
+      "price": "₹1,30,413",
+      " original_price": "₹1,49,900",
+      "discount": "(13% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/71NxKpg1NIL._AC_UL320_.jpg",
+      "title": "ASUS TUF Gaming A15 (2022), 15.6\"(39.62 cms) FHD 144Hz, AMD Ryzen 7 6800H, RTX 3060 6GB Graphics, Gaming Laptop (16GB/512GB SSD/90WHrs Battery/Windows 11/Office 2021/Gray/2.2 kg), FA507RM-HN089WS",
+      "a-popover-trigger href": "javascript:void(0)",
+      "rating": "3.7 out of 5 stars",
+      "stock": "10",
+      "price": "₹94,990",
+      " original_price": "₹1,46,990",
+      "discount": "(35% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/710TJuHTMhL._AC_UL320_.jpg",
+      "title": "2022 Apple MacBook Air Laptop with M2 chip: 34.46 cm (13.6-inch) Liquid Retina Display, 8GB RAM, 256GB SSD Storage, Backlit Keyboard, 1080p FaceTime HD Camera. Works with iPhone/iPad; Starlight",
+      "a-popover-trigger href": "javascript:void(0)",
+      "rating": "5.0 out of 5 stars",
+      "stock": "3",
+      "price": "₹1,05,500",
+      " original_price": "₹1,19,900",
+      "discount": "(12% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/51ygA-KhucL._AC_UL320_.jpg",
+      "title": "ASUS Vivobook 15, 15.6\" (39.62 cm) FHD, AMD Dual Core Ryzen 3 3200U, Thin and Light Laptop (8GB/256GB SSD/Integrated Graphics/Windows 11/Office 2021/Silver/1.68 Kg), X512DA-BQ301WS",
+      "a-popover-trigger href": "javascript:void(0)",
+      "rating": "4.1 out of 5 stars",
+      "stock": "338",
+      "price": "₹32,990",
+      " original_price": "₹39,990",
+      "discount": "(18% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/71f5Eu5lJSL._AC_UL320_.jpg",
+      "title": "2022 Apple MacBook Air Laptop with M2 chip: 34.46 cm (13.6-inch) Liquid Retina Display, 8GB RAM, 256GB SSD Storage, Backlit Keyboard, 1080p FaceTime HD Camera. Works with iPhone/iPad; Space Grey",
+      "a-popover-trigger href": "javascript:void(0)",
+      "rating": "4.4 out of 5 stars",
+      "stock": "7",
+      "price": "₹1,05,500",
+      " original_price": "₹1,19,900",
+      "discount": "(12% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/71S8U9VzLTL._AC_UL320_.jpg",
+      "title": "ASUS ASUS VivoBook 15 (2021), 15.6\" (39.62 cms) HD, AMD Ryzen 3-3250U, Thin and Light Laptop (8GB/256GB SSD/Windows 11/Integrated Graphics/Silver/1.8 kg), M515DA-BR322WS",
+      "a-popover-trigger href": "javascript:void(0)",
+      "rating": "4.0 out of 5 stars",
+      "stock": "366",
+      "price": "₹29,990",
+      " original_price": "₹43,990",
+      "discount": "(32% off)"
+    }
   ],
-  "profile": { "name": "typicode" }
+  "earphones": [
+    {
+      "images": "https://m.media-amazon.com/images/I/71j1dzyRQPS._AC_UL320_.jpg",
+      "title": "Sennheiser HD 450SE Bluetooth 5.0 Wireless Over Ear Headphone with mic, Alexa Built-in - Active Noise Cancellation, 30-Hour Battery Life, USB-C Fast Charging, Foldable - Black",
+      "rating": "4.0 out of 5 stars",
+      "stock": "1,168",
+      "price": "₹7,950",
+      "a-price-symbol": "₹",
+      " originalPrice": "₹14,990",
+      "discount": "(47% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/511wdfVcefL._AC_UL320_.jpg",
+      "title": "GOVO GOKIXX 952 Bluetooth Neckband, 106 Hours Battery, ENC Technology, Fast Charge, Gaming Mode, 10mm Drivers, Type C Charging, Wireless in Ear Earphone (Space Grey)",
+      "rating": "4.4 out of 5 stars",
+      "stock": "1,059",
+      "price": "₹1,399",
+      "a-price-symbol": "₹",
+      " originalPrice": "₹4,263",
+      "discount": "(67% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/413tdqsRGHL._AC_UL320_.jpg",
+      "title": "Hitage EarphoneWired in Ear Headphone with Mic (Blue)",
+      "rating": "",
+      "stock": "Only 1 left in stock.",
+      "price": "₹180",
+      "a-price-symbol": "₹",
+      " originalPrice": "₹200",
+      "discount": "(10% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/51UhwaQXCpL._AC_UL320_.jpg",
+      "title": "OnePlus Bullets Z2 Bluetooth Wireless in Ear Earphones with Mic, Bombastic Bass - 12.4 Mm Drivers, 10 Mins Charge - 20 Hrs Music, 30 Hrs Battery Life (Magico Black)",
+      "rating": "4.2 out of 5 stars",
+      "stock": "74,307",
+      "price": "₹1,699",
+      "a-price-symbol": "₹",
+      " originalPrice": "₹2,299",
+      "discount": "(26% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/51RP1QMh-mL._AC_UL320_.jpg",
+      "title": "OnePlus Bullets Z2 Bluetooth Wireless in Ear Earphones with Mic, Bombastic Bass - 12.4 Mm Drivers, 10 Mins Charge - 20 Hrs Music, 30 Hrs Battery Life (Acoustic Red)",
+      "rating": "4.2 out of 5 stars",
+      "stock": "74,307",
+      "price": "₹1,699",
+      "a-price-symbol": "₹",
+      " originalPrice": "₹2,299",
+      "discount": "(26% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/51HBom8xz7L._AC_UL320_.jpg",
+      "title": "boAt Airdopes 141 True Wireless In Ear Earbuds with mic, 42H Playtime, Beast Mode(Low Latency Upto 80ms) for Gaming, ENx Tech, ASAP Charge IWP, IPX4 Water Resistance, Smooth Touch Controls(Bold Black)",
+      "rating": "3.9 out of 5 stars",
+      "stock": "131,740",
+      "price": "₹1,499",
+      "a-price-symbol": "₹",
+      " originalPrice": "₹4,490",
+      "discount": "(67% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/719elVA3FvL._AC_UL320_.jpg",
+      "title": "boAt BassHeads 100 in-Ear Wired Headphones with Mic (Black)",
+      "rating": "4.1 out of 5 stars",
+      "stock": "361,129",
+      "price": "₹365",
+      "a-price-symbol": "₹",
+      " originalPrice": "₹999",
+      "discount": "(63% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/514NPRZ1AQL._AC_UL320_.jpg",
+      "title": "OnePlus Nord Buds True Wireless in Ear Earbuds with Mic, 12.4mm Titanium Drivers, Playback:Up to 30hr case, 4-Mic Design + AI Noise Cancellation, IP55 Rating, Fast Charging (Black Slate)",
+      "rating": "4.3 out of 5 stars",
+      "stock": "13,755",
+      "price": "₹2,499",
+      "a-price-symbol": "₹",
+      " originalPrice": "₹2,999",
+      "discount": "(17% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/51NKpc-CnBL._AC_UL320_.jpg",
+      "title": "boAt Newly Launched Airdopes Atom 81 True Wireless Earbuds with Upto 50H Playtime, Quad Mics ENx™ Tech, 13MM Drivers, Beast™ Mode(50ms Super Low Latency), ASAP™ Charge, BT v5.3(Opal Black)",
+      "rating": "4.0 out of 5 stars",
+      "stock": "916",
+      "price": "₹1,399",
+      "a-price-symbol": "₹",
+      " originalPrice": "₹4,490",
+      "discount": "(69% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/510+wjzq-vL._AC_UL320_.jpg",
+      "title": "boAt Airdopes 121v2 in-Ear True Wireless Earbuds with Upto 14 Hours Playback, 8MM Drivers, Battery Indicators, Lightweight Earbuds & Multifunction Controls (Active Black, with Mic)",
+      "rating": "3.8 out of 5 stars",
+      "stock": "170,028",
+      "price": "₹1,199",
+      "a-price-symbol": "₹",
+      " originalPrice": "₹2,990",
+      "discount": "(60% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/514m1VhSUUL._AC_UL320_.jpg",
+      "title": "OnePlus Bullets Z2 Bluetooth Wireless Earphones with Mic, Bombastic Bass - 12.4 Mm Drivers, 10 Mins Charge - 20 Hrs Music, 30 Hrs Battery Life (Beam Blue)",
+      "rating": "4.2 out of 5 stars",
+      "stock": "74,307",
+      "price": "₹1,699",
+      "a-price-symbol": "₹",
+      " originalPrice": "₹2,299",
+      "discount": "(26% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/61q-2yzbBtL._AC_UL320_.jpg",
+      "title": "boAt Newly Launched Immortal 121 TWS Gaming Earbuds with Beast™ Mode(40ms Low Latency), 40H Playtime, Blazing LEDs, Quad Mics ENx Signature Sound, ASAP™ Charge(10 Mins= 180 Mins)(Black Sabre)",
+      "rating": "",
+      "stock": "",
+      "price": "₹1,599",
+      "a-price-symbol": "₹",
+      " originalPrice": "₹3,499",
+      "discount": "(54% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/41SG4ZmtDTL._AC_UL320_.jpg",
+      "title": "Auxigen Bluetooth Wireless Neckband Earphone/Headphone with Fast Charging, Up to 24H Playback, Powerful Bass, Incoming Call Vibration, Ergonomic, Sweat-Resistant, Inbuilt Mic Neckband (Black)",
+      "rating": "4.1 out of 5 stars",
+      "stock": "19",
+      "price": "₹649",
+      "a-price-symbol": "₹",
+      " originalPrice": "₹1,499",
+      "discount": "(57% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/41aUq9CqKRL._AC_UL320_.jpg",
+      "title": "Bluetooth Ear Phones",
+      "rating": "",
+      "stock": "",
+      "price": "₹990",
+      "a-price-symbol": "₹",
+      " originalPrice": "₹3,399",
+      "discount": "(71% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/61a+GRcp1XL._AC_UL320_.jpg",
+      "title": "PORTONICS Earphones",
+      "rating": "",
+      "stock": "Only 1 left in stock.",
+      "price": "₹300",
+      "a-price-symbol": "₹",
+      " originalPrice": "₹599",
+      "discount": "(50% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/51tFAbNRaPL._AC_UL320_.jpg",
+      "title": "boAt Airdopes 141 True Wireless In Ear Earbuds with mic, 42H Playtime, BeastMode(Low Latency Upto 80ms) for Gaming, ENx Tech, ASAP Charge, IWP, IPX4 Water Resistance, Smooth Touch Controls(Cider Cyan)",
+      "rating": "3.9 out of 5 stars",
+      "stock": "131,740",
+      "price": "₹1,499",
+      "a-price-symbol": "₹",
+      " originalPrice": "₹4,490",
+      "discount": "(67% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/51Q8DUDT2eL._AC_UL320_.jpg",
+      "title": "JBL C100SI Wired In Ear Headphones with Mic, JBL Pure Bass Sound, One Button Multi-function Remote, Angled Buds for Comfort fit (Black)",
+      "rating": "4.1 out of 5 stars",
+      "stock": "191,692",
+      "price": "₹599",
+      "a-price-symbol": "₹",
+      " originalPrice": "₹1,299",
+      "discount": "(54% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/516MceMiCdL._AC_UL320_.jpg",
+      "title": "boAt Airdopes 141 True Wireless in Ear Earbuds with mic, 42H Playtime, Beast Mode(Low Latency 80ms) for Gaming, ENx Tech, ASAP Charge, IWP, IPX4 Water Resistance, Smooth Touch Controls(Pure White)",
+      "rating": "3.9 out of 5 stars",
+      "stock": "131,740",
+      "price": "₹1,499",
+      "a-price-symbol": "₹",
+      " originalPrice": "₹4,490",
+      "discount": "(67% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/51aBTOiXRlL._AC_UL320_.jpg",
+      "title": "boAt Rockerz 255 Pro+ in-Ear Bluetooth Neckband with Upto 40 Hours Playback, ASAP Charge, IPX7, Dual Pairing, BT v5.0, with Mic (Active Black)",
+      "rating": "4.1 out of 5 stars",
+      "stock": "138,486",
+      "price": "₹1,399",
+      "a-price-symbol": "₹",
+      " originalPrice": "₹3,990",
+      "discount": "(65% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/51D37uhFFBL._AC_UL320_.jpg",
+      "title": "ZEBRONICS Zeb-Bro in Ear Wired Earphones with Mic, 3.5mm Audio Jack, 10mm Drivers, Phone/Tablet Compatible(Black)",
+      "rating": "3.6 out of 5 stars",
+      "stock": "20,823",
+      "price": "₹149",
+      "a-price-symbol": "₹",
+      " originalPrice": "₹399",
+      "discount": "(63% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/51eIHcTAdeL._AC_UL320_.jpg",
+      "title": "OnePlus Nord Buds True Wireless in Ear Earbuds with Mic, 12.4mm Titanium Drivers, Playback:Up to 30hr case, 4-Mic Design + AI Noise Cancellation, IP55 Rating, Fast Charging (Blue Agate)",
+      "rating": "4.3 out of 5 stars",
+      "stock": "4,419",
+      "price": "₹2,499",
+      "a-price-symbol": "₹",
+      " originalPrice": "₹2,999",
+      "discount": "(17% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/61leqZi5dQL._AC_UL320_.jpg",
+      "title": "boAt BassHeads 122 Wired Earphones with Heavy Bass, Integrated Controls and Mic (Gun Metal)",
+      "rating": "4.0 out of 5 stars",
+      "stock": "111",
+      "price": "₹299",
+      "a-price-symbol": "₹",
+      " originalPrice": "₹1,290",
+      "discount": "(77% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/5161KgWnNEL._AC_UL320_.jpg",
+      "title": "boAt Airdopes 121v2 in-Ear True Wireless Earbuds with Upto 14 Hours Playback, with Mic, 8MM Drivers, Battery Indicators, Lightweight Earbuds & Multifunction Controls(Midnight Blue)",
+      "rating": "3.8 out of 5 stars",
+      "stock": "170,028",
+      "price": "₹1,199",
+      "a-price-symbol": "₹",
+      " originalPrice": "₹2,990",
+      "discount": "(60% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/51ZT3aMrJIL._AC_UL320_.jpg",
+      "title": "pTron Bassbuds Duo in Ear Earbuds with 32Hrs Total Playtime, Bluetooth 5.1 Wireless, Stereo Audio, Touch Control TWS, with Mic, Type-C Fast Charging, IPX4 & Voice Assistance (Black)",
+      "rating": "3.4 out of 5 stars",
+      "stock": "61,112",
+      "price": "₹799",
+      "a-price-symbol": "₹",
+      " originalPrice": "₹2,599",
+      "discount": "(69% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/61BsLMD3u2S._AC_UL320_.jpg",
+      "title": "realme Buds 2 Neo Wired in Ear Earphones with Mic (Black)",
+      "rating": "4.1 out of 5 stars",
+      "stock": "14,494",
+      "price": "₹499",
+      "a-price-symbol": "₹",
+      " originalPrice": "₹599",
+      "discount": "(17% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/51K8TkvtjgL._AC_UL320_.jpg",
+      "title": "PTron Tangentbeat in-Ear Bluetooth 5.0 Wireless Headphones with Mic, Enhanced Bass, 10mm Drivers, Clear Calls, Snug-Fit, Fast Charging, Magnetic Buds, Voice Assistant & IPX4 Wireless Neckband (Black)",
+      "rating": "3.9 out of 5 stars",
+      "stock": "57,314",
+      "price": "₹599",
+      "a-price-symbol": "₹",
+      " originalPrice": "₹2,499",
+      "discount": "(76% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/61DHTu6aisL._AC_UL320_.jpg",
+      "title": "boAt Rockerz 245 pro Bluetooth Neckband in Ear with Mic, Beast Mode(Super Low Latency) for Gaming, ENx Tech for Clear Calls, ASAP Charge, 20HRS Playtime,IPX4, Dual Pairing & BT v5.3(Fiery Black)",
+      "rating": "3.9 out of 5 stars",
+      "stock": "85,675",
+      "price": "₹1,199",
+      "a-price-symbol": "₹",
+      " originalPrice": "₹2,990",
+      "discount": "(60% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/51TRuzlKyvS._AC_UL320_.jpg",
+      "title": "boAt Bassheads 152 in Ear Wired Earphones with Mic(Active Black)",
+      "rating": "4.2 out of 5 stars",
+      "stock": "90,889",
+      "price": "₹449",
+      "a-price-symbol": "₹",
+      " originalPrice": "₹1,290",
+      "discount": "(65% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/51Kb3NDy1AL._AC_UL320_.jpg",
+      "title": "OnePlus Nord Wired Earphones with mic, 3.5mm Audio Jack, Enhanced bass with 9.2mm Dynamic Drivers, in-Ear Wired Earphone - Black",
+      "rating": "4.0 out of 5 stars",
+      "stock": "1,447",
+      "price": "₹599",
+      "a-price-symbol": "₹",
+      " originalPrice": "₹1,299",
+      "discount": "(54% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/61bKM6CSSFL._AC_UL320_.jpg",
+      "title": "JBL C50HI, Wired in Ear Headphones with Mic, One Button Multi-Function Remote, Lightweight & Comfortable fit (Black)",
+      "rating": "3.9 out of 5 stars",
+      "stock": "91,757",
+      "price": "₹499",
+      "a-price-symbol": "₹",
+      " originalPrice": "₹999",
+      "discount": "(50% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/515X+5Y3tqL._AC_UL320_.jpg",
+      "title": "Auxigen X5 Black Wireless Edition Neckband Headphone with 15 hr Playtime Bluetooth Headset (Blue, in The Ear)",
+      "rating": "",
+      "stock": "",
+      "price": "₹699",
+      "a-price-symbol": "₹",
+      " originalPrice": "₹1,499",
+      "discount": "(53% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/11awqVdO2QL._AC_UL320_.jpg",
+      "title": "Bluetooth Headphone for All Phones",
+      "rating": "",
+      "stock": "Only 1 left in stock.",
+      "price": "₹1,499",
+      "a-price-symbol": "₹",
+      " originalPrice": "₹2,499",
+      "discount": "(40% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/41tWbqX+1eL._AC_UL320_.jpg",
+      "title": "Honeywell Moxie V1000 5.0 Bluetooth Truly Wireless in Ear Earbuds with Mic Upto 12 Hours Playtime, Ipx4, Type-C Fast Charging, Voice Assistant (White)",
+      "rating": "3.1 out of 5 stars",
+      "stock": "98",
+      "price": "₹1,049",
+      "a-price-symbol": "₹",
+      " originalPrice": "₹2,999",
+      "discount": "(65% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/51ELL-YUv7L._AC_UL320_.jpg",
+      "title": "Infinity (JBL Glide 120, in Ear Wireless Earphones with Mic, Deep Bass, Dual Equalizer, 12mm Drivers, Premium Metal Earbuds, Comfortable Flex Neckband, Bluetooth 5.0, IPX5 Sweatproof (Black & Yellow)",
+      "rating": "3.9 out of 5 stars",
+      "stock": "60,624",
+      "price": "₹799",
+      "a-price-symbol": "₹",
+      " originalPrice": "₹2,999",
+      "discount": "(73% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/6126kPdxudL._AC_UL320_.jpg",
+      "title": "Infinity (JBL) Glide 120, in Ear Wireless Earphones with Mic, Deep Bass, Dual Equalizer, 12mm Drivers, Premium Metal Earbuds, Comfortable Flex Neckband, Bluetooth 5.0, IPX5 Sweatproof (Black & Red)",
+      "rating": "3.9 out of 5 stars",
+      "stock": "60,624",
+      "price": "₹799",
+      "a-price-symbol": "₹",
+      " originalPrice": "₹2,999",
+      "discount": "(73% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/61uxOS8mhfL._AC_UL320_.jpg",
+      "title": "Infinity (JBL) Zip 100 Wired in Ear Earphones with Mic, Immersive Bass, One Button Multi-Function Remote, Tangle Free Flat Cable (Black)",
+      "rating": "4.0 out of 5 stars",
+      "stock": "11,712",
+      "price": "₹399",
+      "a-price-symbol": "₹",
+      " originalPrice": "₹1,299",
+      "discount": "(69% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/716Il5U5F4L._AC_UL320_.jpg",
+      "title": "Infinity (JBL) Glide 510, 72 Hrs Playtime with Quick Charge, Wireless On Ear Headphone with Mic, Deep Bass, Dual Equalizer, Bluetooth 5.0 with Voice Assistant Support (Black)",
+      "rating": "4.2 out of 5 stars",
+      "stock": "42,602",
+      "price": "₹1,499",
+      "a-price-symbol": "₹",
+      " originalPrice": "₹3,999",
+      "discount": "(63% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/61dUEsT18EL._AC_UL320_.jpg",
+      "title": "Infinity (JBL) Zip 100 Wired in Ear Earphones with Mic, Immersive Bass, One Button Multi-Function Remote, Tangle Free Flat Cable (Blue)",
+      "rating": "4.0 out of 5 stars",
+      "stock": "11,712",
+      "price": "₹399",
+      "a-price-symbol": "₹",
+      " originalPrice": "₹1,299",
+      "discount": "(69% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/61yFK81D5BL._AC_UL320_.jpg",
+      "title": "Infinity (JBL) Zip 100 Wired in Ear Earphones with Mic, Immersive Bass, One Button Multi-Function Remote, Tangle Free Flat Cable (Red)",
+      "rating": "4.0 out of 5 stars",
+      "stock": "11,712",
+      "price": "₹299",
+      "a-price-symbol": "₹",
+      " originalPrice": "₹1,299",
+      "discount": "(77% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/51UwXG8jNXL._AC_UL320_.jpg",
+      "title": "Infinity (JBL) Swing 320 by Harman 19 Hours of Playtime, Dual Equalizers, Dual Connect, Bluetooth 5.0, Type C & Voice Assistant Support Bluetooth Truly Wireless in Ear Earbuds with Mic - Black",
+      "rating": "3.4 out of 5 stars",
+      "stock": "381",
+      "price": "₹1,399",
+      "a-price-symbol": "₹",
+      " originalPrice": "₹5,999",
+      "discount": "(77% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/71CM0FCo3BL._AC_UL320_.jpg",
+      "title": "Infinity (JBL) Glide 500, 20 Hrs Playtime with Quick Charge, Wireless On Ear Headphone with Mic, Deep Bass, Dual Equalizer, Bluetooth 5.0 with Voice Assistant Support (Black)",
+      "rating": "4.2 out of 5 stars",
+      "stock": "42,602",
+      "price": "₹1,599",
+      "a-price-symbol": "₹",
+      " originalPrice": "₹3,499",
+      "discount": "(54% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/71GQ+bR1jzL._AC_UL320_.jpg",
+      "title": "Infinity (JBL) Glide 500, 20 Hrs Playtime with Quick Charge, Wireless On Ear Headphone with Mic, Deep Bass, Dual Equalizer, Bluetooth 5.0 with Voice Assistant Support (Blue)",
+      "rating": "4.2 out of 5 stars",
+      "stock": "42,602",
+      "price": "₹1,599",
+      "a-price-symbol": "₹",
+      " originalPrice": "₹3,499",
+      "discount": "(54% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/51ELL-YUv7L._AC_UL320_.jpg",
+      "title": "(Renewed) Infinity (JBL) Glide 120, In Ear Wireless Earphones with Mic, Deep Bass, Dual Equalizer, 12mm Drivers, Premium Metal Earbuds, Comfortable Flex Neckband, Bluetooth 5.0, IPX5 Sweatproof (Black & Yellow)",
+      "rating": "3.3 out of 5 stars",
+      "stock": "51",
+      "price": "",
+      "a-price-symbol": "",
+      " originalPrice": "",
+      "discount": ""
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/619OijH9HnL._AC_UL320_.jpg",
+      "title": "(Renewed) Infinity (JBL) Glide 120 Wireless Bluetooth In Ear Neckband Earphone with Mic (Black & Red)",
+      "rating": "3.8 out of 5 stars",
+      "stock": "1,313",
+      "price": "₹999",
+      "a-price-symbol": "₹",
+      " originalPrice": "₹2,999",
+      "discount": "(66% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/51KwUL4LBRL._AC_UL320_.jpg",
+      "title": "Infinity by Harman Glide N200, in Ear Wireless Earphones with Mic, 20 Hours Playtime with Fast Charging, Deep Bass, Dual Equalizer, Premium Metal Earbuds, Bluetooth 5.0, IPX5 Sweatproof (Black)",
+      "rating": "3.8 out of 5 stars",
+      "stock": "22",
+      "price": "₹1,899",
+      "a-price-symbol": "₹",
+      " originalPrice": "₹3,999",
+      "discount": "(53% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/61D+CNKWRTL._AC_UL320_.jpg",
+      "title": "(Renewed) Infinity Glide 120 Wireless Bluetooth In Ear Neckband Earphone with Mic (Black & Yellow)",
+      "rating": "4.0 out of 5 stars",
+      "stock": "1,094",
+      "price": "₹823",
+      "a-price-symbol": "₹",
+      " originalPrice": "₹2,999",
+      "discount": "(72% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/51UwXG8jNXL._AC_UL320_.jpg",
+      "title": "(Renewed) Infinity (JBL) Swing 320 by Harman, True Wireless Earbuds with Mic, 19 Hours of Playtime, Dual Equalizers, Dual Connect, Bluetooth 5.0, Type C & Voice Assistant Support (Black)",
+      "rating": "3.3 out of 5 stars",
+      "stock": "25",
+      "price": "",
+      "a-price-symbol": "",
+      " originalPrice": "",
+      "discount": ""
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/71MvbD9hXZL._AC_UL320_.jpg",
+      "title": "Infinity (JBL) Glide 500, 20 Hrs Playtime with Quick Charge, Wireless On Ear Headphone with Mic, Deep Bass, Dual Equalizer, Bluetooth 5.0 with Voice Assistant Support (Red)",
+      "rating": "4.2 out of 5 stars",
+      "stock": "42,602",
+      "price": "₹1,599",
+      "a-price-symbol": "₹",
+      " originalPrice": "₹3,499",
+      "discount": "(54% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/61L+GGfbovL._AC_UL320_.jpg",
+      "title": "Infinity by Harman Wynd 220 in-Ear Deep Bass Headphones with Mic (Red)",
+      "rating": "3.1 out of 5 stars",
+      "stock": "5",
+      "price": "₹519",
+      "a-price-symbol": "₹",
+      " originalPrice": "₹699",
+      "discount": "(26% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/61uxOS8mhfL._AC_UL320_.jpg",
+      "title": "(Renewed) Infinity (Jbl) Zip 100 Deep Bass Wired In Ear Earphones With Mic (Charcoal Black)",
+      "rating": "3.7 out of 5 stars",
+      "stock": "379",
+      "price": "",
+      "a-price-symbol": "",
+      " originalPrice": "",
+      "discount": ""
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/61dUEsT18EL._AC_UL320_.jpg",
+      "title": "(Renewed) Infinity (JBL) Zip 100 Wired In Ear Headphone with Mic (Mystic Blue)",
+      "rating": "3.7 out of 5 stars",
+      "stock": "379",
+      "price": "",
+      "a-price-symbol": "",
+      " originalPrice": "",
+      "discount": ""
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/6126kPdxudL._AC_UL320_.jpg",
+      "title": "(Renewed) Infinity (JBL) Glide 120, in Ear Wireless Earphones with Mic, Deep Bass, Dual Equalizer, 12mm Drivers, Premium Metal Earbuds, Comfortable Flex Neckband, Bluetooth 5.0, IPX5 Sweatproof (Black & Red)",
+      "rating": "3.3 out of 5 stars",
+      "stock": "51",
+      "price": "",
+      "a-price-symbol": "",
+      " originalPrice": "",
+      "discount": ""
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/61HFFlfALKS._AC_UL320_.jpg",
+      "title": "Infinity by Harman Tranz 300 Wireless in-Ear Dual EQ Deep Bass IPX5 Sweatproof Headphones with Mic (Red)",
+      "rating": "3.3 out of 5 stars",
+      "stock": "15",
+      "price": "₹999",
+      "a-price-symbol": "₹",
+      " originalPrice": "₹2,499",
+      "discount": "(60% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/61uxOS8mhfL._AC_UL320_.jpg",
+      "title": "Infinity by Harman Wynd 300 Wired in Ear Headphone with Mic (Black)",
+      "rating": "4.0 out of 5 stars",
+      "stock": "65",
+      "price": "₹799",
+      "a-price-symbol": "₹",
+      " originalPrice": "₹999",
+      "discount": "(20% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/61OEosOH8dL._AC_UL320_.jpg",
+      "title": "Infinity by Harman Glide N200, in Ear Wireless Earphones with Mic, 20 Hours Playtime with Fast Charging, Deep Bass, Dual Equalizer, Premium Metal Earbuds, Bluetooth 5.0, IPX5 Sweatproof (Black & Red)",
+      "rating": "3.8 out of 5 stars",
+      "stock": "22",
+      "price": "₹1,799",
+      "a-price-symbol": "₹",
+      " originalPrice": "₹3,999",
+      "discount": "(55% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/31WC0S1ZHAL._AC_UL320_.jpg",
+      "title": "(Renewed) Infinity-JBL Glide 105 in-Ear Wireless Dual EQ Deep Bass IPX5 Sweatproof Headphones with Mic (Charcoal Black)",
+      "rating": "3.1 out of 5 stars",
+      "stock": "7",
+      "price": "₹1,199",
+      "a-price-symbol": "₹",
+      " originalPrice": "₹2,999",
+      "discount": "(60% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/61dUEsT18EL._AC_UL320_.jpg",
+      "title": "Infinity by Harman Wynd 300 in-Ear Immersive Bass Tangle Free Flat Cable Headphones with Mic (Blue)",
+      "rating": "4.0 out of 5 stars",
+      "stock": "65",
+      "price": "₹799",
+      "a-price-symbol": "₹",
+      " originalPrice": "₹999",
+      "discount": "(20% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/51UhwaQXCpL._AC_UL320_.jpg",
+      "title": "OnePlus Bullets Z2 Bluetooth Wireless in Ear Earphones with Mic, Bombastic Bass - 12.4 Mm Drivers, 10 Mins Charge - 20 Hrs Music, 30 Hrs Battery Life (Magico Black)",
+      "rating": "4.2 out of 5 stars",
+      "stock": "74,307",
+      "price": "₹1,699",
+      "a-price-symbol": "₹",
+      " originalPrice": "₹2,299",
+      "discount": "(26% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/51RP1QMh-mL._AC_UL320_.jpg",
+      "title": "OnePlus Bullets Z2 Bluetooth Wireless in Ear Earphones with Mic, Bombastic Bass - 12.4 Mm Drivers, 10 Mins Charge - 20 Hrs Music, 30 Hrs Battery Life (Acoustic Red)",
+      "rating": "4.2 out of 5 stars",
+      "stock": "74,307",
+      "price": "₹1,699",
+      "a-price-symbol": "₹",
+      " originalPrice": "₹2,299",
+      "discount": "(26% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/514NPRZ1AQL._AC_UL320_.jpg",
+      "title": "OnePlus Nord Buds True Wireless in Ear Earbuds with Mic, 12.4mm Titanium Drivers, Playback:Up to 30hr case, 4-Mic Design + AI Noise Cancellation, IP55 Rating, Fast Charging (Black Slate)",
+      "rating": "4.3 out of 5 stars",
+      "stock": "13,755",
+      "price": "₹2,499",
+      "a-price-symbol": "₹",
+      " originalPrice": "₹2,999",
+      "discount": "(17% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/514m1VhSUUL._AC_UL320_.jpg",
+      "title": "OnePlus Bullets Z2 Bluetooth Wireless Earphones with Mic, Bombastic Bass - 12.4 Mm Drivers, 10 Mins Charge - 20 Hrs Music, 30 Hrs Battery Life (Beam Blue)",
+      "rating": "4.2 out of 5 stars",
+      "stock": "74,307",
+      "price": "₹1,699",
+      "a-price-symbol": "₹",
+      " originalPrice": "₹2,299",
+      "discount": "(26% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/51eIHcTAdeL._AC_UL320_.jpg",
+      "title": "OnePlus Nord Buds True Wireless in Ear Earbuds with Mic, 12.4mm Titanium Drivers, Playback:Up to 30hr case, 4-Mic Design + AI Noise Cancellation, IP55 Rating, Fast Charging (Blue Agate)",
+      "rating": "4.3 out of 5 stars",
+      "stock": "4,419",
+      "price": "₹2,499",
+      "a-price-symbol": "₹",
+      " originalPrice": "₹2,999",
+      "discount": "(17% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/51Kb3NDy1AL._AC_UL320_.jpg",
+      "title": "OnePlus Nord Wired Earphones with mic, 3.5mm Audio Jack, Enhanced bass with 9.2mm Dynamic Drivers, in-Ear Wired Earphone - Black",
+      "rating": "4.0 out of 5 stars",
+      "stock": "1,447",
+      "price": "₹599",
+      "a-price-symbol": "₹",
+      " originalPrice": "₹1,299",
+      "discount": "(54% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/51AMqyp+sfL._AC_UL320_.jpg",
+      "title": "OnePlus Buds Z2 Bluetooth Truly Wireless in Ear Earbuds with mic, Active Noise Cancellation, 10 Minutes Flash Charge & Upto 38 Hours Battery (Obsidian Black)",
+      "rating": "4.2 out of 5 stars",
+      "stock": "14,993",
+      "price": "₹4,499",
+      "a-price-symbol": "₹",
+      " originalPrice": "₹5,999",
+      "discount": "(25% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/41shy5i6A7L._AC_UL320_.jpg",
+      "title": "OnePlus Nord Buds True Wireless in Ear Earbuds with Mic, 12.4mm Titanium Drivers, Playback:Up to 30hr case, 4-Mic Design + AI Noise Cancellation, IP55 Rating, Fast Charging (White Marble)",
+      "rating": "4.2 out of 5 stars",
+      "stock": "3,574",
+      "price": "₹2,499",
+      "a-price-symbol": "₹",
+      " originalPrice": "₹2,999",
+      "discount": "(17% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/41+o3c8Qo+L._AC_UL320_.jpg",
+      "title": "OnePlus Nord Buds CE Truly Wireless Bluetooth Headset (Mist Grey, True Wireless)",
+      "rating": "5.0 out of 5 stars",
+      "stock": "3",
+      "price": "₹1,899",
+      "a-price-symbol": "₹",
+      " originalPrice": "₹2,699",
+      "discount": "(30% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/419Pe9doxrL._AC_UL320_.jpg",
+      "title": "OnePlus Buds Z2 Bluetooth Truly Wireless in Ear Earbuds with mic, Active Noise Cancellation, 10 Minutes Flash Charge & Upto 38 Hours Battery (Pearl White)",
+      "rating": "4.2 out of 5 stars",
+      "stock": "14,993",
+      "price": "₹4,499",
+      "a-price-symbol": "₹",
+      " originalPrice": "₹5,999",
+      "discount": "(25% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/51jJs-kCh6S._AC_UL320_.jpg",
+      "title": "Oneplus Buds Pro Bluetooth Truly Wireless in Ear Earbuds with mic, Smart Adaptive Noise Cancellation, 10 Minutes Warp Charge, Upto 38 Hours Battery, Zen Mode, Bluetooth 5.2v (Matte Black)",
+      "rating": "4.3 out of 5 stars",
+      "stock": "12,782",
+      "price": "₹8,990",
+      "a-price-symbol": "₹",
+      " originalPrice": "₹11,990",
+      "discount": "(25% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/31TUX1AK87L._AC_UL320_.jpg",
+      "title": "OnePlus Nord Buds CE Truly Wireless Bluetooth Headset",
+      "rating": "3.8 out of 5 stars",
+      "stock": "5",
+      "price": "₹1,899",
+      "a-price-symbol": "₹",
+      " originalPrice": "₹2,699",
+      "discount": "(30% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/61xftZKXvwL._AC_UL320_.jpg",
+      "title": "Noise Buds VS201 V2 Truly Wireless Earbuds with Dual Equalizer | Total 14-Hour Playtime | Full Touch Control | IPX5 Water Resistance and Bluetooth v5.1 (Charcoal Black)",
+      "rating": "3.8 out of 5 stars",
+      "stock": "14,074",
+      "price": "₹1,099",
+      "a-price-symbol": "₹",
+      " originalPrice": "₹2,999",
+      "discount": "(63% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/51PQG1YYb1L._AC_UL320_.jpg",
+      "title": "Noise Buds VS201 V2 Truly Wireless Earbuds with Dual Equalizer | Total 14-Hour Playtime | Full Touch Control | IPX5 Water Resistance and Bluetooth v5.1 (Olive Green)",
+      "rating": "3.8 out of 5 stars",
+      "stock": "14,074",
+      "price": "₹1,099",
+      "a-price-symbol": "₹",
+      " originalPrice": "₹2,999",
+      "discount": "(63% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/51cjIEYU8BL._AC_UL320_.jpg",
+      "title": "Noise Buds Vs104 Bluetooth Truly Wireless in Ear Earbuds with Mic, 30-Hours of Playtime, Instacharge, 13Mm Driver and Hyper Sync (Charcoal Black)",
+      "rating": "3.9 out of 5 stars",
+      "stock": "11,606",
+      "price": "₹1,499",
+      "a-price-symbol": "₹",
+      " originalPrice": "₹3,499",
+      "discount": "(57% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/51JXkQwDd7L._AC_UL320_.jpg",
+      "title": "Noise Buds VS402 Truly Wireless in Ear Earbuds, 35-Hours of Playtime, Instacharge, Quad Mic with ENC, Hyper Sync, Low Latency, 10mm Driver, Bluetooth v5.3 and Breathing LED Lights (Neon Black)",
+      "rating": "3.9 out of 5 stars",
+      "stock": "3,161",
+      "price": "₹1,699",
+      "a-price-symbol": "₹",
+      " originalPrice": "₹3,999",
+      "discount": "(58% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/51SnB1u-RVL._AC_UL320_.jpg",
+      "title": "Noise Buds VS201 V2 Truly Wireless Earbuds with Dual Equalizer | Total 14-Hour Playtime | Full Touch Control | IPX5 Water Resistance and Bluetooth v5.1 (Snow White)",
+      "rating": "3.8 out of 5 stars",
+      "stock": "14,074",
+      "price": "₹1,099",
+      "a-price-symbol": "₹",
+      " originalPrice": "₹2,999",
+      "discount": "(63% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/515Ms0UVcOL._AC_UL320_.jpg",
+      "title": "Noise Sense Bluetooth Wireless in Ear Earphones, Neckband Earphones with Fast Charging, Up to 25H Playback, Powerful Bass, with mic for Clear Calls, Type C Port, IPX5, Voice Assistant (Forest Green)",
+      "rating": "3.7 out of 5 stars",
+      "stock": "7,602",
+      "price": "₹799",
+      "a-price-symbol": "₹",
+      " originalPrice": "₹2,499",
+      "discount": "(68% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/51IMKrvd3cL._AC_UL320_.jpg",
+      "title": "Noise Air Buds+ Truly Wireless Earbuds with Instacharge & Hypersync Technology, Silicone tip, Superb Calling & 20 Hour Playtime - Pearl White",
+      "rating": "3.6 out of 5 stars",
+      "stock": "23,334",
+      "price": "₹1,599",
+      "a-price-symbol": "₹",
+      " originalPrice": "₹5,999",
+      "discount": "(73% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/41w480HudVL._AC_UL320_.jpg",
+      "title": "Noise Buds Vs104 Bluetooth Truly Wireless in Ear Earbuds with Mic, 30-Hours of Playtime, Instacharge, 13Mm Driver and Hyper Sync (Snow White)",
+      "rating": "3.9 out of 5 stars",
+      "stock": "11,606",
+      "price": "₹1,499",
+      "a-price-symbol": "₹",
+      " originalPrice": "₹3,499",
+      "discount": "(57% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/418ekrgOUpL._AC_UL320_.jpg",
+      "title": "Noise Buds VS104 Pro Truly Wireless in Ear Earbuds with 40-Hours of Playtime, Quad Mic with ENC, Instacharge, 14.2mm Driver, Hyper Sync, and BT v5.3 (Snow White)",
+      "rating": "3.9 out of 5 stars",
+      "stock": "869",
+      "price": "₹1,699",
+      "a-price-symbol": "₹",
+      " originalPrice": "₹4,999",
+      "discount": "(66% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/51nhTdeIjLL._AC_UL320_.jpg",
+      "title": "Noise Beads Bluetooth Truly Wireless in Ear Earbuds with Mic, 18 Hours of Playtime, Metallic Finish, Hypersync, Full Touch Controls, IPX5 (Onyx Black)",
+      "rating": "3.8 out of 5 stars",
+      "stock": "1,413",
+      "price": "₹1,199",
+      "a-price-symbol": "₹",
+      " originalPrice": "₹3,499",
+      "discount": "(66% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/51-NWXuRPHL._AC_UL320_.jpg",
+      "title": "Noise Buds VS402 Truly Wireless in Ear Earbuds with 35-Hours of Playtime, Instacharge, Quad Mic with ENC, Hyper Sync, Low Latency, 10mm Driver, Bluetooth v5.3 and Breathing LED Lights (Neon White)",
+      "rating": "3.9 out of 5 stars",
+      "stock": "3,161",
+      "price": "₹1,699",
+      "a-price-symbol": "₹",
+      " originalPrice": "₹3,999",
+      "discount": "(58% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/51xZXDWaMOL._AC_UL320_.jpg",
+      "title": "Noise Buds VS104 Pro Truly Wireless in Ear Earbuds with Mic, 40-Hours of Playtime, Quad Mic with ENC, Instacharge, 14.2mm Driver, Hyper Sync, and BT v5.3 (Jet Black)",
+      "rating": "3.9 out of 5 stars",
+      "stock": "869",
+      "price": "₹1,699",
+      "a-price-symbol": "₹",
+      " originalPrice": "₹4,999",
+      "discount": "(66% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/51BI-RvB9QS._AC_UL320_.jpg",
+      "title": "Noise Buds VS304 Truly Wireless Earbuds with 35-Hours of Playtime, Instacharge, 13 mm Driver and BT v5.3 (Pearl White)",
+      "rating": "3.3 out of 5 stars",
+      "stock": "19",
+      "price": "₹1,199",
+      "a-price-symbol": "₹",
+      " originalPrice": "₹2,999",
+      "discount": "(60% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/5192Je6zruL._AC_UL320_.jpg",
+      "title": "Noise Buds VS104 in-Ear Truly Wireless in-The-Ear Bluetooth Earbuds with 30-Hours of Playtime, Instacharge, 13mm Driver and Hyper Sync, with Mic (Midnight Blue)",
+      "rating": "3.9 out of 5 stars",
+      "stock": "11,606",
+      "price": "₹1,499",
+      "a-price-symbol": "₹",
+      " originalPrice": "₹3,499",
+      "discount": "(57% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/61wtl1kc7sL._AC_UL320_.jpg",
+      "title": "Noise Newly Launched Air Buds 2 Truly Wireless Earbuds with 40-Hours of Playtime, Instacharge(10-min Charge=240-min Playtime), Quad Mic with ENC, 13 mm Driver, and BT v5.3 (Clear Black)",
+      "rating": "3.7 out of 5 stars",
+      "stock": "52",
+      "price": "₹1,899",
+      "a-price-symbol": "₹",
+      " originalPrice": "₹4,999",
+      "discount": "(62% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/617ipd8Kj8L._AC_UL320_.jpg",
+      "title": "Noise Buds VS304 Truly Wireless Earbuds with 35-Hours of Playtime, Instacharge, 13 mm Driver and BT v5.3 (Jet Black)",
+      "rating": "3.3 out of 5 stars",
+      "stock": "19",
+      "price": "₹1,199",
+      "a-price-symbol": "₹",
+      " originalPrice": "₹2,999",
+      "discount": "(60% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/51PDLMolT1L._AC_UL320_.jpg",
+      "title": "Noise Newly Launched Air Buds 2 Truly Wireless Earbuds with 40-Hours of Playtime, Instacharge(10-min Charge=240-min Playtime), Quad Mic with ENC, 13 mm Driver, and BT v5.3 (Clear White)",
+      "rating": "3.7 out of 5 stars",
+      "stock": "52",
+      "price": "₹1,899",
+      "a-price-symbol": "₹",
+      " originalPrice": "₹4,999",
+      "discount": "(62% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/51fwPblxpVS._AC_UL320_.jpg",
+      "title": "Noise Flair in-Ear Wireless Bluetooth Smart Neckband Earphone with Touch Controls, 35 Hour Playtime, Environmental noise Cancellation with Dual mic, Fast Charging (Carbon Black)",
+      "rating": "3.7 out of 5 stars",
+      "stock": "22,582",
+      "price": "₹1,799",
+      "a-price-symbol": "₹",
+      " originalPrice": "₹3,999",
+      "discount": "(55% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/51NkdCBvNYL._AC_UL320_.jpg",
+      "title": "Noise Buds VS104 Pro Truly Wireless Earbuds with 40-Hours of Playtime, Quad Mic with ENC, Instacharge, 14.2mm Driver, Hyper Sync, and BT v5.3 (Mint Green)",
+      "rating": "3.9 out of 5 stars",
+      "stock": "869",
+      "price": "₹1,699",
+      "a-price-symbol": "₹",
+      " originalPrice": "₹4,999",
+      "discount": "(66% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/61ug52gyYtL._AC_UL320_.jpg",
+      "title": "Noise Buds VS303 Truly Wireless Earbuds with 24 Hour Playtime, Hyper Sync Technology, 13mm Speaker Driver and Full Touch Control (Space Blue)",
+      "rating": "3.7 out of 5 stars",
+      "stock": "5,980",
+      "price": "₹1,399",
+      "a-price-symbol": "₹",
+      " originalPrice": "₹3,499",
+      "discount": "(60% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/61D9HOKbLLL._AC_UL320_.jpg",
+      "title": "Noise Sense Bluetooth Wireless in Ear Earphones,Neckband Earphones with Fast Charging, Up to 25H Playback, Powerful Bass, with mic for Clear Calls, Type C Port, IPX5, Voice Assistant (Cobalt Blue)",
+      "rating": "3.7 out of 5 stars",
+      "stock": "7,602",
+      "price": "₹799",
+      "a-price-symbol": "₹",
+      " originalPrice": "₹2,499",
+      "discount": "(68% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/512hYGWmsFL._AC_UL320_.jpg",
+      "title": "Noise Air Buds+ Truly Wireless Earbuds with Instacharge & Hypersync Technology, Silicone tip, Superb Calling & 20 Hour Playtime - Jet Black",
+      "rating": "3.6 out of 5 stars",
+      "stock": "23,334",
+      "price": "₹1,599",
+      "a-price-symbol": "₹",
+      " originalPrice": "₹5,499",
+      "discount": "(71% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/51N7YAJHWDL._AC_UL320_.jpg",
+      "title": "Noise Tune Active Pro Wireless Neckband with Upto 60 Hours of Playtime, ESR, Dual Pairing, Low Latency, Instacharge, 10mm Driver, and Bluetooth v5.2 (Midnight Black)",
+      "rating": "3.9 out of 5 stars",
+      "stock": "19,502",
+      "price": "₹1,099",
+      "a-price-symbol": "₹",
+      " originalPrice": "₹2,999",
+      "discount": "(63% off)"
+    },
+    {
+      "images": "https://m.media-amazon.com/images/I/51m9-2YERmS._AC_UL320_.jpg",
+      "title": "Noise Flair in-Ear Wireless Bluetooth Smart Neckband Earphone with Touch Controls, 35 Hour Playtime, Environmental noise Cancellation with Dual mic, Fast Charging (Stone Blue)",
+      "rating": "3.7 out of 5 stars",
+      "stock": "22,582",
+      "price": "₹1,799",
+      "a-price-symbol": "₹",
+      " originalPrice": "₹3,999",
+      "discount": "(55% off)"
+    }
+  ]
 }
