@@ -6,8 +6,8 @@
       "rating": "4.3 out of 5 stars",
       "stock": "103,981",
       "price": "₹18,999",
-      "a-price-symbol": "₹",
-      " original_price": "₹19,999",
+      "id": "1",
+      "original": "₹19,999",
       "discount": "(5% off)"
     },
     {
@@ -16,8 +16,8 @@
       "rating": "4.3 out of 5 stars",
       "stock": "15,805",
       "price": "₹28,999",
-      "a-price-symbol": "₹",
-      " original_price": "",
+      "id": "2",
+      "original": "",
       "discount": ""
     },
     {
@@ -26,8 +26,8 @@
       "rating": "4.3 out of 5 stars",
       "stock": "103,981",
       "price": "₹18,999",
-      "a-price-symbol": "₹",
-      " original_price": "₹19,999",
+      "id": "3",
+      "original": "₹19,999",
       "discount": "(5% off)"
     },
     {
@@ -36,8 +36,8 @@
       "rating": "4.3 out of 5 stars",
       "stock": "15,805",
       "price": "₹28,999",
-      "a-price-symbol": "₹",
-      " original_price": "",
+      "id": "4",
+      "original": "",
       "discount": ""
     },
     {
@@ -46,8 +46,8 @@
       "rating": "4.3 out of 5 stars",
       "stock": "15,805",
       "price": "₹33,999",
-      "a-price-symbol": "₹",
-      " original_price": "",
+      "id": "5",
+      "original": "",
       "discount": ""
     },
     {
@@ -56,29 +56,9 @@
       "rating": "4.3 out of 5 stars",
       "stock": "15,805",
       "price": "₹33,999",
-      "a-price-symbol": "₹",
-      " original_price": "",
+      "id": "6",
+      "original": "",
       "discount": ""
-    },
-    {
-      "images": "https://m.media-amazon.com/images/I/71CcsdfxMuL._AC_UL320_.jpg",
-      "title": "OnePlus Warp Charge Type-C Cable (100cm, Red)",
-      "rating": "4.2 out of 5 stars",
-      "stock": "1,666",
-      "price": "₹848",
-      "a-price-symbol": "₹",
-      " original_price": "",
-      "discount": ""
-    },
-    {
-      "images": "https://m.media-amazon.com/images/I/510+3Km7MtL._AC_UL320_.jpg",
-      "title": "OnePlus Nord Watch with 1.78” AMOLED Display, 60 Hz Refresh Rate, 105 Fitness Modes, 10 Days Battery, SPO2, Heart Rate, Stress Monitor, Women Health Tracker & Multiple Watch Face [Midnight Black]",
-      "rating": "3.8 out of 5 stars",
-      "stock": "577",
-      "price": "₹4,499",
-      "a-price-symbol": "₹",
-      " original_price": "₹6,999",
-      "discount": "(36% off)"
     },
     {
       "images": "https://m.media-amazon.com/images/I/71flXufDnbL._AC_UL320_.jpg",
@@ -86,8 +66,8 @@
       "rating": "4.3 out of 5 stars",
       "stock": "2,796",
       "price": "₹49,999",
-      "a-price-symbol": "₹",
-      " original_price": "",
+      "id": "7",
+      "original": "",
       "discount": ""
     },
     {
@@ -96,8 +76,8 @@
       "rating": "4.3 out of 5 stars",
       "stock": "2,796",
       "price": "₹55,999",
-      "a-price-symbol": "₹",
-      " original_price": "",
+      "id": "8",
+      "original": "",
       "discount": ""
     },
     {
@@ -106,19 +86,9 @@
       "rating": "4.3 out of 5 stars",
       "stock": "2,796",
       "price": "₹54,999",
-      "a-price-symbol": "₹",
-      " original_price": "₹56,999",
+      "id": "9",
+      "original": "₹56,999",
       "discount": ""
-    },
-    {
-      "images": "https://m.media-amazon.com/images/I/51Lums4VcgL._AC_UL320_.jpg",
-      "title": "OnePlus Nord Watch with 1.78” AMOLED Display, 60 Hz Refresh Rate, 105 Fitness Modes, 10 Days Battery, SPO2, Heart Rate, Stress Monitor, Women Health Tracker & Multiple Watch Faces [Deep Blue]",
-      "rating": "3.8 out of 5 stars",
-      "stock": "577",
-      "price": "₹4,499",
-      "a-price-symbol": "₹",
-      " original_price": "₹6,999",
-      "discount": "(36% off)"
     },
     {
       "images": "https://m.media-amazon.com/images/I/71XKAnxCsLL._AC_UL320_.jpg",
@@ -126,18 +96,8 @@
       "rating": "4.3 out of 5 stars",
       "stock": "2,796",
       "price": "₹49,999",
-      "a-price-symbol": "₹",
-      " original_price": "₹56,999",
-      "discount": ""
-    },
-    {
-      "images": "https://m.media-amazon.com/images/I/71QM25exIQL._AC_UL320_.jpg",
-      "title": "OnePlus Type-C to 3.5mm Adapter (White)",
-      "rating": "3.9 out of 5 stars",
-      "stock": "834",
-      "price": "₹389",
-      "a-price-symbol": "₹",
-      " original_price": "",
+      "id": "10",
+      "original": "₹56,999",
       "discount": ""
     },
     {
@@ -146,8 +106,8 @@
       "rating": "4.2 out of 5 stars",
       "stock": "5,120",
       "price": "₹61,999",
-      "a-price-symbol": "₹",
-      " original_price": "₹66,999",
+      "id": "11",
+      "original": "₹66,999",
       "discount": "(7% off)"
     },
     {
@@ -156,8 +116,8 @@
       "rating": "4.2 out of 5 stars",
       "stock": "5,120",
       "price": "₹61,999",
-      "a-price-symbol": "₹",
-      " original_price": "₹66,999",
+      "id": "12",
+      "original": "₹66,999",
       "discount": "(7% off)"
     },
     {
@@ -166,8 +126,8 @@
       "rating": "4.3 out of 5 stars",
       "stock": "2,796",
       "price": "₹54,999",
-      "a-price-symbol": "₹",
-      " original_price": "",
+      "id": "13",
+      "original": "",
       "discount": ""
     },
    
@@ -178,8 +138,8 @@
       "rating": "3.2 out of 5 stars",
       "stock": "451",
       "price": "₹13,499",
-      "a-price-symbol": "₹",
-      " original_price": "₹36,999",
+      "id": "14",
+      "original": "₹36,999",
       "discount": "(63% off)"
     },
    
@@ -189,8 +149,8 @@
       "rating": "4.0 out of 5 stars",
       "stock": "16,884",
       "price": "₹13,999",
-      "a-price-symbol": "₹",
-      " original_price": "₹17,999",
+      "id": "15",
+      "original": "₹17,999",
       "discount": "(22% off)"
     },
     {
@@ -199,8 +159,8 @@
       "rating": "4.1 out of 5 stars",
       "stock": "21,080",
       "price": "₹18,999",
-      "a-price-symbol": "₹",
-      " original_price": "₹24,999",
+      "id": "16",
+      "original": "₹24,999",
       "discount": "(24% off)"
     },
     {
@@ -209,8 +169,8 @@
       "rating": "4.1 out of 5 stars",
       "stock": "21,080",
       "price": "₹18,999",
-      "a-price-symbol": "₹",
-      " original_price": "₹24,999",
+      "id": "17",
+      "original": "₹24,999",
       "discount": "(24% off)"
     },
     {
@@ -219,8 +179,8 @@
       "rating": "4.0 out of 5 stars",
       "stock": "16,884",
       "price": "₹11,999",
-      "a-price-symbol": "₹",
-      " original_price": "₹14,999",
+      "id": "18",
+      "original": "₹14,999",
       "discount": "(20% off)"
     },
     {
@@ -229,8 +189,8 @@
       "rating": "4.0 out of 5 stars",
       "stock": "16,884",
       "price": "₹13,999",
-      "a-price-symbol": "₹",
-      " original_price": "₹17,999",
+      "id": "19",
+      "original": "₹17,999",
       "discount": "(22% off)"
     },
     {
@@ -239,8 +199,8 @@
       "rating": "4.0 out of 5 stars",
       "stock": "16,884",
       "price": "₹11,999",
-      "a-price-symbol": "₹",
-      " original_price": "₹14,999",
+      "id": "20",
+      "original": "₹14,999",
       "discount": "(20% off)"
     },
     {
@@ -249,8 +209,8 @@
       "rating": "4.1 out of 5 stars",
       "stock": "21,080",
       "price": "₹18,999",
-      "a-price-symbol": "₹",
-      " original_price": "₹24,999",
+      "id": "21",
+      "original": "₹24,999",
       "discount": "(24% off)"
     },
     
@@ -260,8 +220,8 @@
       "rating": "4.0 out of 5 stars",
       "stock": "16,884",
       "price": "₹13,999",
-      "a-price-symbol": "₹",
-      " original_price": "₹17,999",
+      "id": "22",
+      "original": "₹17,999",
       "discount": "(22% off)"
     },
     {
@@ -270,8 +230,8 @@
       "rating": "4.1 out of 5 stars",
       "stock": "55,102",
       "price": "₹13,499",
-      "a-price-symbol": "₹",
-      " original_price": "",
+      "id": "23",
+      "original": "",
       "discount": ""
     },
     {
@@ -280,58 +240,31 @@
       "rating": "4.1 out of 5 stars",
       "stock": "21,080",
       "price": "₹20,499",
-      "a-price-symbol": "₹",
-      " original_price": "₹25,999",
+      "id": "24",
+      "original": "₹25,999",
       "discount": "(21% off)"
     },
-    {
-      "images": "https://m.media-amazon.com/images/I/61fkOHNmzpL._AC_UL320_.jpg",
-      "title": "Samsung EVO Plus 128GB microSDXC UHS-I U3 130MB/s Full HD & 4K UHD Memory Card with Adapter (MB-MC128KA), Blue",
-      "rating": "4.3 out of 5 stars",
-      "stock": "139,056",
-      "price": "₹1,149",
-      "a-price-symbol": "₹",
-      " original_price": "₹3,999",
-      "discount": "(71% off)"
-    },
-    {
-      "images": "https://m.media-amazon.com/images/I/61rnCkrurxL._AC_UL320_.jpg",
-      "title": "Samsung EVO Plus 64GB microSDXC UHS-I U1 130MB/s Full HD & 4K UHD Memory Card with Adapter (MB-MC64KA), Blue",
-      "rating": "4.3 out of 5 stars",
-      "stock": "139,056",
-      "price": "₹599",
-      "a-price-symbol": "₹",
-      " original_price": "₹1,899",
-      "discount": "(68% off)"
-    },
+    
+    
     {
       "images": "https://m.media-amazon.com/images/I/81lnKynSaqL._AC_UL320_.jpg",
       "title": "Samsung Galaxy M33 5G (Emerald Brown, 8GB, 128GB Storage) | 6000mAh Battery | 16GB RAM with RAM Plus | Travel Adapter to be Purchased Separately",
       "rating": "4.1 out of 5 stars",
       "stock": "21,080",
       "price": "₹20,499",
-      "a-price-symbol": "₹",
-      " original_price": "₹25,999",
+      "id": "25",
+      "original": "₹25,999",
       "discount": "(21% off)"
     },
-    {
-      "images": "https://m.media-amazon.com/images/I/21x1gw1geuL._AC_UL320_.jpg",
-      "title": "Samsung Original 25W USB Travel Adapter for Cellular Phones, Black",
-      "rating": "4.4 out of 5 stars",
-      "stock": "7,105",
-      "price": "₹1,099",
-      "a-price-symbol": "₹",
-      " original_price": "₹1,699",
-      "discount": "(35% off)"
-    },
+    
     {
       "images": "https://m.media-amazon.com/images/I/81Jov18YvpL._AC_UL320_.jpg",
       "title": "Samsung Galaxy M32 Prime Edition (Black, 4GB RAM, 64GB)",
       "rating": "4.1 out of 5 stars",
       "stock": "55,102",
       "price": "₹13,499",
-      "a-price-symbol": "₹",
-      " original_price": "",
+      "id": "26",
+      "original": "",
       "discount": ""
     },
     {
@@ -340,8 +273,8 @@
       "rating": "4.1 out of 5 stars",
       "stock": "55,102",
       "price": "₹15,499",
-      "a-price-symbol": "₹",
-      " original_price": "",
+      "id": "27",
+      "original": "",
       "discount": ""
     },
     {
@@ -350,59 +283,20 @@
       "rating": "4.0 out of 5 stars",
       "stock": "16,884",
       "price": "₹11,999",
-      "a-price-symbol": "₹",
-      " original_price": "₹16,999",
+      "id": "28",
+      "original": "₹16,999",
       "discount": "(29% off)"
     },
-    {
-      "images": "https://m.media-amazon.com/images/I/71yD4EP3G4L._AC_UL320_.jpg",
-      "title": "Samsung EVO Plus 256GB microSDXC UHS-I U3 130MB/s Full HD & 4K UHD Memory Card with Adapter (MB-MC256KA), Blue",
-      "rating": "4.3 out of 5 stars",
-      "stock": "139,056",
-      "price": "₹2,000",
-      "a-price-symbol": "₹",
-      " original_price": "₹10,999",
-      "discount": "(82% off)"
-    },
+   
     {
       "images": "https://m.media-amazon.com/images/I/81OC0ojxH6L._AC_UL320_.jpg",
       "title": "Samsung Galaxy M32 Prime Edition (Light Blue, 6GB RAM, 128GB)",
       "rating": "4.1 out of 5 stars",
       "stock": "55,102",
       "price": "₹15,499",
-      "a-price-symbol": "₹",
-      " original_price": "",
+      "id": "29",
+      "original": "",
       "discount": ""
-    },
-    {
-      "images": "https://m.media-amazon.com/images/I/61G5JoU9tTL._AC_UL320_.jpg",
-      "title": "Samsung Galaxy Buds Live Bluetooth Truly Wireless in Ear Earbuds with Mic, Upto 21 Hours Playtime, Mystic Black",
-      "rating": "4.0 out of 5 stars",
-      "stock": "4,068",
-      "price": "₹5,290",
-      "a-price-symbol": "₹",
-      " original_price": "₹15,990",
-      "discount": "(67% off)"
-    },
-    {
-      "images": "https://m.media-amazon.com/images/I/81xvGbBFNhL._AC_UL320_.jpg",
-      "title": "Samsung Galaxy M33 5G (Deep Ocean Blue, 8GB, 128GB Storage) | 6000mAh Battery | Upto 16GB RAM with RAM Plus | Travel Adapter to be Purchased Separately",
-      "rating": "4.1 out of 5 stars",
-      "stock": "21,080",
-      "price": "",
-      "a-price-symbol": "",
-      " original_price": "",
-      "discount": ""
-    },
-    {
-      "images": "https://m.media-amazon.com/images/I/61Nhi7ovjkL._AC_UL320_.jpg",
-      "title": "Samsung Galaxy Watch4 Bluetooth(4.4 cm, Black, Compatible with Android only)",
-      "rating": "4.3 out of 5 stars",
-      "stock": "4,461",
-      "price": "₹11,349",
-      "a-price-symbol": "₹",
-      " original_price": "₹29,999",
-      "discount": "(62% off)"
     },
     {
       "images": "https://m.media-amazon.com/images/I/81Prc5i7hML._AC_UL320_.jpg",
@@ -410,8 +304,8 @@
       "rating": "4.0 out of 5 stars",
       "stock": "16,884",
       "price": "₹11,999",
-      "a-price-symbol": "₹",
-      " original_price": "₹14,999",
+      "id": "30",
+      "original": "₹14,999",
       "discount": "(20% off)"
     },
     {
@@ -420,8 +314,8 @@
       "rating": "4.5 out of 5 stars",
       "stock": "19,856",
       "price": "₹53,900",
-      "a-price-symbol": "₹",
-      " original_price": "₹70,900",
+      "id": "31",
+      "original": "₹70,900",
       "discount": "(24% off)"
     },
     {
@@ -430,8 +324,8 @@
       "rating": "4.6 out of 5 stars",
       "stock": "4,857",
       "price": "₹69,999",
-      "a-price-symbol": "₹",
-      " original_price": "₹79,900",
+      "id": "32",
+      "original": "₹79,900",
       "discount": "(12% off)"
     },
     {
@@ -440,8 +334,8 @@
       "rating": "4.5 out of 5 stars",
       "stock": "19,856",
       "price": "₹53,900",
-      "a-price-symbol": "₹",
-      " original_price": "₹70,900",
+      "id": "33",
+      "original": "₹70,900",
       "discount": "(24% off)"
     },
     {
@@ -450,8 +344,8 @@
       "rating": "4.5 out of 5 stars",
       "stock": "19,856",
       "price": "₹52,999",
-      "a-price-symbol": "₹",
-      " original_price": "₹65,900",
+      "id": "34",
+      "original": "₹65,900",
       "discount": "(20% off)"
     },
     {
@@ -460,8 +354,8 @@
       "rating": "4.5 out of 5 stars",
       "stock": "5,974",
       "price": "₹45,999",
-      "a-price-symbol": "₹",
-      " original_price": "₹74,900",
+      "id": "35",
+      "original": "₹74,900",
       "discount": "(39% off)"
     },
     {
@@ -470,8 +364,8 @@
       "rating": "4.5 out of 5 stars",
       "stock": "19,856",
       "price": "₹60,990",
-      "a-price-symbol": "₹",
-      " original_price": "₹64,900",
+      "id": "36",
+      "original": "₹64,900",
       "discount": "(6% off)"
     },
     {
@@ -480,8 +374,8 @@
       "rating": "4.6 out of 5 stars",
       "stock": "3,577",
       "price": "₹53,900",
-      "a-price-symbol": "₹",
-      " original_price": "₹70,900",
+      "id": "37",
+      "original": "₹70,900",
       "discount": "(24% off)"
     },
     {
@@ -490,8 +384,8 @@
       "rating": "4.5 out of 5 stars",
       "stock": "3,396",
       "price": "₹55,999",
-      "a-price-symbol": "₹",
-      " original_price": "₹65,900",
+      "id": "38",
+      "original": "₹65,900",
       "discount": "(15% off)"
     },
     {
@@ -500,8 +394,8 @@
       "rating": "4.4 out of 5 stars",
       "stock": "214",
       "price": "₹78,810",
-      "a-price-symbol": "₹",
-      " original_price": "₹79,900",
+      "id": "39",
+      "original": "₹79,900",
       "discount": "(1% off)"
     },
     {
@@ -510,8 +404,8 @@
       "rating": "4.5 out of 5 stars",
       "stock": "19,856",
       "price": "₹52,999",
-      "a-price-symbol": "₹",
-      " original_price": "₹65,900",
+      "id": "40",
+      "original": "₹65,900",
       "discount": "(20% off)"
     },
     {
@@ -520,8 +414,8 @@
       "rating": "4.6 out of 5 stars",
       "stock": "158",
       "price": "₹1,39,900",
-      "a-price-symbol": "₹",
-      " original_price": "",
+      "id": "41",
+      "original": "",
       "discount": ""
     },
     {
@@ -530,8 +424,8 @@
       "rating": "4.6 out of 5 stars",
       "stock": "4,857",
       "price": "₹65,999",
-      "a-price-symbol": "₹",
-      " original_price": "₹79,900",
+      "id": "42",
+      "original": "₹79,900",
       "discount": "(17% off)"
     },
     {
@@ -540,8 +434,8 @@
       "rating": "4.5 out of 5 stars",
       "stock": "5,974",
       "price": "₹54,900",
-      "a-price-symbol": "₹",
-      " original_price": "₹64,900",
+      "id": "43",
+      "original": "₹64,900",
       "discount": "(15% off)"
     },
     {
@@ -550,8 +444,8 @@
       "rating": "4.4 out of 5 stars",
       "stock": "214",
       "price": "₹78,740",
-      "a-price-symbol": "₹",
-      " original_price": "₹79,900",
+      "id": "44",
+      "original": "₹79,900",
       "discount": "(1% off)"
     },
     {
@@ -560,8 +454,8 @@
       "rating": "4.6 out of 5 stars",
       "stock": "158",
       "price": "₹1,29,900",
-      "a-price-symbol": "₹",
-      " original_price": "",
+      "id": "45",
+      "original": "",
       "discount": ""
     },
     {
@@ -570,8 +464,8 @@
       "rating": "4.7 out of 5 stars",
       "stock": "135",
       "price": "₹94,990",
-      "a-price-symbol": "₹",
-      " original_price": "₹99,900",
+      "id": "46",
+      "original": "₹99,900",
       "discount": "(5% off)"
     },
     {
@@ -580,8 +474,8 @@
       "rating": "4.7 out of 5 stars",
       "stock": "135",
       "price": "₹88,560",
-      "a-price-symbol": "₹",
-      " original_price": "₹89,900",
+      "id": "47",
+      "original": "₹89,900",
       "discount": "(1% off)"
     },
     {
@@ -590,8 +484,8 @@
       "rating": "4.4 out of 5 stars",
       "stock": "214",
       "price": "₹88,810",
-      "a-price-symbol": "₹",
-      " original_price": "₹89,900",
+      "id": "48",
+      "original": "₹89,900",
       "discount": "(1% off)"
     },
     {
@@ -600,8 +494,8 @@
       "rating": "4.7 out of 5 stars",
       "stock": "135",
       "price": "₹88,490",
-      "a-price-symbol": "₹",
-      " original_price": "₹89,900",
+      "id": "49",
+      "original": "₹89,900",
       "discount": "(2% off)"
     },
     {
@@ -610,8 +504,8 @@
       "rating": "4.4 out of 5 stars",
       "stock": "214",
       "price": "₹88,740",
-      "a-price-symbol": "₹",
-      " original_price": "₹89,900",
+      "id": "50",
+      "original": "₹89,900",
       "discount": "(1% off)"
     },
     {
@@ -620,8 +514,8 @@
       "rating": "4.5 out of 5 stars",
       "stock": "19,856",
       "price": "₹55,999",
-      "a-price-symbol": "₹",
-      " original_price": "₹65,900",
+      "id": "51",
+      "original": "₹65,900",
       "discount": "(15% off)"
     },
     {
@@ -630,8 +524,8 @@
       "rating": "4.6 out of 5 stars",
       "stock": "4,857",
       "price": "₹79,900",
-      "a-price-symbol": "₹",
-      " original_price": "₹89,900",
+      "id": "52",
+      "original": "₹89,900",
       "discount": "(11% off)"
     },
     {
@@ -640,8 +534,8 @@
       "rating": "4.7 out of 5 stars",
       "stock": "135",
       "price": "₹89,900",
-      "a-price-symbol": "₹",
-      " original_price": "",
+      "id": "53",
+      "original": "",
       "discount": ""
     },
     {
@@ -650,8 +544,8 @@
       "rating": "4.5 out of 5 stars",
       "stock": "19,856",
       "price": "₹60,900",
-      "a-price-symbol": "₹",
-      " original_price": "₹75,900",
+      "id": "54",
+      "original": "₹75,900",
       "discount": "(20% off)"
     },
     {
@@ -660,8 +554,8 @@
       "rating": "4.1 out of 5 stars",
       "stock": "62,613",
       "price": "₹12,999",
-      "a-price-symbol": "₹",
-      " original_price": "₹16,999",
+      "id": "55",
+      "original": "₹16,999",
       "discount": "(24% off)"
     },
     {
@@ -670,8 +564,8 @@
       "rating": "4.1 out of 5 stars",
       "stock": "463",
       "price": "₹12,499",
-      "a-price-symbol": "₹",
-      " original_price": "₹18,999",
+      "id": "56",
+      "original": "₹18,999",
       "discount": "(34% off)"
     },
     {
@@ -680,8 +574,8 @@
       "rating": "4.1 out of 5 stars",
       "stock": "62,613",
       "price": "₹12,999",
-      "a-price-symbol": "₹",
-      " original_price": "₹16,999",
+      "id": "57",
+      "original": "₹16,999",
       "discount": "(24% off)"
     },
     {
@@ -690,8 +584,8 @@
       "rating": "4.5 out of 5 stars",
       "stock": "19,856",
       "price": "₹53,900",
-      "a-price-symbol": "₹",
-      " original_price": "₹70,900",
+      "id": "58",
+      "original": "₹70,900",
       "discount": "(24% off)"
     },
     {
@@ -700,8 +594,8 @@
       "rating": "4.1 out of 5 stars",
       "stock": "463",
       "price": "₹12,499",
-      "a-price-symbol": "₹",
-      " original_price": "₹18,999",
+      "id": "59",
+      "original": "₹18,999",
       "discount": "(34% off)"
     },
     {
@@ -710,8 +604,8 @@
       "rating": "4.6 out of 5 stars",
       "stock": "4,857",
       "price": "₹69,999",
-      "a-price-symbol": "₹",
-      " original_price": "₹79,900",
+      "id": "60",
+      "original": "₹79,900",
       "discount": "(12% off)"
     },
     {
@@ -720,8 +614,8 @@
       "rating": "4.0 out of 5 stars",
       "stock": "24,345",
       "price": "₹25,999",
-      "a-price-symbol": "₹",
-      " original_price": "₹33,999",
+      "id": "61",
+      "original": "₹33,999",
       "discount": "(24% off)"
     },
     {
@@ -730,8 +624,8 @@
       "rating": "4.5 out of 5 stars",
       "stock": "19,856",
       "price": "₹53,900",
-      "a-price-symbol": "₹",
-      " original_price": "₹70,900",
+      "id": "62",
+      "original": "₹70,900",
       "discount": "(24% off)"
     },
     {
@@ -740,8 +634,8 @@
       "rating": "4.5 out of 5 stars",
       "stock": "19,856",
       "price": "₹52,999",
-      "a-price-symbol": "₹",
-      " original_price": "₹65,900",
+      "id": "63",
+      "original": "₹65,900",
       "discount": "(20% off)"
     },
     {
@@ -750,8 +644,8 @@
       "rating": "4.0 out of 5 stars",
       "stock": "24,345",
       "price": "₹25,999",
-      "a-price-symbol": "₹",
-      " original_price": "₹33,999",
+      "id": "64",
+      "original": "₹33,999",
       "discount": "(24% off)"
     },
     {
@@ -760,8 +654,8 @@
       "rating": "4.5 out of 5 stars",
       "stock": "5,974",
       "price": "₹45,999",
-      "a-price-symbol": "₹",
-      " original_price": "₹74,900",
+      "id": "65",
+      "original": "₹74,900",
       "discount": "(39% off)"
     },
     {
@@ -770,8 +664,8 @@
       "rating": "4.5 out of 5 stars",
       "stock": "19,856",
       "price": "₹60,990",
-      "a-price-symbol": "₹",
-      " original_price": "₹64,900",
+      "id": "66",
+      "original": "₹64,900",
       "discount": "(6% off)"
     },
     {
@@ -780,8 +674,8 @@
       "rating": "4.6 out of 5 stars",
       "stock": "3,577",
       "price": "₹53,900",
-      "a-price-symbol": "₹",
-      " original_price": "₹70,900",
+      "id": "67",
+      "original": "₹70,900",
       "discount": "(24% off)"
     },
     {
@@ -790,8 +684,8 @@
       "rating": "4.5 out of 5 stars",
       "stock": "3,396",
       "price": "₹55,999",
-      "a-price-symbol": "₹",
-      " original_price": "₹65,900",
+      "id": "68",
+      "original": "₹65,900",
       "discount": "(15% off)"
     },
     {
@@ -800,8 +694,8 @@
       "rating": "4.4 out of 5 stars",
       "stock": "214",
       "price": "₹78,810",
-      "a-price-symbol": "₹",
-      " original_price": "₹79,900",
+      "id": "69",
+      "original": "₹79,900",
       "discount": "(1% off)"
     },
     {
@@ -810,8 +704,8 @@
       "rating": "4.5 out of 5 stars",
       "stock": "19,856",
       "price": "₹52,999",
-      "a-price-symbol": "₹",
-      " original_price": "₹65,900",
+      "id": "70",
+      "original": "₹65,900",
       "discount": "(20% off)"
     },
     {
@@ -820,8 +714,8 @@
       "rating": "4.6 out of 5 stars",
       "stock": "158",
       "price": "₹1,39,900",
-      "a-price-symbol": "₹",
-      " original_price": "",
+      "id": "71",
+      "original": "",
       "discount": ""
     },
     {
@@ -830,8 +724,8 @@
       "rating": "4.6 out of 5 stars",
       "stock": "4,857",
       "price": "₹65,999",
-      "a-price-symbol": "₹",
-      " original_price": "₹79,900",
+      "id": "72",
+      "original": "₹79,900",
       "discount": "(17% off)"
     },
     {
@@ -840,8 +734,8 @@
       "rating": "4.1 out of 5 stars",
       "stock": "62,613",
       "price": "₹12,999",
-      "a-price-symbol": "₹",
-      " original_price": "₹14,999",
+      "id": "73",
+      "original": "₹14,999",
       "discount": "(13% off)"
     },
     {
@@ -850,8 +744,8 @@
       "rating": "4.1 out of 5 stars",
       "stock": "62,613",
       "price": "₹12,999",
-      "a-price-symbol": "₹",
-      " original_price": "₹14,999",
+      "id": "74",
+      "original": "₹14,999",
       "discount": "(13% off)"
     },
     {
@@ -860,8 +754,8 @@
       "rating": "4.5 out of 5 stars",
       "stock": "5,974",
       "price": "₹54,900",
-      "a-price-symbol": "₹",
-      " original_price": "₹64,900",
+      "id": "75",
+      "original": "₹64,900",
       "discount": "(15% off)"
     },
     {
@@ -870,8 +764,8 @@
       "rating": "4.4 out of 5 stars",
       "stock": "214",
       "price": "₹78,740",
-      "a-price-symbol": "₹",
-      " original_price": "₹79,900",
+      "id": "76",
+      "original": "₹79,900",
       "discount": "(1% off)"
     },
     {
@@ -880,8 +774,8 @@
       "rating": "4.6 out of 5 stars",
       "stock": "158",
       "price": "₹1,29,900",
-      "a-price-symbol": "₹",
-      " original_price": "",
+      "id": "77",
+      "original": "",
       "discount": ""
     },
     {
@@ -890,8 +784,8 @@
       "rating": "4.7 out of 5 stars",
       "stock": "135",
       "price": "₹94,990",
-      "a-price-symbol": "₹",
-      " original_price": "₹99,900",
+      "id": "78",
+      "original": "₹99,900",
       "discount": "(5% off)"
     }
   ],
@@ -899,701 +793,698 @@
     {
       "images": "https://m.media-amazon.com/images/I/51uwEtc8roL._AC_UL320_.jpg",
       "title": "Acer Extensa 15 Thin & Light Intel Processor Pentium Silver N5030 15.6 inches ( 39 cm ) Business Laptop (4GB RAM/256 GB SSD/Windows 11 Home/Black/1.9 Kg, EX215-31)",
-      "a-popover-trigger href": "javascript:void(0)",
+      "id": "l1",
       "rating": "3.6 out of 5 stars",
       "stock": "76",
       "price": "₹23,190",
-      "original_price": "₹39,990",
+      "original": "₹39,990",
       "discount": "(42% off)"
     },
     {
       "images": "https://m.media-amazon.com/images/I/71rceuYk9JL._AC_UL320_.jpg",
       "title": "Acer Aspire 3 AMD 3020e Dual-core Processor 14-inch (35.6 cms) HD Laptop - (8GB/256 GB SSD/Windows 11 Home/1.9 Kg/Silver) A314-22",
-      "a-popover-trigger href": "javascript:void(0)",
+      "id": "l2",
       "rating": "3.2 out of 5 stars",
       "stock": "189",
       "price": "₹31,700",
-      " original_price": "₹35,000",
+      "original": "₹35,000",
       "discount": "(9% off)"
     },
     {
       "images": "https://m.media-amazon.com/images/I/61gGtqfZFlL._AC_UL320_.jpg",
       "title": "Acer Aspire 5 Gaming Laptop Intel Core i5 12th gen (12-Cores) Processor (16 GB/512 GB SSD/Windows 11 Home/4GB Graphics/NVIDIA GeForce RTX 2050) A515-57G (15.6 inch Full HD Display, Steel Gray, 1.8 Kg)",
-      "a-popover-trigger href": "javascript:void(0)",
+      "id": "l3",
       "rating": "3.9 out of 5 stars",
       "stock": "266",
       "price": "₹62,990",
-      " original_price": "₹84,999",
+      "original": "₹84,999",
       "discount": "(26% off)"
     },
     {
       "images": "https://m.media-amazon.com/images/I/61BeBTB41DL._AC_UL320_.jpg",
       "title": "(Renewed) Dell Latitude E5470 Intel Core i5 6th Gen.6200u Processor 14.1 Inches HD Screen Notebook Computer (8 GB Ram & 256 GB SSD, Windows 10 Pro, 1.71Kg)",
-      "a-popover-trigger href": "javascript:void(0)",
+      "id": "l4",
       "rating": "3.6 out of 5 stars",
       "stock": "530",
       "price": "₹19,490",
-      " original_price": "₹1,29,000",
+      "original": "₹1,29,000",
       "discount": "(84% off)"
     },
     {
       "images": "https://m.media-amazon.com/images/I/91+6YECnK3L._AC_UL320_.jpg",
       "title": "HP 15s, 12th Gen Intel Core i5 8GB RAM/512GB SSD 15.6-inch(39.6 cm) Micro-Edge Anti-Glare FHD Laptop/Intel Iris Xe Graphics/Alexa/Dual Speakers/Win 11/MSO 2021/1.41 Kg, 15s- fq5111TU",
-      "a-popover-trigger href": "javascript:void(0)",
+      "id": "l5",
       "rating": "4.2 out of 5 stars",
       "stock": "776",
       "price": "₹57,928",
-      " original_price": "₹67,832",
+      "original": "₹67,832",
       "discount": "(15% off)"
     },
     {
       "images": "https://m.media-amazon.com/images/I/81zoyHn5uJL._AC_UL320_.jpg",
       "title": "HP 14s, 11th Gen Intel Core i3-1115G4, 8GB RAM/256GB SSD 14-inch(35.6 cm) Micro-Edge, Anti-Glare, FHD Laptop/Alexa Built-in/Win 11/Intel UHD Graphics/Dual Speakers/ MSO 2021/1.41 Kg, 14s-dy2507TU",
-      "a-popover-trigger href": "javascript:void(0)",
+      "id": "l6",
       "rating": "4.1 out of 5 stars",
       "stock": "277",
       "price": "₹38,990",
-      " original_price": "₹47,206",
+      "original": "₹47,206",
       "discount": "(17% off)"
     },
     {
       "images": "https://m.media-amazon.com/images/I/61Dw5Z8LzJL._AC_UL320_.jpg",
       "title": "Lenovo IdeaPad 3 11th Gen Intel Core i3 15.6\" FHD Thin & Light Laptop(8GB/512GB SSD/Windows 11/Office 2021/2Yr Warranty/3months Xbox Game Pass/Platinum Grey/1.7Kg), 81X800LGIN",
-      "a-popover-trigger href": "javascript:void(0)",
+      "id": "l7",
       "rating": "4.1 out of 5 stars",
       "stock": "794",
       "price": "₹38,990",
-      " original_price": "₹59,890",
+      "original": "₹59,890",
       "discount": "(35% off)"
     },
     {
       "images": "https://m.media-amazon.com/images/I/41Wflt09rAL._AC_UL320_.jpg",
       "title": "(Renewed) Dell Latitude Laptop E7470 Intel Core I5 - 6300U Processor, 16 Gb Ram & 256 Gb Ssd, 14.1 Inches Screen Windows 10 Pro (Ultra Slim & Light 1.58Kg) Notebook Computer",
-      "a-popover-trigger href": "javascript:void(0)",
+      "id": "l8",
       "rating": "3.4 out of 5 stars",
       "stock": "246",
       "price": "₹22,490",
-      " original_price": "₹1,19,000",
+      "original": "₹1,19,000",
       "discount": "(81% off)"
     },
     {
       "images": "https://m.media-amazon.com/images/I/61IYtAceS1L._AC_UL320_.jpg",
       "title": "Dell Inspiron 3525 Laptop, AMD Athlon Silver 3050U, Win11 + Office 21, 8GB GDDR4, 256GB SSD, Radeon Graphics, 15.6\" (39.62Cms) HD AG, Black (D560766WIN9BE, 1.68Kgs)",
-      "a-popover-trigger href": "javascript:void(0)",
+      "id": "l9",
       "rating": "4.1 out of 5 stars",
       "stock": "256",
       "price": "₹29,230",
-      " original_price": "₹46,236",
+      "original": "₹46,236",
       "discount": "(37% off)"
     },
     {
       "images": "https://m.media-amazon.com/images/I/81bu95bhbOL._AC_UL320_.jpg",
       "title": "HP 15s, AMD Athlon Silver 3050U 8GB RAM/512GB SSD 15.6-inches/39.6 cm HD, Micro-Edge Display/Windows 11/AMD Radeon Graphics/Dual Speakers/MSO/Fast Charge/1.69 Kg, 15s-eq1559AU",
-      "a-popover-trigger href": "javascript:void(0)",
+      "id": "l10",
       "rating": "3.7 out of 5 stars",
       "stock": "76",
       "price": "₹29,450",
-      " original_price": "₹39,228",
+      "original": "₹39,228",
       "discount": "(25% off)"
     },
     {
       "images": "https://m.media-amazon.com/images/I/61q6x-ll5FL._AC_UL320_.jpg",
       "title": "Lenovo Ideapad 3 AMD Ryzen 5 5500U 15.6\" (39.62cm) FHD Thin & Light Laptop (8GB/512GB SSD/Windows 11/Office 2021/Backlit Keyboard/2Yr Warranty/Arctic Grey/1.65Kg), 82KU017KIN",
-      "a-popover-trigger href": "javascript:void(0)",
+      "id": "l11",
       "rating": "4.2 out of 5 stars",
       "stock": "1,198",
       "price": "₹43,678",
-      " original_price": "₹68,490",
+      "original": "₹68,490",
       "discount": "(36% off)"
     },
     {
       "images": "https://m.media-amazon.com/images/I/81bu95bhbOL._AC_UL320_.jpg",
       "title": "HP 15s-Ryzen 3 3250U 8GB SDRAM/256GB SSD 15.6inch(39.6cm) HD, Micro-Edge Laptop/AMD Radeon Graphics/Dual Speakers/Win 11 Home/MS Office/Fast Charge/Jet Black/1.69Kg, 15s-ey1508AU",
-      "a-popover-trigger href": "javascript:void(0)",
+      "id": "l12",
       "rating": "3.8 out of 5 stars",
       "stock": "28",
       "price": "₹28,990",
-      " original_price": "₹43,631",
+      "original": "₹43,631",
       "discount": "(34% off)"
     },
     {
       "images": "https://m.media-amazon.com/images/I/61N6Ojp790L._AC_UL320_.jpg",
       "title": "Acer Nitro 5 12th Gen Intel Core Intel Core i5-12500H Processor 15.6-inch (39.62 cms) FHD 144 Hz Gaming Laptop (16 GB RAM/RTX 3050 Graphics/512 GB SSD/Windows 11 Home/2.5 Kgs/RGB Backlit), AN515-58",
-      "a-popover-trigger href": "javascript:void(0)",
+      "id": "l13",
       "rating": "4.2 out of 5 stars",
       "stock": "121",
       "price": "₹83,815",
-      " original_price": "₹1,09,999",
+      "original": "₹1,09,999",
       "discount": "(24% off)"
     },
     {
       "images": "https://m.media-amazon.com/images/I/81poxOLgmXL._AC_UL320_.jpg",
       "title": "Acer Aspire 3 Laptop AMD Ryzen 5 3500U Processor (8 GB/512 GB SSD/Windows 11 Home/AMD Radeon Vega8 Mobile Graphics/1.9Kg/Black) A315-23 with 15.6\" (39.6 cms) Full HD Laptop",
-      "a-popover-trigger href": "javascript:void(0)",
+      "id": "l14",
       "rating": "4.1 out of 5 stars",
       "stock": "63",
       "price": "₹35,990",
-      " original_price": "₹54,999",
+      "original": "₹54,999",
       "discount": "(35% off)"
     },
     {
       "images": "https://m.media-amazon.com/images/I/81AmlAVM0vL._AC_UL320_.jpg",
       "title": "Acer One 14 Business Laptop AMD Ryzen 5 3500U Processor (16GB RAM/512GB SSD/AMD Radeon Graphics/Windows 11 Home/MS Office) Z2-493 with 35.56 cm (14.0\") HD Display (Rose Gold)",
-      "a-popover-trigger href": "javascript:void(0)",
+      "id": "l15",
       "rating": "3.0 out of 5 stars",
       "stock": "4",
       "price": "₹39,990",
-      "original_price": "₹60,000",
+      "original": "₹60,000",
       "discount": "(33% off)"
     },
     {
       "images": "https://m.media-amazon.com/images/I/91-U2J7fKoL._AC_UL320_.jpg",
       "title": "HP 15s,11th Gen Intel Core i3-1115G4 8GB RAM/512GB SSD 15.6-inch(39.6 cm) Micro-Edge Anti-Glare FHD Laptop/Alexa Built-in/Win 11/Intel UHD Graphics/Dual Speakers/ MS Office 2021/1.69 Kg, 15s-fq2673TU",
-      "a-popover-trigger href": "javascript:void(0)",
+      "id": "l16",
       "rating": "4.1 out of 5 stars",
       "stock": "858",
       "price": "₹42,490",
-      " original_price": "₹51,812",
+      "original": "₹51,812",
       "discount": "(18% off)"
     },
     {
       "images": "https://m.media-amazon.com/images/I/513G-9tBVKL._AC_UL320_.jpg",
       "title": "(Renewed) Lenovo Thinkpad Intel Core i5 14-Inch (35.56 cms) 1366x768 Laptop (8 GB/500 GB/Windows 10/Intel HD Graphics/Black/2.20 Kg), T440",
-      "a-popover-trigger href": "javascript:void(0)",
+      "id": "l17",
       "rating": "3.0 out of 5 stars",
       "stock": "197",
       "price": "₹14,934",
-      " original_price": "₹99,999",
+      "original": "₹99,999",
       "discount": "(85% off)"
     },
     {
       "images": "https://m.media-amazon.com/images/I/71jG+e7roXL._AC_UL320_.jpg",
-      "title": "2020 Apple MacBook Air Laptop: Apple M1 chip, 13.3-inch/33.74 cm Retina Display, 8GB RAM, 256GB SSD Storage, Backlit Keyboard, FaceTime HD Camera, Touch ID. Works with iPhone/iPad; Space Grey",
-      "a-popover-trigger href": "javascript:void(0)",
+      "title": "2020 Apple MacBook Air Laptop: Apple M1 chip, 13.3-inch/33.74 cm Retina Display, 8GB RAM, 256GB SSD Storage, Backlit Keyboard, FaceTime HD Camera, Touch ID. Wolrks with iPhone/iPad; Space Grey",
+      "id": "l18",
       "rating": "4.7 out of 5 stars",
       "stock": "2,869",
       "price": "₹86,990",
-      " original_price": "₹99,900",
+      "original": "₹99,900",
       "discount": "(13% off)"
     },
     {
       "images": "https://m.media-amazon.com/images/I/71guAvSMbSL._AC_UL320_.jpg",
       "title": "Honor MagicBook 14, AMD Ryzen 5 5500U 14-inch (35.56 cm) FHD IPS Anti-Glare Thin and Light Laptop (16GB/512GB PCIe SSD/Windows 11/Fingerprint Login/Metal Body/Backlit KB/1.38Kg), Gray, NobelM-WFQ9AHNE",
-      "a-popover-trigger href": "javascript:void(0)",
+      "id": "l19",
       "rating": "4.4 out of 5 stars",
       "stock": "276",
       "price": "₹44,990",
-      " original_price": "₹75,999",
+      "original": "₹75,999",
       "discount": "(41% off)"
     },
     {
       "images": "https://m.media-amazon.com/images/I/41pQAjtuKdL._AC_UL320_.jpg",
       "title": "Lenovo V15 Intel Celeron N4020 15.6\" (39.62 cm) HD 220 nits Antiglare Thin and Light Laptop (4GB RAM/256GB SSD/DOS/Iron Grey/1.85 kg), 82C3A008IH",
-      "a-popover-trigger href": "javascript:void(0)",
+      "id": "l20",
       "rating": "3.8 out of 5 stars",
       "stock": "122",
       "price": "₹19,990",
-      " original_price": "₹36,000",
+      "original": "₹36,000",
       "discount": "(44% off)"
     },
     {
       "images": "https://m.media-amazon.com/images/I/615a4SGVqoL._AC_UL320_.jpg",
       "title": "(Renewed) Dell Intel 5th Gen Core i5 5300U 14-Inch (35.56 cms) Laptop (8 GB/256 GB SSD/Windows 10/Intel HD Graphics/Black/), Latitude E5450",
-      "a-popover-trigger href": "javascript:void(0)",
+      "id": "l21",
       "rating": "3.6 out of 5 stars",
       "stock": "140",
       "price": "₹18,300",
-      " original_price": "₹79,000",
+      "original": "₹79,000",
       "discount": "(76% off)"
     },
     {
       "images": "https://m.media-amazon.com/images/I/71S8U9VzLTL._AC_UL320_.jpg",
       "title": "ASUS VivoBook 15 (2021), 15.6-inch (39.62 cm) HD, Dual Core Intel Celeron N4020, Thin and Light Laptop (4GB RAM/256GB SSD/Integrated Graphics/Windows 11 Home/Transparent Silver/1.8 Kg), X515MA-BR011W",
-      "a-popover-trigger href": "javascript:void(0)",
+      "id": "l22",
       "rating": "3.9 out of 5 stars",
       "stock": "755",
       "price": "₹25,990",
-      " original_price": "₹33,990",
+      "original": "₹33,990",
       "discount": "(24% off)"
     },
     {
       "images": "https://m.media-amazon.com/images/I/81haBMsW77L._AC_UL320_.jpg",
       "title": "HP 14s, 12th Gen Intel Core i5 16GB RAM/512GB SSD 14-inch(35.6 cm) Micro-Edge, FHD Laptop/Intel Iris Xe Graphics/Alexa/Dual Speakers/Win 11/Backlit KB/MSO 2021/1.41 Kg, 14s-dy5005TU",
-      "a-popover-trigger href": "javascript:void(0)",
+      "id": "l23",
       "rating": "4.0 out of 5 stars",
       "stock": "370",
       "price": "₹61,000",
-      " original_price": "₹72,331",
+      "original": "₹72,331",
       "discount": "(16% off)"
     },
     {
       "images": "https://m.media-amazon.com/images/I/41-4fixZuzL._AC_UL320_.jpg",
       "title": "HP 14S-Intel Pentium Silver N6000- 8Gb Ram/256Gb Ssd 14 Inches (35.6Cm) Hd, Micro-Edge Display (Uhd Graphics/Alexa/Dual Speakers/Fast Charge/Windows 11 Home/Ms Office), 14S- Dq3033Tu,Jet Black",
-      "a-popover-trigger href": "javascript:void(0)",
+      "id": "l24",
       "rating": "4.1 out of 5 stars",
       "stock": "960",
       "price": "₹27,499",
-      " original_price": "₹47,999",
+      "original": "₹47,999",
       "discount": "(43% off)"
     },
     {
       "images": "https://m.media-amazon.com/images/I/71veuBka4NL._AC_UL320_.jpg",
       "title": "HP 15s, 11th Gen Intel Core i3, 8GB RAM/512GB SSD 15.6-inch(39.6 cm) Micro-Edge Anti-Glare FHD Laptop/Alexa Built-in/Win 11/Intel UHD Graphics/Dual Speakers/ MS Office 2021/1.69 Kg, 15s-fr2511TU",
-      "a-popover-trigger href": "javascript:void(0)",
+      "id": "l25",
       "rating": "4.1 out of 5 stars",
       "stock": "129",
       "price": "₹41,990",
-      " original_price": "₹49,445.14",
+      "original": "₹49,445.14",
       "discount": "(15% off)"
     },
     {
       "images": "https://m.media-amazon.com/images/I/61Dw5Z8LzJL._AC_UL320_.jpg",
-      "title": "Lenovo IdeaPad Slim 3 Intel Celeron N4020 4th Gen 15.6\" (39.62cm) HD Thin & Light Laptop (8GB/256GB SSD/Windows 11/Office 2021/2Yr Warranty/3months Game Pass/Platinum Grey/1.7Kg), 81WQ00MQIN",
-      "a-popover-trigger href": "javascript:void(0)",
+      "title": "Lenovo IdeaPald Slim 3 Intel Celeron N4020 4th Gen 15.6\" (39.62cm) HD Thin & Light Laptop (8GB/256GB SSD/Windows 11/Office 2021/2Yr Warranty/3months Game Pass/Platinum Grey/1.7Kg), 81WQ00MQIN",
+      "id": "l26",
       "rating": "3.8 out of 5 stars",
       "stock": "260",
       "price": "₹27,054",
-      " original_price": "₹40,490",
+      "original": "₹40,490",
       "discount": "(33% off)"
     },
     {
       "images": "https://m.media-amazon.com/images/I/6192pE7H2FL._AC_UL320_.jpg",
       "title": "Dell Inspiron 3511 Laptop, Intel Core i3-1115G4, 8GB, 512GB SSD, Win 11 + MSO, 15.6\" (39.62Cms) FHD WVA AG Narrow Border, Carbon Black (D560842WIN9B, 1.8Kgs)",
-      "a-popover-trigger href": "javascript:void(0)",
+      "id": "l27",
       "rating": "4.0 out of 5 stars",
       "stock": "112",
       "price": "₹40,990",
-      " original_price": "₹58,229",
+      "original": "₹58,229",
       "discount": "(30% off)"
     },
     {
       "images": "https://m.media-amazon.com/images/I/61peI2M3z8L._AC_UL320_.jpg",
       "title": "Dell Vostro 3420 Laptop - Intel Core i3-1115G4, 8GB DDR4, 512GB SSD, Win 11 + MSO'21, 14.0\"/35.56Cms, FHD WVA AG 250 nits, Carbon Black (D552276WIN9BE, 1.48Kgs)",
-      "a-popover-trigger href": "javascript:void(0)",
+      "id": "l28",
       "rating": "4.2 out of 5 stars",
       "stock": "84",
       "price": "₹39,990",
-      " original_price": "₹56,578",
+      "original": "₹56,578",
       "discount": "(29% off)"
     },
     {
       "images": "https://m.media-amazon.com/images/I/91FF3XjlikL._AC_UL320_.jpg",
       "title": "HP 15s AMD Ryzen 3- 5300U 15.6inch(39.6cm) FHD Laptop (8GB RAM/512GB SSD, Micro-Edge, Anti-Glare Display/Radeon Graphics/Windows 11 Home/Alexa/Dual Speakers/Ms Office/1.69Kg, 15s-Eq2143au)",
-      "a-popover-trigger href": "javascript:void(0)",
+      "id": "l29",
       "rating": "4.0 out of 5 stars",
       "stock": "1,075",
       "price": "₹37,779",
-      " original_price": "₹47,142",
+      "original": "₹47,142",
       "discount": "(20% off)"
     },
     {
       "images": "https://m.media-amazon.com/images/I/71acOQV0elL._AC_UL320_.jpg",
-      "title": "Lenovo IdeaPad Slim 3 Intel Core i5 12th Gen 15.6\" (39.62cm) FHD Thin & Light Laptop (8GB/512GB SSD/Windows 11/Office 2021/Backlit/2Yr Warranty/3months Game Pass/Arctic Grey/1.63Kg), 82RK0062IN",
-      "a-popover-trigger href": "javascript:void(0)",
+      "title": "Lenovo IdeaPald Slim 3 Intel Core i5 12th Gen 15.6\" (39.62cm) FHD Thin & Light Laptop (8GB/512GB SSD/Windows 11/Office 2021/Backlit/2Yr Warranty/3months Game Pass/Arctic Grey/1.63Kg), 82RK0062IN",
+      "id": "l30",
       "rating": "4.1 out of 5 stars",
       "stock": "329",
       "price": "₹53,490",
-      " original_price": "₹76,890",
+      "original": "₹76,890",
       "discount": "(30% off)"
     },
     {
       "images": "https://m.media-amazon.com/images/I/71E6kyAephL._AC_UL320_.jpg",
       "title": "Acer One 14 Business Laptop AMD Athlon 3045 B Processor (4GB RAM/256GB SSD/AMD Radeon Graphics/Windows 11 Home) Z2-493 with 35.56 cm (14.0\") HD Display (Black)",
-      "a-popover-trigger href": "javascript:void(0)",
+      "id": "l31",
       "rating": "3.8 out of 5 stars",
       "stock": "61",
       "price": "₹20,990",
-      " original_price": "₹40,999",
+      "original": "₹40,999",
       "discount": "(49% off)"
     },
     {
       "images": "https://m.media-amazon.com/images/I/81V0QlV50UL._AC_UL320_.jpg",
       "title": "Acer Travelmate Intel N4020 Celeron Dual-core Processor 29.4 cm (11.6 Inches) HD Display Business Laptop ( 4GB DDR4/ 128GB SSD/Intel UHD Graphics/ Windows 11 Home/Black/ 1.4 KG) TMB311-31",
-      "a-popover-trigger href": "javascript:void(0)",
+      "id": "l32",
       "rating": "3.9 out of 5 stars",
       "stock": "26",
       "price": "₹20,190",
-      " original_price": "₹29,399",
+      "original": "₹29,399",
       "discount": "(31% off)"
     },
     {
       "images": "https://m.media-amazon.com/images/I/71Xk9qt6IwL._AC_UL320_.jpg",
-      "title": "Acer Predator Helios 300 Gaming Laptop Intel Core i9 11th Gen Processor - (16 GB/1TB SSD/ NVIDIA RTX 3060/165Hz/Windows 11 Home) PH315-54 with 39.6 cm (15.6 inches) QHD IPS Display/ 2.3 kgs",
-      "a-popover-trigger href": "javascript:void(0)",
+      "title": "Acer Predator Helios 300 Gaming Laptop Intel Core i9 11th Gen Processor - (16 GB/1TB SSD/ NVIDIA RlTX 3060/165Hz/Windows 11 Home) PH315-54 with 39.6 cm (15.6 inches) QHD IPS Display/ 2.3 kgs",
+      "id": "l33",
       "rating": "3.9 out of 5 stars",
       "stock": "73",
       "price": "₹1,24,846",
-      " original_price": "₹1,61,999",
+      "original": "₹1,61,999",
       "discount": "(23% off)"
     },
     {
       "images": "https://m.media-amazon.com/images/I/71jG+e7roXL._AC_UL320_.jpg",
-      "title": "2020 Apple MacBook Air Laptop: Apple M1 chip, 13.3-inch/33.74 cm Retina Display, 8GB RAM, 256GB SSD Storage, Backlit Keyboard, FaceTime HD Camera, Touch ID. Works with iPhone/iPad; Space Grey",
-      "a-popover-trigger href": "javascript:void(0)",
+      "title": "2020 Apple MacBook Air Laptop: Apple M1 chip, 13.3-inch/33.74 cm Retina Display, 8GB RAM, 256GB SSD Storage, Backlit Keyboard, FaceTime HD Camera, Touch ID. Wolrks with iPhone/iPad; Space Grey",
+      "id": "l34",
       "rating": "4.7 out of 5 stars",
       "stock": "2,869",
       "price": "₹86,990",
-      " original_price": "₹99,900",
+      "original": "₹99,900",
       "discount": "(13% off)"
     },
     {
       "images": "https://m.media-amazon.com/images/I/719C6bJv8jL._AC_UL320_.jpg",
-      "title": "2022 Apple MacBook Air Laptop with M2 chip: 34.46 cm (13.6-inch) Liquid Retina Display, 8GB RAM, 256GB SSD Storage, Backlit Keyboard, 1080p FaceTime HD Camera. Works with iPhone/iPad; Midnight",
-      "a-popover-trigger href": "javascript:void(0)",
+      "title": "2022 Apple MacBook Air Laptop with M2 chip: 34.46 cm (13.6-inch) Liquid Retlina Display, 8GB RAM, 256GB SSD Storage, Backlit Keyboard, 1080p FaceTime HD Camera. Works with iPhone/iPad; Midnighlt",
+      "id": "l35",
       "rating": "4.9 out of 5 stars",
       "stock": "7",
       "price": "₹1,05,500",
-      " original_price": "₹1,19,900",
+      "original": "₹1,19,900",
       "discount": "(12% off)"
     },
     {
-      "images": "https://m.media-amazon.com/images/I/71eXNIDUGjL._AC_UL320_.jpg",
-      "title": "2022 Apple MacBook Air Laptop with M2 chip: 34.46 cm (13.6-inch) Liquid Retina Display, 8GB RAM, 256GB SSD Storage, Backlit Keyboard, 1080p FaceTime HD Camera. Works with iPhone/iPad; Silver",
-      "a-popover-trigger href": "",
-      "rating": "",
+      "images": "https://m.media-amazon.com/images/I/71eXNIDUGjLl._AC_UL320_.jpg",
+      "title": "2022 Apple MacBook Air Laptop with M2 chip: 34.46 cm (13.6-inch) Liquid Retlina Display, 8GB RAM, 256GB SSD Storage, Backlit Keyboard, 1080p FaceTime HD Camera. Works with iPhone/iPad; Silver",
+      "id": "l36",
       "stock": "",
       "price": "₹1,04,313",
-      " original_price": "₹1,19,900",
+      "original": "₹1,19,900",
       "discount": "(13% off)"
     },
     {
       "images": "https://m.media-amazon.com/images/I/71f5Eu5lJSL._AC_UL320_.jpg",
-      "title": "2022 Apple MacBook Air Laptop with M2 chip: 34.46 cm (13.6-inch) Liquid Retina Display, 8GB RAM, 512GB SSD Storage, Backlit Keyboard, 1080p FaceTime HD Camera. Works with iPhone/iPad; Space Grey",
-      "a-popover-trigger href": "javascript:void(0)",
+      "title": "2022 Apple MacBook Air Laptop with M2 chip: 34.46 cm (13.6-inch) Liquid Retlina Display, 8GB RAM, 512GB SSD Storage, Backlit Keyboard, 1080p FaceTime HD Camera. Works with iPhone/iPad; Space Grey",
+      "id": "l37",
       "rating": "5.0 out of 5 stars",
       "stock": "1",
       "price": "₹1,30,413",
-      " original_price": "₹1,49,900",
+      "original": "₹1,49,900",
       "discount": "(13% off)"
     },
     {
       "images": "https://m.media-amazon.com/images/I/710TJuHTMhL._AC_UL320_.jpg",
-      "title": "2022 Apple MacBook Air Laptop with M2 chip: 34.46 cm (13.6-inch) Liquid Retina Display, 8GB RAM, 256GB SSD Storage, Backlit Keyboard, 1080p FaceTime HD Camera. Works with iPhone/iPad; Starlight",
-      "a-popover-trigger href": "javascript:void(0)",
+      "title": "2022 Apple MacBook Air Laptop with M2 chip: 34.46 cm (13.6-inch) Liquid Retlina Display, 8GB RAM, 256GB SSD Storage, Backlit Keyboard, 1080p FaceTime HD Camera. Works with iPhone/iPad; Starlight",
+      "id": "l38",
       "rating": "5.0 out of 5 stars",
       "stock": "3",
       "price": "₹1,05,500",
-      " original_price": "₹1,19,900",
+      "original": "₹1,19,900",
       "discount": "(12% off)"
     },
     {
       "images": "https://m.media-amazon.com/images/I/71f5Eu5lJSL._AC_UL320_.jpg",
-      "title": "2022 Apple MacBook Air Laptop with M2 chip: 34.46 cm (13.6-inch) Liquid Retina Display, 8GB RAM, 256GB SSD Storage, Backlit Keyboard, 1080p FaceTime HD Camera. Works with iPhone/iPad; Space Grey",
-      "a-popover-trigger href": "javascript:void(0)",
+      "title": "2022 Apple MacBook Air Laptop with M2 chip: 34.46 cm (13.6-inch) Liquid Retlina Display, 8GB RAM, 256GB SSD Storage, Backlit Keyboard, 1080p FaceTime HD Camera. Works with iPhone/iPad; Space Grey",
+      "id": "l39",
       "rating": "4.4 out of 5 stars",
       "stock": "7",
       "price": "₹1,05,500",
-      " original_price": "₹1,19,900",
+      "original": "₹1,19,900",
       "discount": "(12% off)"
     },
     {
       "images": "https://m.media-amazon.com/images/I/61Y30DpqRVL._AC_UL320_.jpg",
       "title": "2021 Apple MacBook Pro (16-inch/41.05 cm, Apple M1 Pro chip with 10‑core CPU and 16‑core GPU, 16GB RAM, 512GB SSD) - Silver",
-      "a-popover-trigger href": "javascript:void(0)",
+      "id": "l40",
       "rating": "4.4 out of 5 stars",
       "stock": "12",
       "price": "₹2,22,990",
-      " original_price": "₹2,39,900",
+      "original": "₹2,39,900",
       "discount": "(7% off)"
     },
     {
       "images": "https://m.media-amazon.com/images/I/719C6bJv8jL._AC_UL320_.jpg",
-      "title": "2022 Apple MacBook Air Laptop with M2 chip: 34.46 cm (13.6-inch) Liquid Retina Display, 8GB RAM, 512GB SSD Storage, Backlit Keyboard, 1080p FaceTime HD Camera. Works with iPhone/iPad; Midnight",
-      "a-popover-trigger href": "javascript:void(0)",
+      "title": "2022 Apple MacBook Air Laptop with M2 chip: 34.46 cm (13.6-inch) Liquid Retlina Display, 8GB RAM, 512GB SSD Storage, Backlit Keyboard, 1080p FaceTime HD Camera. Works with iPhone/iPad; Midnighlt",
+      "id": "l41",
       "rating": "5.0 out of 5 stars",
       "stock": "2",
       "price": "₹1,39,990",
-      " original_price": "₹1,49,900",
+      "original": "₹1,49,900",
       "discount": "(7% off)"
     },
     {
       "images": "https://m.media-amazon.com/images/I/61aUBxqc5PL._AC_UL320_.jpg",
       "title": "2021 Apple MacBook Pro (16-inch/41.05 cm, Apple M1 Pro chip with 10‑core CPU and 16‑core GPU, 16GB RAM, 1TB SSD) - Space Grey",
-      "a-popover-trigger href": "javascript:void(0)",
+      "id": "l42",
       "rating": "4.4 out of 5 stars",
       "stock": "9",
       "price": "₹2,39,090",
-      " original_price": "₹2,59,900",
+      "original": "₹2,59,900",
       "discount": "(8% off)"
     },
     {
       "images": "https://m.media-amazon.com/images/I/61vFO3R5UNL._AC_UL320_.jpg",
       "title": "2021 Apple MacBook Pro (14-inch/35.97 cm, Apple M1 Pro chip with 8‑core CPU and 14‑core GPU, 16GB RAM, 512GB SSD) - Space Grey",
-      "a-popover-trigger href": "javascript:void(0)",
+      "id": "l43",
       "rating": "4.7 out of 5 stars",
       "stock": "1,122",
       "price": "₹1,81,990",
-      " original_price": "₹1,94,900",
+      "original": "₹1,94,900",
       "discount": "(7% off)"
     },
     {
       "images": "https://m.media-amazon.com/images/I/61Y30DpqRVL._AC_UL320_.jpg",
       "title": "2021 Apple MacBook Pro (16-inch/41.05 cm, Apple M1 Pro chip with 10‑core CPU and 16‑core GPU, 16GB RAM, 1TB SSD) - Silver",
-      "a-popover-trigger href": "javascript:void(0)",
+      "id": "l44",
       "rating": "3.8 out of 5 stars",
       "stock": "7",
       "price": "₹2,41,990",
-      " original_price": "₹2,59,900",
+      "original": "₹2,59,900",
       "discount": "(7% off)"
     },
     {
-      "images": "https://m.media-amazon.com/images/I/71eXNIDUGjL._AC_UL320_.jpg",
-      "title": "2022 Apple MacBook Air Laptop with M2 chip: 34.46 cm (13.6-inch) Liquid Retina Display, 8GB RAM, 512GB SSD Storage, Backlit Keyboard, 1080p FaceTime HD Camera. Works with iPhone/iPad; Silver",
-      "a-popover-trigger href": "",
-      "rating": "",
+      "images": "https://m.media-amazon.com/images/I/71eXNIDUGjLl._AC_UL320_.jpg",
+      "title": "2022 Apple MacBook Air Laptop with M2 chip: 34.46 cm (13.6-inch) Liquid Retlina Display, 8GB RAM, 512GB SSD Storage, Backlit Keyboard, 1080p FaceTime HD Camera. Works with iPhone/iPad; Silver",
+      "id": "l45",
       "stock": "",
       "price": "₹1,39,990",
-      " original_price": "₹1,49,900",
+      "original": "₹1,49,900",
       "discount": "(7% off)"
     },
     {
       "images": "https://m.media-amazon.com/images/I/61cCf94xIEL._AC_UL320_.jpg",
       "title": "2021 Apple MacBook Pro (14-inch/35.97 cm, Apple M1 Pro chip with 10‑core CPU and 16‑core GPU, 16GB RAM, 1TB SSD) - Silver",
-      "a-popover-trigger href": "javascript:void(0)",
+      "id": "l46",
       "rating": "4.2 out of 5 stars",
       "stock": "8",
       "price": "₹2,22,990",
-      " original_price": "₹2,39,900",
+      "original": "₹2,39,900",
       "discount": "(7% off)"
     },
     {
       "images": "https://m.media-amazon.com/images/I/71jG+e7roXL._AC_UL320_.jpg",
-      "title": "2020 Apple MacBook Air Laptop: Apple M1 chip, 13.3-inch/33.74 cm Retina Display, 8GB RAM, 256GB SSD Storage, Backlit Keyboard, FaceTime HD Camera, Touch ID. Works with iPhone/iPad; Space Grey",
-      "a-popover-trigger href": "javascript:void(0)",
+      "title": "2020 Apple MacBook Air Laptop: Apple M1 chip, 13.3-inch/33.74 cm Retina Display, 8GB RAM, 256GB SSD Storage, Backlit Keyboard, FaceTime HD Camera, Touch ID. Wolrks with iPhone/iPad; Space Grey",
+      "id": "l47",
       "rating": "4.7 out of 5 stars",
       "stock": "2,869",
       "price": "₹86,990",
-      " original_price": "₹99,900",
+      "original": "₹99,900",
       "discount": "(13% off)"
     },
     {
       "images": "https://m.media-amazon.com/images/I/71S8U9VzLTL._AC_UL320_.jpg",
       "title": "ASUS VivoBook 15 (2021), 15.6-inch (39.62 cm) HD, Dual Core Intel Celeron N4020, Thin and Light Laptop (4GB RAM/256GB SSD/Integrated Graphics/Windows 11 Home/Transparent Silver/1.8 Kg), X515MA-BR011W",
-      "a-popover-trigger href": "javascript:void(0)",
+      "id": "l48",
       "rating": "3.9 out of 5 stars",
       "stock": "755",
       "price": "₹25,990",
-      " original_price": "₹33,990",
+      "original": "₹33,990",
       "discount": "(24% off)"
     },
     {
       "images": "https://m.media-amazon.com/images/I/71WuDXpTAlL._AC_UL320_.jpg",
       "title": "ASUS VivoBook 14 (2021), Intel Core i5-1135G7 11th Gen, 14-inch (35.56 cms) FHD Thin and Light Laptop (8GB/1TB HDD + 256GB SSD/Office 2021/Windows 11/Iris Xe Graphics/Silver/1.6 Kg), X415EA-EK572WS",
-      "a-popover-trigger href": "javascript:void(0)",
+      "id": "l49",
       "rating": "4.1 out of 5 stars",
       "stock": "495",
       "price": "₹48,990",
-      " original_price": "₹72,990",
+      "original": "₹72,990",
       "discount": "(33% off)"
     },
     {
       "images": "https://m.media-amazon.com/images/I/61bwqXfWiaL._AC_UL320_.jpg",
       "title": "ASUS ROG Strix G17, 17.3-inch (43.94 cms) FHD 144Hz, AMD Ryzen 7 4800H, RTX 3050 Ti 4GB Graphics, Gaming Laptop (16GB/1TB SSD/Windows 11//Gray/2.4 kg), G713IE-HX040W",
-      "a-popover-trigger href": "javascript:void(0)",
+      "id": "l50",
       "rating": "4.4 out of 5 stars",
       "stock": "69",
       "price": "₹85,990",
-      " original_price": "₹1,21,990",
+      "original": "₹1,21,990",
       "discount": "(30% off)"
     },
     {
       "images": "https://m.media-amazon.com/images/I/716bvqzz7PL._AC_UL320_.jpg",
       "title": "ASUS Vivobook 14, 14.0-inch (35.56 cms) FHD, Intel Core i5-1035G1 10th Gen, Thin and Light Laptop (8GB/512GB SSD/Integrated Graphics/Windows 11/Office 2021/Grey/1.60 kg), X415JA-EK522WS",
-      "a-popover-trigger href": "javascript:void(0)",
+      "id": "l51",
       "rating": "3.8 out of 5 stars",
       "stock": "74",
       "price": "₹42,400",
-      " original_price": "₹57,990",
+      "original": "₹57,990",
       "discount": "(27% off)"
     },
     {
       "images": "https://m.media-amazon.com/images/I/716bvqzz7PL._AC_UL320_.jpg",
       "title": "ASUS Vivobook 14, 14.0-inch (35.56 cms) FHD, Intel Core i3-1005G1 10th Gen, Thin and Light Laptop (8GB/512GB SSD/Integrated Graphics/Windows 11/Office 2021/Grey/1.60 kg), X415JA-EK324WS",
-      "a-popover-trigger href": "javascript:void(0)",
+      "id": "l52",
       "rating": "3.9 out of 5 stars",
       "stock": "86",
       "price": "₹33,290",
-      " original_price": "₹45,990",
+      "original": "₹45,990",
       "discount": "(28% off)"
     },
     {
       "images": "https://m.media-amazon.com/images/I/71S8U9VzLTL._AC_UL320_.jpg",
       "title": "ASUS VivoBook 15, 15.6-inch (39.62 cms) FHD, Intel Core i3-1005G1 10th Gen, Thin and Light Laptop (8GB/512GB SSD/Windows 11/Office 2021/integrated Graphics/Fingerprint/Silver/1.8 kg), X515JA-EJ382WS",
-      "a-popover-trigger href": "javascript:void(0)",
+      "id": "l53",
       "rating": "3.9 out of 5 stars",
       "stock": "74",
       "price": "₹33,490",
-      " original_price": "₹50,990",
+      "original": "₹50,990",
       "discount": "(34% off)"
     },
     {
       "images": "https://m.media-amazon.com/images/I/91zVSkGGZbS._AC_UL320_.jpg",
-      "title": "ASUS TUF Gaming A15, 15.6-inch (39.62 cms) FHD 144Hz, AMD Ryzen 5 4600H, 4GB NVIDIA GeForce GTX 1650, Gaming Laptop (8GB/512GB SSD/90WHrs Battery/Windows 11/Black/2.3 Kg), FA506IHRB-HN079W",
-      "a-popover-trigger href": "javascript:void(0)",
+      "title": "ASUS TUF Gaming A15, 15.6-inch (39.62 cms) FHD 144Hz, AMD Ryzen 5 4600H, 4GB NVIDIA GleForce GTX 1650, Gaming Laptop (8GB/512GB SSD/90WHrs Battery/Windows 11/Black/2.3 Kg), FA506IHRB-HN079W",
+      "id": "l54",
       "rating": "4.4 out of 5 stars",
       "stock": "765",
       "price": "₹56,877",
-      " original_price": "₹76,990",
+      "original": "₹76,990",
       "discount": "(26% off)"
     },
     {
       "images": "https://m.media-amazon.com/images/I/710NRdecQtL._AC_UL320_.jpg",
       "title": "ASUS TUF Gaming F15 (2021), 15.6\" (39.62 cms) FHD 144Hz, Intel Core i5-10300H 10th Gen, GTX 1650 4GB Graphics, Gaming Laptop (8GB RAM/512GB NVMe SSD/Windows 11/Black/2.30 Kg), FX506LH-HN258W",
-      "a-popover-trigger href": "javascript:void(0)",
+      "id": "l55",
       "rating": "4.3 out of 5 stars",
       "stock": "837",
       "price": "₹59,900",
-      " original_price": "₹74,990",
+      "original": "₹74,990",
       "discount": "(20% off)"
     },
     {
       "images": "https://m.media-amazon.com/images/I/719C6bJv8jL._AC_UL320_.jpg",
-      "title": "2022 Apple MacBook Air Laptop with M2 chip: 34.46 cm (13.6-inch) Liquid Retina Display, 8GB RAM, 256GB SSD Storage, Backlit Keyboard, 1080p FaceTime HD Camera. Works with iPhone/iPad; Midnight",
-      "a-popover-trigger href": "javascript:void(0)",
+      "title": "2022 Apple MacBook Air Laptop with M2 chip: 34.46 cm (13.6-inch) Liquid Retlina Display, 8GB RAM, 256GB SSD Storage, Backlit Keyboard, 1080p FaceTime HD Camera. Works with iPhone/iPad; Midnighlt",
+      "id": "l56",
       "rating": "4.9 out of 5 stars",
       "stock": "7",
       "price": "₹1,05,500",
-      " original_price": "₹1,19,900",
+      "original": "₹1,19,900",
       "discount": "(12% off)"
     },
     {
       "images": "https://m.media-amazon.com/images/I/71S8U9VzLTL._AC_UL320_.jpg",
       "title": "ASUS Vivobook 15, 15.6-inch (39.62 cms) FHD, AMD Ryzen 5 3500U, Thin and Light Laptop (8GB/512GB SSD/Integrated Graphics/Windows 11/Office 2021/Silver/1.8 kg), M515DA-BQ512WS, Transparent Silver",
-      "a-popover-trigger href": "javascript:void(0)",
+      "id": "l57",
       "rating": "4.1 out of 5 stars",
       "stock": "85",
       "price": "₹39,511",
-      " original_price": "₹57,990",
+      "original": "₹57,990",
       "discount": "(32% off)"
     },
     {
       "images": "https://m.media-amazon.com/images/I/71eH88Nni4L._AC_UL320_.jpg",
       "title": "ASUS Vivobook S15 OLED 2022, 15.6\" 39.62 cm FHD OLED, Intel Core Evo i5-12500H 12th Gen, Thin and Light Laptop (16GB/512GB SSD/Iris Xe Graphics/Windows 11/Office 2021/Black/1.8 kg) K3502ZA-L502WS",
-      "a-popover-trigger href": "javascript:void(0)",
+      "id": "l58",
       "rating": "4.1 out of 5 stars",
       "stock": "111",
       "price": "₹72,801",
-      " original_price": "₹89,000",
+      "original": "₹89,000",
       "discount": "(18% off)"
     },
     {
       "images": "https://m.media-amazon.com/images/I/71vTtY1qJXL._AC_UL320_.jpg",
       "title": "ASUS VivoBook K15 OLED (2021), 15.6\" (39.62 cms) FHD OLED, Intel Core i3-1115G4 11th Gen, Thin and Light Laptop (8GB/256GB SSD/Office 2021/Windows 11/Integrated Graphics/Silver/1.8 Kg), K513EA-L303WS",
-      "a-popover-trigger href": "javascript:void(0)",
+      "id": "l59",
       "rating": "4.3 out of 5 stars",
       "stock": "83",
       "price": "₹41,390",
-      " original_price": "₹60,990",
+      "original": "₹60,990",
       "discount": "(32% off)"
     },
     {
       "images": "https://m.media-amazon.com/images/I/716pqAwQBdL._AC_UL320_.jpg",
       "title": "ASUS Eeebook 14, 14-inch (35.56 cms) HD, Intel Pentium Silver N6000, Thin and Laptop (4GB/256GB SSD/Integrated Graphics/Windows 11/Office 2021/Black/1.3 kg), E410KA-BV121WS",
-      "a-popover-trigger href": "javascript:void(0)",
+      "id": "l60",
       "rating": "5.0 out of 5 stars",
       "stock": "3",
       "price": "₹24,990",
-      " original_price": "₹38,990",
+      "original": "₹38,990",
       "discount": "(36% off)"
     },
     {
-      "images": "https://m.media-amazon.com/images/I/71eXNIDUGjL._AC_UL320_.jpg",
-      "title": "2022 Apple MacBook Air Laptop with M2 chip: 34.46 cm (13.6-inch) Liquid Retina Display, 8GB RAM, 256GB SSD Storage, Backlit Keyboard, 1080p FaceTime HD Camera. Works with iPhone/iPad; Silver",
-      "a-popover-trigger href": "",
-      "rating": "",
+      "images": "https://m.media-amazon.com/images/I/71eXNIDUGjLl._AC_UL320_.jpg",
+      "title": "2022 Apple MacBook Air Laptop with M2 chip: 34.46 cm (13.6-inch) Liquid Retlina Display, 8GB RAM, 256GB SSD Storage, Backlit Keyboard, 1080p FaceTime HD Camera. Works with iPhone/iPad; Silver",
+      "id": "l61",
       "stock": "",
       "price": "₹1,04,313",
-      " original_price": "₹1,19,900",
+      "original": "₹1,19,900",
       "discount": "(13% off)"
     },
     {
       "images": "https://m.media-amazon.com/images/I/61wD0QVVMOL._AC_UL320_.jpg",
       "title": "ASUS Vivobook Ultra K14, 11th Gen Intel Core i5-1135G7, 14\" (35.56 cm) FHD, Thin and Light Laptop (16GB/512GB SSD/Integrated Graphics/Windows 11/Backlit KB/Office 2021/Black/1.4 kg), K413EA-EB522WS",
-      "a-popover-trigger href": "javascript:void(0)",
+      "id": "l62",
       "rating": "4.5 out of 5 stars",
       "stock": "5",
       "price": "₹56,990",
-      " original_price": "₹81,900",
+      "original": "₹81,900",
       "discount": "(30% off)"
     },
     {
       "images": "https://m.media-amazon.com/images/I/61WGtGTOo4L._AC_UL320_.jpg",
       "title": "ASUS VivoBook 15 (2020), 39.6 cm HD, Dual Core Intel Celeron N4020, Thin and Light Laptop (4GB RAM/1 TB HDD/Integrated Graphics/Windows 11 Home/Transparent Silver/1.8 Kg), X515MA-BR001W",
-      "a-popover-trigger href": "javascript:void(0)",
+      "id": "l63",
       "rating": "3.0 out of 5 stars",
       "stock": "29",
       "price": "₹24,250",
-      " original_price": "₹33,990",
+      "original": "₹33,990",
       "discount": "(29% off)"
     },
     {
       "images": "https://m.media-amazon.com/images/I/91zVSkGGZbS._AC_UL320_.jpg",
       "title": "ASUS TUF Gaming A15, 15.6\" (39.62 cm) FHD 144Hz, AMD Ryzen 9 5900HX, 6GB RTX 3060, Gaming Laptop (16GB/512GB SSD/90WHrs Battery/Windows 11/Black/2.30 Kg), FA506QM-HN124W",
-      "a-popover-trigger href": "javascript:void(0)",
+      "id": "l64",
       "rating": "4.2 out of 5 stars",
       "stock": "105",
       "price": "₹95,662",
-      " original_price": "₹1,19,990",
+      "original": "₹1,19,990",
       "discount": "(20% off)"
     },
     {
       "images": "https://m.media-amazon.com/images/I/71f5Eu5lJSL._AC_UL320_.jpg",
-      "title": "2022 Apple MacBook Air Laptop with M2 chip: 34.46 cm (13.6-inch) Liquid Retina Display, 8GB RAM, 512GB SSD Storage, Backlit Keyboard, 1080p FaceTime HD Camera. Works with iPhone/iPad; Space Grey",
-      "a-popover-trigger href": "javascript:void(0)",
+      "title": "2022 Apple MacBook Air Laptop with M2 chip: 34.46 cm (13.6-inch) Liquid Retlina Display, 8GB RAM, 512GB SSD Storage, Backlit Keyboard, 1080p FaceTime HD Camera. Works with iPhone/iPad; Space Grey",
+      "id": "l65",
       "rating": "5.0 out of 5 stars",
       "stock": "1",
       "price": "₹1,30,413",
-      " original_price": "₹1,49,900",
+      "original": "₹1,49,900",
       "discount": "(13% off)"
     },
     {
       "images": "https://m.media-amazon.com/images/I/71NxKpg1NIL._AC_UL320_.jpg",
       "title": "ASUS TUF Gaming A15 (2022), 15.6\"(39.62 cms) FHD 144Hz, AMD Ryzen 7 6800H, RTX 3060 6GB Graphics, Gaming Laptop (16GB/512GB SSD/90WHrs Battery/Windows 11/Office 2021/Gray/2.2 kg), FA507RM-HN089WS",
-      "a-popover-trigger href": "javascript:void(0)",
+      "id": "l66",
       "rating": "3.7 out of 5 stars",
       "stock": "10",
       "price": "₹94,990",
-      " original_price": "₹1,46,990",
+      "original": "₹1,46,990",
       "discount": "(35% off)"
     },
     {
       "images": "https://m.media-amazon.com/images/I/710TJuHTMhL._AC_UL320_.jpg",
-      "title": "2022 Apple MacBook Air Laptop with M2 chip: 34.46 cm (13.6-inch) Liquid Retina Display, 8GB RAM, 256GB SSD Storage, Backlit Keyboard, 1080p FaceTime HD Camera. Works with iPhone/iPad; Starlight",
-      "a-popover-trigger href": "javascript:void(0)",
+      "title": "2022 Apple MacBook Air Laptop with M2 chip: 34.46 cm (13.6-inch) Liquid Retlina Display, 8GB RAM, 256GB SSD Storage, Backlit Keyboard, 1080p FaceTime HD Camera. Works with iPhone/iPad; Starlight",
+      "id": "l67",
       "rating": "5.0 out of 5 stars",
       "stock": "3",
       "price": "₹1,05,500",
-      " original_price": "₹1,19,900",
+      "original": "₹1,19,900",
       "discount": "(12% off)"
     },
     {
       "images": "https://m.media-amazon.com/images/I/51ygA-KhucL._AC_UL320_.jpg",
       "title": "ASUS Vivobook 15, 15.6\" (39.62 cm) FHD, AMD Dual Core Ryzen 3 3200U, Thin and Light Laptop (8GB/256GB SSD/Integrated Graphics/Windows 11/Office 2021/Silver/1.68 Kg), X512DA-BQ301WS",
-      "a-popover-trigger href": "javascript:void(0)",
+      "id": "l68",
       "rating": "4.1 out of 5 stars",
       "stock": "338",
       "price": "₹32,990",
-      " original_price": "₹39,990",
+      "original": "₹39,990",
       "discount": "(18% off)"
     },
     {
       "images": "https://m.media-amazon.com/images/I/71f5Eu5lJSL._AC_UL320_.jpg",
-      "title": "2022 Apple MacBook Air Laptop with M2 chip: 34.46 cm (13.6-inch) Liquid Retina Display, 8GB RAM, 256GB SSD Storage, Backlit Keyboard, 1080p FaceTime HD Camera. Works with iPhone/iPad; Space Grey",
-      "a-popover-trigger href": "javascript:void(0)",
+      "title": "2022 Apple MacBook Air Laptop with M2 chip: 34.46 cm (13.6-inch) Liquid Retlina Display, 8GB RAM, 256GB SSD Storage, Backlit Keyboard, 1080p FaceTime HD Camera. Works with iPhone/iPad; Space Grey",
+      "id": "l69",
       "rating": "4.4 out of 5 stars",
       "stock": "7",
       "price": "₹1,05,500",
-      " original_price": "₹1,19,900",
+      "original": "₹1,19,900",
       "discount": "(12% off)"
     },
     {
       "images": "https://m.media-amazon.com/images/I/71S8U9VzLTL._AC_UL320_.jpg",
       "title": "ASUS ASUS VivoBook 15 (2021), 15.6\" (39.62 cms) HD, AMD Ryzen 3-3250U, Thin and Light Laptop (8GB/256GB SSD/Windows 11/Integrated Graphics/Silver/1.8 kg), M515DA-BR322WS",
-      "a-popover-trigger href": "javascript:void(0)",
+      "id": "l70",
       "rating": "4.0 out of 5 stars",
       "stock": "366",
       "price": "₹29,990",
-      " original_price": "₹43,990",
+      "original": "₹43,990",
       "discount": "(32% off)"
     }
   ],
@@ -1604,8 +1495,8 @@
       "rating": "4.0 out of 5 stars",
       "stock": "1,168",
       "price": "₹7,950",
-      "a-price-symbol": "₹",
-      " originalPrice": "₹14,990",
+      "id": "e1",
+      "original": "₹14,990",
       "discount": "(47% off)"
     },
     {
@@ -1614,8 +1505,8 @@
       "rating": "4.4 out of 5 stars",
       "stock": "1,059",
       "price": "₹1,399",
-      "a-price-symbol": "₹",
-      " originalPrice": "₹4,263",
+      "id": "e2",
+      "original": "₹4,263",
       "discount": "(67% off)"
     },
     {
@@ -1624,8 +1515,8 @@
       "rating": "",
       "stock": "Only 1 left in stock.",
       "price": "₹180",
-      "a-price-symbol": "₹",
-      " originalPrice": "₹200",
+      "id": "e3",
+      "original": "₹200",
       "discount": "(10% off)"
     },
     {
@@ -1634,8 +1525,8 @@
       "rating": "4.2 out of 5 stars",
       "stock": "74,307",
       "price": "₹1,699",
-      "a-price-symbol": "₹",
-      " originalPrice": "₹2,299",
+      "id": "e4",
+      "original": "₹2,299",
       "discount": "(26% off)"
     },
     {
@@ -1644,8 +1535,8 @@
       "rating": "4.2 out of 5 stars",
       "stock": "74,307",
       "price": "₹1,699",
-      "a-price-symbol": "₹",
-      " originalPrice": "₹2,299",
+      "id": "e5",
+      "original": "₹2,299",
       "discount": "(26% off)"
     },
     {
@@ -1654,8 +1545,8 @@
       "rating": "3.9 out of 5 stars",
       "stock": "131,740",
       "price": "₹1,499",
-      "a-price-symbol": "₹",
-      " originalPrice": "₹4,490",
+      "id": "e6",
+      "original": "₹4,490",
       "discount": "(67% off)"
     },
     {
@@ -1664,8 +1555,8 @@
       "rating": "4.1 out of 5 stars",
       "stock": "361,129",
       "price": "₹365",
-      "a-price-symbol": "₹",
-      " originalPrice": "₹999",
+      "id": "e7",
+      "original": "₹999",
       "discount": "(63% off)"
     },
     {
@@ -1674,8 +1565,8 @@
       "rating": "4.3 out of 5 stars",
       "stock": "13,755",
       "price": "₹2,499",
-      "a-price-symbol": "₹",
-      " originalPrice": "₹2,999",
+      "id": "e8",
+      "original": "₹2,999",
       "discount": "(17% off)"
     },
     {
@@ -1684,8 +1575,8 @@
       "rating": "4.0 out of 5 stars",
       "stock": "916",
       "price": "₹1,399",
-      "a-price-symbol": "₹",
-      " originalPrice": "₹4,490",
+      "id": "e9",
+      "original": "₹4,490",
       "discount": "(69% off)"
     },
     {
@@ -1694,8 +1585,8 @@
       "rating": "3.8 out of 5 stars",
       "stock": "170,028",
       "price": "₹1,199",
-      "a-price-symbol": "₹",
-      " originalPrice": "₹2,990",
+      "id": "e10",
+      "original": "₹2,990",
       "discount": "(60% off)"
     },
     {
@@ -1704,8 +1595,8 @@
       "rating": "4.2 out of 5 stars",
       "stock": "74,307",
       "price": "₹1,699",
-      "a-price-symbol": "₹",
-      " originalPrice": "₹2,299",
+      "id": "e11",
+      "original": "₹2,299",
       "discount": "(26% off)"
     },
     {
@@ -1714,8 +1605,8 @@
       "rating": "",
       "stock": "",
       "price": "₹1,599",
-      "a-price-symbol": "₹",
-      " originalPrice": "₹3,499",
+      "id": "e12",
+      "original": "₹3,499",
       "discount": "(54% off)"
     },
     {
@@ -1724,8 +1615,8 @@
       "rating": "4.1 out of 5 stars",
       "stock": "19",
       "price": "₹649",
-      "a-price-symbol": "₹",
-      " originalPrice": "₹1,499",
+      "id": "e13",
+      "original": "₹1,499",
       "discount": "(57% off)"
     },
     {
@@ -1734,8 +1625,8 @@
       "rating": "",
       "stock": "",
       "price": "₹990",
-      "a-price-symbol": "₹",
-      " originalPrice": "₹3,399",
+      "id": "e14",
+      "original": "₹3,399",
       "discount": "(71% off)"
     },
     {
@@ -1744,18 +1635,18 @@
       "rating": "",
       "stock": "Only 1 left in stock.",
       "price": "₹300",
-      "a-price-symbol": "₹",
-      " originalPrice": "₹599",
+      "id": "e15",
+      "original": "₹599",
       "discount": "(50% off)"
     },
     {
       "images": "https://m.media-amazon.com/images/I/51tFAbNRaPL._AC_UL320_.jpg",
-      "title": "boAt Airdopes 141 True Wireless In Ear Earbuds with mic, 42H Playtime, BeastMode(Low Latency Upto 80ms) for Gaming, ENx Tech, ASAP Charge, IWP, IPX4 Water Resistance, Smooth Touch Controls(Cider Cyan)",
+      "title": "boAt Airdopes 141 True Wireless In Ear Earbuds with mic, 42H Playtime, BeastMode(Low Latency Upto 80ms) for Gaming, ENx Tech, ASAP Charge, IWP, IPX4 Water Resistance, Smooth Touch Controls(Cider Clyan)",
       "rating": "3.9 out of 5 stars",
       "stock": "131,740",
       "price": "₹1,499",
-      "a-price-symbol": "₹",
-      " originalPrice": "₹4,490",
+      "id": "e16",
+      "original": "₹4,490",
       "discount": "(67% off)"
     },
     {
@@ -1764,8 +1655,8 @@
       "rating": "4.1 out of 5 stars",
       "stock": "191,692",
       "price": "₹599",
-      "a-price-symbol": "₹",
-      " originalPrice": "₹1,299",
+      "id": "e17",
+      "original": "₹1,299",
       "discount": "(54% off)"
     },
     {
@@ -1774,8 +1665,8 @@
       "rating": "3.9 out of 5 stars",
       "stock": "131,740",
       "price": "₹1,499",
-      "a-price-symbol": "₹",
-      " originalPrice": "₹4,490",
+      "id": "e18",
+      "original": "₹4,490",
       "discount": "(67% off)"
     },
     {
@@ -1784,8 +1675,8 @@
       "rating": "4.1 out of 5 stars",
       "stock": "138,486",
       "price": "₹1,399",
-      "a-price-symbol": "₹",
-      " originalPrice": "₹3,990",
+      "id": "e19",
+      "original": "₹3,990",
       "discount": "(65% off)"
     },
     {
@@ -1794,8 +1685,8 @@
       "rating": "3.6 out of 5 stars",
       "stock": "20,823",
       "price": "₹149",
-      "a-price-symbol": "₹",
-      " originalPrice": "₹399",
+      "id": "e20",
+      "original": "₹399",
       "discount": "(63% off)"
     },
     {
@@ -1804,8 +1695,8 @@
       "rating": "4.3 out of 5 stars",
       "stock": "4,419",
       "price": "₹2,499",
-      "a-price-symbol": "₹",
-      " originalPrice": "₹2,999",
+      "id": "e21",
+      "original": "₹2,999",
       "discount": "(17% off)"
     },
     {
@@ -1814,8 +1705,8 @@
       "rating": "4.0 out of 5 stars",
       "stock": "111",
       "price": "₹299",
-      "a-price-symbol": "₹",
-      " originalPrice": "₹1,290",
+      "id": "e22",
+      "original": "₹1,290",
       "discount": "(77% off)"
     },
     {
@@ -1824,8 +1715,8 @@
       "rating": "3.8 out of 5 stars",
       "stock": "170,028",
       "price": "₹1,199",
-      "a-price-symbol": "₹",
-      " originalPrice": "₹2,990",
+      "id": "e23",
+      "original": "₹2,990",
       "discount": "(60% off)"
     },
     {
@@ -1834,8 +1725,8 @@
       "rating": "3.4 out of 5 stars",
       "stock": "61,112",
       "price": "₹799",
-      "a-price-symbol": "₹",
-      " originalPrice": "₹2,599",
+      "id": "e24",
+      "original": "₹2,599",
       "discount": "(69% off)"
     },
     {
@@ -1844,8 +1735,8 @@
       "rating": "4.1 out of 5 stars",
       "stock": "14,494",
       "price": "₹499",
-      "a-price-symbol": "₹",
-      " originalPrice": "₹599",
+      "id": "e25",
+      "original": "₹599",
       "discount": "(17% off)"
     },
     {
@@ -1854,8 +1745,8 @@
       "rating": "3.9 out of 5 stars",
       "stock": "57,314",
       "price": "₹599",
-      "a-price-symbol": "₹",
-      " originalPrice": "₹2,499",
+      "id": "e26",
+      "original": "₹2,499",
       "discount": "(76% off)"
     },
     {
@@ -1864,8 +1755,8 @@
       "rating": "3.9 out of 5 stars",
       "stock": "85,675",
       "price": "₹1,199",
-      "a-price-symbol": "₹",
-      " originalPrice": "₹2,990",
+      "id": "e27",
+      "original": "₹2,990",
       "discount": "(60% off)"
     },
     {
@@ -1874,8 +1765,8 @@
       "rating": "4.2 out of 5 stars",
       "stock": "90,889",
       "price": "₹449",
-      "a-price-symbol": "₹",
-      " originalPrice": "₹1,290",
+      "id": "e28",
+      "original": "₹1,290",
       "discount": "(65% off)"
     },
     {
@@ -1884,8 +1775,8 @@
       "rating": "4.0 out of 5 stars",
       "stock": "1,447",
       "price": "₹599",
-      "a-price-symbol": "₹",
-      " originalPrice": "₹1,299",
+      "id": "e29",
+      "original": "₹1,299",
       "discount": "(54% off)"
     },
     {
@@ -1894,8 +1785,8 @@
       "rating": "3.9 out of 5 stars",
       "stock": "91,757",
       "price": "₹499",
-      "a-price-symbol": "₹",
-      " originalPrice": "₹999",
+      "id": "e30",
+      "original": "₹999",
       "discount": "(50% off)"
     },
     {
@@ -1904,8 +1795,8 @@
       "rating": "",
       "stock": "",
       "price": "₹699",
-      "a-price-symbol": "₹",
-      " originalPrice": "₹1,499",
+      "id": "e31",
+      "original": "₹1,499",
       "discount": "(53% off)"
     },
     {
@@ -1914,8 +1805,8 @@
       "rating": "",
       "stock": "Only 1 left in stock.",
       "price": "₹1,499",
-      "a-price-symbol": "₹",
-      " originalPrice": "₹2,499",
+      "id": "e32",
+      "original": "₹2,499",
       "discount": "(40% off)"
     },
     {
@@ -1924,8 +1815,8 @@
       "rating": "3.1 out of 5 stars",
       "stock": "98",
       "price": "₹1,049",
-      "a-price-symbol": "₹",
-      " originalPrice": "₹2,999",
+      "id": "e33",
+      "original": "₹2,999",
       "discount": "(65% off)"
     },
     {
@@ -1934,8 +1825,8 @@
       "rating": "3.9 out of 5 stars",
       "stock": "60,624",
       "price": "₹799",
-      "a-price-symbol": "₹",
-      " originalPrice": "₹2,999",
+      "id": "e34",
+      "original": "₹2,999",
       "discount": "(73% off)"
     },
     {
@@ -1944,8 +1835,8 @@
       "rating": "3.9 out of 5 stars",
       "stock": "60,624",
       "price": "₹799",
-      "a-price-symbol": "₹",
-      " originalPrice": "₹2,999",
+      "id": "e35",
+      "original": "₹2,999",
       "discount": "(73% off)"
     },
     {
@@ -1954,8 +1845,8 @@
       "rating": "4.0 out of 5 stars",
       "stock": "11,712",
       "price": "₹399",
-      "a-price-symbol": "₹",
-      " originalPrice": "₹1,299",
+      "id": "e36",
+      "original": "₹1,299",
       "discount": "(69% off)"
     },
     {
@@ -1964,8 +1855,8 @@
       "rating": "4.2 out of 5 stars",
       "stock": "42,602",
       "price": "₹1,499",
-      "a-price-symbol": "₹",
-      " originalPrice": "₹3,999",
+      "id": "e37",
+      "original": "₹3,999",
       "discount": "(63% off)"
     },
     {
@@ -1974,8 +1865,8 @@
       "rating": "4.0 out of 5 stars",
       "stock": "11,712",
       "price": "₹399",
-      "a-price-symbol": "₹",
-      " originalPrice": "₹1,299",
+      "id": "e38",
+      "original": "₹1,299",
       "discount": "(69% off)"
     },
     {
@@ -1984,8 +1875,8 @@
       "rating": "4.0 out of 5 stars",
       "stock": "11,712",
       "price": "₹299",
-      "a-price-symbol": "₹",
-      " originalPrice": "₹1,299",
+      "id": "e39",
+      "original": "₹1,299",
       "discount": "(77% off)"
     },
     {
@@ -1994,8 +1885,8 @@
       "rating": "3.4 out of 5 stars",
       "stock": "381",
       "price": "₹1,399",
-      "a-price-symbol": "₹",
-      " originalPrice": "₹5,999",
+      "id": "e40",
+      "original": "₹5,999",
       "discount": "(77% off)"
     },
     {
@@ -2004,8 +1895,8 @@
       "rating": "4.2 out of 5 stars",
       "stock": "42,602",
       "price": "₹1,599",
-      "a-price-symbol": "₹",
-      " originalPrice": "₹3,499",
+      "id": "e41",
+      "original": "₹3,499",
       "discount": "(54% off)"
     },
     {
@@ -2014,8 +1905,8 @@
       "rating": "4.2 out of 5 stars",
       "stock": "42,602",
       "price": "₹1,599",
-      "a-price-symbol": "₹",
-      " originalPrice": "₹3,499",
+      "id": "e42",
+      "original": "₹3,499",
       "discount": "(54% off)"
     },
     {
@@ -2024,8 +1915,8 @@
       "rating": "3.3 out of 5 stars",
       "stock": "51",
       "price": "",
-      "a-price-symbol": "",
-      " originalPrice": "",
+      "id": "e43",
+      "original": "",
       "discount": ""
     },
     {
@@ -2034,8 +1925,8 @@
       "rating": "3.8 out of 5 stars",
       "stock": "1,313",
       "price": "₹999",
-      "a-price-symbol": "₹",
-      " originalPrice": "₹2,999",
+      "id": "e44",
+      "original": "₹2,999",
       "discount": "(66% off)"
     },
     {
@@ -2044,8 +1935,8 @@
       "rating": "3.8 out of 5 stars",
       "stock": "22",
       "price": "₹1,899",
-      "a-price-symbol": "₹",
-      " originalPrice": "₹3,999",
+      "id": "e45",
+      "original": "₹3,999",
       "discount": "(53% off)"
     },
     {
@@ -2054,8 +1945,8 @@
       "rating": "4.0 out of 5 stars",
       "stock": "1,094",
       "price": "₹823",
-      "a-price-symbol": "₹",
-      " originalPrice": "₹2,999",
+      "id": "e46",
+      "original": "₹2,999",
       "discount": "(72% off)"
     },
     {
@@ -2064,8 +1955,8 @@
       "rating": "3.3 out of 5 stars",
       "stock": "25",
       "price": "",
-      "a-price-symbol": "",
-      " originalPrice": "",
+      "id": "e47",
+      "original": "",
       "discount": ""
     },
     {
@@ -2074,8 +1965,8 @@
       "rating": "4.2 out of 5 stars",
       "stock": "42,602",
       "price": "₹1,599",
-      "a-price-symbol": "₹",
-      " originalPrice": "₹3,499",
+      "id": "e48",
+      "original": "₹3,499",
       "discount": "(54% off)"
     },
     {
@@ -2084,8 +1975,8 @@
       "rating": "3.1 out of 5 stars",
       "stock": "5",
       "price": "₹519",
-      "a-price-symbol": "₹",
-      " originalPrice": "₹699",
+      "id": "e49",
+      "original": "₹699",
       "discount": "(26% off)"
     },
     {
@@ -2094,8 +1985,8 @@
       "rating": "3.7 out of 5 stars",
       "stock": "379",
       "price": "",
-      "a-price-symbol": "",
-      " originalPrice": "",
+      "id": "e50",
+      "original": "",
       "discount": ""
     },
     {
@@ -2104,8 +1995,8 @@
       "rating": "3.7 out of 5 stars",
       "stock": "379",
       "price": "",
-      "a-price-symbol": "",
-      " originalPrice": "",
+      "id": "e51",
+      "original": "",
       "discount": ""
     },
     {
@@ -2114,8 +2005,8 @@
       "rating": "3.3 out of 5 stars",
       "stock": "51",
       "price": "",
-      "a-price-symbol": "",
-      " originalPrice": "",
+      "id": "e52",
+      "original": "",
       "discount": ""
     },
     {
@@ -2124,8 +2015,8 @@
       "rating": "3.3 out of 5 stars",
       "stock": "15",
       "price": "₹999",
-      "a-price-symbol": "₹",
-      " originalPrice": "₹2,499",
+      "id": "e53",
+      "original": "₹2,499",
       "discount": "(60% off)"
     },
     {
@@ -2134,8 +2025,8 @@
       "rating": "4.0 out of 5 stars",
       "stock": "65",
       "price": "₹799",
-      "a-price-symbol": "₹",
-      " originalPrice": "₹999",
+      "id": "e54",
+      "original": "₹999",
       "discount": "(20% off)"
     },
     {
@@ -2144,8 +2035,8 @@
       "rating": "3.8 out of 5 stars",
       "stock": "22",
       "price": "₹1,799",
-      "a-price-symbol": "₹",
-      " originalPrice": "₹3,999",
+      "id": "e55",
+      "original": "₹3,999",
       "discount": "(55% off)"
     },
     {
@@ -2154,8 +2045,8 @@
       "rating": "3.1 out of 5 stars",
       "stock": "7",
       "price": "₹1,199",
-      "a-price-symbol": "₹",
-      " originalPrice": "₹2,999",
+      "id": "e56",
+      "original": "₹2,999",
       "discount": "(60% off)"
     },
     {
@@ -2164,8 +2055,8 @@
       "rating": "4.0 out of 5 stars",
       "stock": "65",
       "price": "₹799",
-      "a-price-symbol": "₹",
-      " originalPrice": "₹999",
+      "id": "e57",
+      "original": "₹999",
       "discount": "(20% off)"
     },
     {
@@ -2174,8 +2065,8 @@
       "rating": "4.2 out of 5 stars",
       "stock": "74,307",
       "price": "₹1,699",
-      "a-price-symbol": "₹",
-      " originalPrice": "₹2,299",
+      "id": "e58",
+      "original": "₹2,299",
       "discount": "(26% off)"
     },
     {
@@ -2184,8 +2075,8 @@
       "rating": "4.2 out of 5 stars",
       "stock": "74,307",
       "price": "₹1,699",
-      "a-price-symbol": "₹",
-      " originalPrice": "₹2,299",
+      "id": "e59",
+      "original": "₹2,299",
       "discount": "(26% off)"
     },
     {
@@ -2194,8 +2085,8 @@
       "rating": "4.3 out of 5 stars",
       "stock": "13,755",
       "price": "₹2,499",
-      "a-price-symbol": "₹",
-      " originalPrice": "₹2,999",
+      "id": "e60",
+      "original": "₹2,999",
       "discount": "(17% off)"
     },
     {
@@ -2204,8 +2095,8 @@
       "rating": "4.2 out of 5 stars",
       "stock": "74,307",
       "price": "₹1,699",
-      "a-price-symbol": "₹",
-      " originalPrice": "₹2,299",
+      "id": "e61",
+      "original": "₹2,299",
       "discount": "(26% off)"
     },
     {
@@ -2214,8 +2105,8 @@
       "rating": "4.3 out of 5 stars",
       "stock": "4,419",
       "price": "₹2,499",
-      "a-price-symbol": "₹",
-      " originalPrice": "₹2,999",
+      "id": "e62",
+      "original": "₹2,999",
       "discount": "(17% off)"
     },
     {
@@ -2224,8 +2115,8 @@
       "rating": "4.0 out of 5 stars",
       "stock": "1,447",
       "price": "₹599",
-      "a-price-symbol": "₹",
-      " originalPrice": "₹1,299",
+      "id": "e63",
+      "original": "₹1,299",
       "discount": "(54% off)"
     },
     {
@@ -2234,8 +2125,8 @@
       "rating": "4.2 out of 5 stars",
       "stock": "14,993",
       "price": "₹4,499",
-      "a-price-symbol": "₹",
-      " originalPrice": "₹5,999",
+      "id": "e64",
+      "original": "₹5,999",
       "discount": "(25% off)"
     },
     {
@@ -2244,8 +2135,8 @@
       "rating": "4.2 out of 5 stars",
       "stock": "3,574",
       "price": "₹2,499",
-      "a-price-symbol": "₹",
-      " originalPrice": "₹2,999",
+      "id": "e65",
+      "original": "₹2,999",
       "discount": "(17% off)"
     },
     {
@@ -2254,8 +2145,8 @@
       "rating": "5.0 out of 5 stars",
       "stock": "3",
       "price": "₹1,899",
-      "a-price-symbol": "₹",
-      " originalPrice": "₹2,699",
+      "id": "e66",
+      "original": "₹2,699",
       "discount": "(30% off)"
     },
     {
@@ -2264,8 +2155,8 @@
       "rating": "4.2 out of 5 stars",
       "stock": "14,993",
       "price": "₹4,499",
-      "a-price-symbol": "₹",
-      " originalPrice": "₹5,999",
+      "id": "e67",
+      "original": "₹5,999",
       "discount": "(25% off)"
     },
     {
@@ -2274,8 +2165,8 @@
       "rating": "4.3 out of 5 stars",
       "stock": "12,782",
       "price": "₹8,990",
-      "a-price-symbol": "₹",
-      " originalPrice": "₹11,990",
+      "id": "e68",
+      "original": "₹11,990",
       "discount": "(25% off)"
     },
     {
@@ -2284,8 +2175,8 @@
       "rating": "3.8 out of 5 stars",
       "stock": "5",
       "price": "₹1,899",
-      "a-price-symbol": "₹",
-      " originalPrice": "₹2,699",
+      "id": "e69",
+      "original": "₹2,699",
       "discount": "(30% off)"
     },
     {
@@ -2294,8 +2185,8 @@
       "rating": "3.8 out of 5 stars",
       "stock": "14,074",
       "price": "₹1,099",
-      "a-price-symbol": "₹",
-      " originalPrice": "₹2,999",
+      "id": "e70",
+      "original": "₹2,999",
       "discount": "(63% off)"
     },
     {
@@ -2304,8 +2195,8 @@
       "rating": "3.8 out of 5 stars",
       "stock": "14,074",
       "price": "₹1,099",
-      "a-price-symbol": "₹",
-      " originalPrice": "₹2,999",
+      "id": "e71",
+      "original": "₹2,999",
       "discount": "(63% off)"
     },
     {
@@ -2314,8 +2205,8 @@
       "rating": "3.9 out of 5 stars",
       "stock": "11,606",
       "price": "₹1,499",
-      "a-price-symbol": "₹",
-      " originalPrice": "₹3,499",
+      "id": "e72",
+      "original": "₹3,499",
       "discount": "(57% off)"
     },
     {
@@ -2324,8 +2215,8 @@
       "rating": "3.9 out of 5 stars",
       "stock": "3,161",
       "price": "₹1,699",
-      "a-price-symbol": "₹",
-      " originalPrice": "₹3,999",
+      "id": "e73",
+      "original": "₹3,999",
       "discount": "(58% off)"
     },
     {
@@ -2334,8 +2225,8 @@
       "rating": "3.8 out of 5 stars",
       "stock": "14,074",
       "price": "₹1,099",
-      "a-price-symbol": "₹",
-      " originalPrice": "₹2,999",
+      "id": "e74",
+      "original": "₹2,999",
       "discount": "(63% off)"
     },
     {
@@ -2344,8 +2235,8 @@
       "rating": "3.7 out of 5 stars",
       "stock": "7,602",
       "price": "₹799",
-      "a-price-symbol": "₹",
-      " originalPrice": "₹2,499",
+      "id": "e75",
+      "original": "₹2,499",
       "discount": "(68% off)"
     },
     {
@@ -2354,8 +2245,8 @@
       "rating": "3.6 out of 5 stars",
       "stock": "23,334",
       "price": "₹1,599",
-      "a-price-symbol": "₹",
-      " originalPrice": "₹5,999",
+      "id": "e76",
+      "original": "₹5,999",
       "discount": "(73% off)"
     },
     {
@@ -2364,8 +2255,8 @@
       "rating": "3.9 out of 5 stars",
       "stock": "11,606",
       "price": "₹1,499",
-      "a-price-symbol": "₹",
-      " originalPrice": "₹3,499",
+      "id": "e77",
+      "original": "₹3,499",
       "discount": "(57% off)"
     },
     {
@@ -2374,8 +2265,8 @@
       "rating": "3.9 out of 5 stars",
       "stock": "869",
       "price": "₹1,699",
-      "a-price-symbol": "₹",
-      " originalPrice": "₹4,999",
+      "id": "e78",
+      "original": "₹4,999",
       "discount": "(66% off)"
     },
     {
@@ -2384,8 +2275,8 @@
       "rating": "3.8 out of 5 stars",
       "stock": "1,413",
       "price": "₹1,199",
-      "a-price-symbol": "₹",
-      " originalPrice": "₹3,499",
+      "id": "e79",
+      "original": "₹3,499",
       "discount": "(66% off)"
     },
     {
@@ -2394,8 +2285,8 @@
       "rating": "3.9 out of 5 stars",
       "stock": "3,161",
       "price": "₹1,699",
-      "a-price-symbol": "₹",
-      " originalPrice": "₹3,999",
+      "id": "e80",
+      "original": "₹3,999",
       "discount": "(58% off)"
     },
     {
@@ -2404,8 +2295,8 @@
       "rating": "3.9 out of 5 stars",
       "stock": "869",
       "price": "₹1,699",
-      "a-price-symbol": "₹",
-      " originalPrice": "₹4,999",
+      "id": "e81",
+      "original": "₹4,999",
       "discount": "(66% off)"
     },
     {
@@ -2414,8 +2305,8 @@
       "rating": "3.3 out of 5 stars",
       "stock": "19",
       "price": "₹1,199",
-      "a-price-symbol": "₹",
-      " originalPrice": "₹2,999",
+      "id": "e82",
+      "original": "₹2,999",
       "discount": "(60% off)"
     },
     {
@@ -2424,8 +2315,8 @@
       "rating": "3.9 out of 5 stars",
       "stock": "11,606",
       "price": "₹1,499",
-      "a-price-symbol": "₹",
-      " originalPrice": "₹3,499",
+      "id": "e83",
+      "original": "₹3,499",
       "discount": "(57% off)"
     },
     {
@@ -2434,8 +2325,8 @@
       "rating": "3.7 out of 5 stars",
       "stock": "52",
       "price": "₹1,899",
-      "a-price-symbol": "₹",
-      " originalPrice": "₹4,999",
+      "id": "e84",
+      "original": "₹4,999",
       "discount": "(62% off)"
     },
     {
@@ -2444,8 +2335,8 @@
       "rating": "3.3 out of 5 stars",
       "stock": "19",
       "price": "₹1,199",
-      "a-price-symbol": "₹",
-      " originalPrice": "₹2,999",
+      "id": "e85",
+      "original": "₹2,999",
       "discount": "(60% off)"
     },
     {
@@ -2454,8 +2345,8 @@
       "rating": "3.7 out of 5 stars",
       "stock": "52",
       "price": "₹1,899",
-      "a-price-symbol": "₹",
-      " originalPrice": "₹4,999",
+      "id": "e86",
+      "original": "₹4,999",
       "discount": "(62% off)"
     },
     {
@@ -2464,8 +2355,8 @@
       "rating": "3.7 out of 5 stars",
       "stock": "22,582",
       "price": "₹1,799",
-      "a-price-symbol": "₹",
-      " originalPrice": "₹3,999",
+      "id": "e87",
+      "original": "₹3,999",
       "discount": "(55% off)"
     },
     {
@@ -2474,8 +2365,8 @@
       "rating": "3.9 out of 5 stars",
       "stock": "869",
       "price": "₹1,699",
-      "a-price-symbol": "₹",
-      " originalPrice": "₹4,999",
+      "id": "e88",
+      "original": "₹4,999",
       "discount": "(66% off)"
     },
     {
@@ -2484,8 +2375,8 @@
       "rating": "3.7 out of 5 stars",
       "stock": "5,980",
       "price": "₹1,399",
-      "a-price-symbol": "₹",
-      " originalPrice": "₹3,499",
+      "id": "e89",
+      "original": "₹3,499",
       "discount": "(60% off)"
     },
     {
@@ -2494,8 +2385,8 @@
       "rating": "3.7 out of 5 stars",
       "stock": "7,602",
       "price": "₹799",
-      "a-price-symbol": "₹",
-      " originalPrice": "₹2,499",
+      "id": "e90",
+      "original": "₹2,499",
       "discount": "(68% off)"
     },
     {
@@ -2504,8 +2395,8 @@
       "rating": "3.6 out of 5 stars",
       "stock": "23,334",
       "price": "₹1,599",
-      "a-price-symbol": "₹",
-      " originalPrice": "₹5,499",
+      "id": "e91",
+      "original": "₹5,499",
       "discount": "(71% off)"
     },
     {
@@ -2514,8 +2405,8 @@
       "rating": "3.9 out of 5 stars",
       "stock": "19,502",
       "price": "₹1,099",
-      "a-price-symbol": "₹",
-      " originalPrice": "₹2,999",
+      "id": "e92",
+      "original": "₹2,999",
       "discount": "(63% off)"
     },
     {
@@ -2524,8 +2415,8 @@
       "rating": "3.7 out of 5 stars",
       "stock": "22,582",
       "price": "₹1,799",
-      "a-price-symbol": "₹",
-      " originalPrice": "₹3,999",
+      "id": "e93",
+      "original": "₹3,999",
       "discount": "(55% off)"
     }
   ]
